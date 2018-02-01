@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publikasi BPRBKK
-description: "Transparansi Kesehatan Perbankan PD. BPR BKK"
+description: "Transparansi Kesehatan: Perbankan PD. BPR BKK"
 header-img: "images/publikasi.jpg"
 ---
 ## Tahun 2017

@@ -10,6 +10,7 @@ header-img: "images/publikasi.jpg"
 --------------- | ------- | ------------- |
 I				| 2017				| [Download](/publikasi/2017/201703.pdf)
 II				| 2017				| [Download](/publikasi/2017/201706.pdf)
+III				| 2017				| [Download](/publikasi/2017/201709.pdf)
 
 ## Tahun 2016
 

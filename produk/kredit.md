@@ -115,7 +115,7 @@ Fasilitas kredit yang diberikan untuk badan usaha/kelompok/koperasi dalam bentuk
 #### PERSYARATAN:
 
 - Warga Negara Indonesia (WNI);
-- Pengurus dan Lembaganya tidak tergolong dalam daftar black list di Bank Indonesia;
+- Pengurus dan Lembaganya tidak tergolong dalam daftar black list di Otoritas Jasa Keuangan;
 - Usaha telah berjalan minimal 1 tahun;
 - Mengisi formulir aplikasi;
 - Kartu keluarga (KK) dan KTP suami isteri;
@@ -138,7 +138,7 @@ Fasilitas kredit yang diberikan untuk Perangkat Desa dalam bentuk kredit modal k
 
 - Warga Negara Indonesia (WNI);
 - Bekerja sebagai Perangkat Desa Di wilayah Kabupaten Wonogiri
-- Tidak tergolong dalam daftar black list di Bank Indonesia;
+- Tidak tergolong dalam daftar black list di Otoritas Jasa Keuangan;
 - Usaha telah berjalan minimal 1 tahun;
 - Mengisi formulir aplikasi;
 - Kartu keluarga (KK) dan KTP suami isteri;
@@ -160,7 +160,7 @@ Fasilitas kredit yang diberikan untuk masyarakat dalam bentuk kredit kepemilikan
 #### PERSYARATAN:
 
 - Warga Negara Indonesia (WNI);
-- Tidak tergolong dalam daftar black list di Bank Indonesia;
+- Tidak tergolong dalam daftar black list di Otoritas Jasa Keuangan;
 - Usaha telah berjalan minimal 1 tahun;
 - Mengisi formulir aplikasi;
 - Kartu keluarga (KK) dan KTP suami isteri;
@@ -181,7 +181,7 @@ Fasilitas kredit yang diberikan untuk masyarakat usaha kecil dalam bentuk kredit
 #### PERSYARATAN:
 
 - Warga Negara Indonesia (WNI);
-- Tidak tergolong dalam daftar black list di Bank Indonesia;
+- Tidak tergolong dalam daftar black list di Otoritas Jasa Keuangan;
 - Usaha telah berjalan minimal 1 tahun;
 - Mengisi formulir aplikasi;
 - Kartu keluarga (KK) dan KTP suami isteri;
@@ -197,23 +197,21 @@ Fasilitas kredit yang diberikan untuk masyarakat usaha kecil dalam bentuk kredit
 
 
 
-## Kredit Mentari
+## Kredit MeNTaRi
 
-Fasilitas kredit yang diberikan untuk masyarakat usaha kecil dalam bentuk kredit modal kerja dengan jangka waktu kredit maksimal s/d 3 tahun.
+Fasilitas kredit yang diberikan kepada masyarakat khususnya untuk pedagang pasar, oprokan, kuli panggul dan tukang parkir Dengan maksud agar terhindar dari jeratan rentenir
 
 #### PERSYARATAN:
 
 - Warga Negara Indonesia (WNI);
-- Tidak tergolong dalam daftar black list di Bank Indonesia;
-- Usaha telah berjalan minimal 1 tahun;
+- Tidak tergolong dalam daftar black list di Otoritas Jasa Keuangan;
 - Mengisi formulir aplikasi;
 - Kartu keluarga (KK) dan KTP suami isteri;
 - Surat Nikah (bagi yang telah menikah);
-- Surat ijin usaha (SIUP, TDP, HO dan SITU);
 
 #### KEUNGGULAN:
 
 - Proses lebih cepat dengan persyaratan mudah;
-- Suku bunga bersaing dengan jangka waktu hingga 3 tahun;
-- Plafond hingga maksimal Rp.25 juta;
-- Suku bunga 9 % / tahun.
+- Suku bunga bersaing dengan jangka waktu hingga 24 bulan;
+- Plafond maksimal Rp.2 juta;
+- Suku bunga 3 % / tahun.

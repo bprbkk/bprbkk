@@ -199,7 +199,7 @@ Fasilitas kredit yang diberikan untuk masyarakat usaha kecil dalam bentuk kredit
 
 ## Kredit MeNTaRi
 
-Fasilitas kredit yang diberikan kepada masyarakat khususnya untuk pedagang pasar, oprokan, kuli panggul dan tukang parkir Dengan maksud agar terhindar dari jeratan rentenir
+Fasilitas kredit yang diberikan kepada masyarakat khususnya untuk pedagang kecil, pedagan oprokan, tukang parkir, kuli panggul maupun pedagang candak kulak Dengan maksud agar terhindar dari jeratan rentenir
 
 #### PERSYARATAN:
 
@@ -212,6 +212,7 @@ Fasilitas kredit yang diberikan kepada masyarakat khususnya untuk pedagang pasar
 #### KEUNGGULAN:
 
 - Proses lebih cepat dengan persyaratan mudah;
-- Suku bunga bersaing dengan jangka waktu hingga 24 bulan;
+- Suku bunga bersaing dengan jangka waktu hingga 12 bulan;
 - Plafond maksimal Rp.2 juta;
-- Suku bunga 3 % / tahun.
+- Suku bunga 3 % / tahun;
+- Tanpa agunan dan biaya provisi, administrasi;

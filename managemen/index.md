@@ -72,7 +72,7 @@ layout: staff
 	<div class="dummy dummy-avatar" id="skai">
 	<h2>SKAI</h2>
 		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/bambang1.jpg" alt="Bambang,SE"/><h4>Bambang,SE</h4></a>
+		<a href="#"><img src="/images/managemen/bambang.jpg" alt="Bambang,SE"/><h4>Bambang,SE</h4></a>
 		<span class="tooltip-content">Kepala SKAI PD BPR BKK Wonogiri</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">

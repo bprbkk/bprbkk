@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 12 Tahun Merger PD. BPR BKK WONOGIRI
-subtitle:   "Kemilau Tabungan Sicipta."
+subtitle:   "Kemilau Tabungan Sicipta--."
 description: ""
 author: "Remenbis"
 date: 2018-02-02 14:44:00

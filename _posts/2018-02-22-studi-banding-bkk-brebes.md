@@ -5,7 +5,7 @@ subtitle:   "Tentang Penerapan Penilaian Kinerja Karyawan."
 description: ""
 author: "Haryono"
 date: 2018-02-22 14:44:00
-header-img: "images/blog/2018/bkk brebes.jpg"
+header-img: "images/blog/2018/bkk brebes.png"
 ---
 
 

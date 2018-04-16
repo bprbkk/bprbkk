@@ -11,4 +11,4 @@ header-img: "images/blog/2017/Loker3.jpg"
 <div style="text-align: justify;">Wonogiri - Senin, 16 April 2018. 
 Dengan ini memberitahukan bahwa PD BPR BKK WONOGIRI akan menyelenggarakan seleksi penerimaan PEGAWAI KONTRAK
 formasi tahun 2018.</div>
-[Info lengkap download disini](/publikasi/Loker/Loker2017.pdf)
+[Info lengkap download disini](/publikasi/Loker/Loker2018.pdf)

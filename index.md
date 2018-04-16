@@ -29,7 +29,7 @@ layout: home
                 <h1 class="text has_hide "> <br/>&laquo; Info Lowongan Kerja 2017
 				&laquo;                                    </h1>
                 <div class="form-cont has_hide">
-                    <a href="publikasi/Loker/Loker2017.pdf" class="buynow btn btn-success">Download disini</a>
+                    <a href="publikasi/Loker/Loker2018.pdf" class="buynow btn btn-success">Download disini</a>
                 </div>
             </div>
         </div>

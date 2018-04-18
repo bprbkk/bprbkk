@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Info Lowongan Pekerjaan PD BPR BKK Wonogiri
-subtitle:   "Info Lowongan Pekerjaan 2018."
+subtitle:   "Formasi 2018."
 description: ""
 author: "cakpri"
 date: 2018-04-16 09:15:00

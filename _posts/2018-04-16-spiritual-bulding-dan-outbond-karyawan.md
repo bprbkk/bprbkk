@@ -3,7 +3,7 @@ layout: post
 title: SPRIRITUAL BUILDING DAN OUTBOND Karyawan PD BPR BKK WONOGIRI di hotel NEO+ AWANA Jogjakarta
 subtitle:   "SPRIRITUAL BUILDING DAN OUTBOND Karyawan."
 description: ""
-author: "Admin"
+author: "Haryono"
 date: 2018-04-16 14:44:00
 header-img: "images/blog/2018/spiritual.png"
 ---

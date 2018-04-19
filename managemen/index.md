@@ -84,7 +84,7 @@ layout: staff
 	<div class="dummy dummy-avatar" id="kepala-bidang">
 	<h2>Kepala Bidang</h2>
 		<div class="tooltip tooltip-effect-1">
-			<a href="#"><img src="/images/managemen/sri_hartati.png" alt="Sri Hartati, SE"/><h4>Sri Hartati, SE</h4></a>
+			<a href="#"><img src="/images/managemen/sri_haati.png" alt="Indri Yuliawati, SE"/><h4>Indri Yuliawati, SE</h4></a>
 			<span class="tooltip-content">Kepala Bidang Umum PD BPR BKK Wonogiri</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -93,8 +93,8 @@ layout: staff
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/suparmo.png" alt="Suparmo, SE"/><h4>Suparmo, SE</h4></a>
-			<span class="tooltip-content">Kepala Bidang Pemasaran PD BPR BKK Wonogiri</span>
+			<a href="#"><img src="/images/managemen/suprmo.png" alt="Dwi Sutanto, SE"/><h4>Dwi Sutanto, SE</h4></a>
+			<span class="tooltip-content">Kepala Bidang Pemasaran, Literasi Keuangan dan Inklusi Keuangan PD BPR BKK Wonogiri</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />

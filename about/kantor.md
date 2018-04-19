@@ -108,7 +108,7 @@ class="ajax-popup-link"> SUHARTATIK.SE </a>
 			<img src="/images/kantor/jatipurno.jpg" class="img-responsive img-centered" alt="">
 			<h3>Jatipurno</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/satino.html" class="ajax-popup-link"> SATINO, SE</a>
+			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/anom_eko_bawono.html" class="ajax-popup-link"> ANOM EKO BAWONO, SE</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Arjuno No.20 Jatipurno.</em>
@@ -157,7 +157,7 @@ class="ajax-popup-link"> SUHARTATIK.SE </a>
 			<img src="/images/kantor/purwantoro.jpg" class="img-responsive img-centered" alt="">
 			<h3>Purwantoro</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/DWI PURWO, SE.html" class="ajax-popup-link"> DWI PURWO, SE</a>
+			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/joko_santoso.html" class="ajax-popup-link"> JOKO SANTOSO, SE</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Pemudah No 35 Purwantoro.</em>

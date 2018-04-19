@@ -126,6 +126,7 @@ layout: home
 				<a href="/produk/kredit" class="text-default">Kredit</a> |
 				<a href="/produk/simpanan" class="text-default">Simpanan</a> |
 				<a href="/publikasi" class="text-default">Publikasi</a> |
+                <a href="/laporan" class="text-default">Laporan-tata-kelola</a> |
 				<a href="/news" class="text-default">Berita</a> |
 				<a href="/about" class="text-default">Tentang</a>
 				</div>

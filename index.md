@@ -121,6 +121,11 @@ layout: home
                 <div class="text-large text has_hide">SICIPTA 2018</div>
                 <div class="form-cont has_hide">
                     <a href="publikasi/Undian/sicipta2018.pdf" class="buynow btn btn-success">Download disini</a>
+                    DAFTAR PEMENANG<br><span class="text-thin">Undian Hadiah Tabungan</span>
+                </h3>
+                <div class="text-large text has_hide">SICIPTA 2018</div>
+                <div class="form-cont has_hide">
+                    <a href="publikasi/Undian/sicipta2018.pdf" class="buynow btn btn-success">Download disini</a>
                 </div>
 				<div class="lined-text">
 				<a href="/produk/kredit" class="text-default">Kredit</a> |

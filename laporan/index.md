@@ -8,6 +8,6 @@ header-img: "images/publkasi.jpg"
 
 | Jenis Laporan:                            | Tahun | File Download |
 ------------------------------------------- | ------- | ------------- |
-LAPORAN PENERAPAN TATA KELOLA				| 2018				| [Download](/LAPORAN/LAPORAN/LAPORAN_TATA_KELOLA_2018.pdf)
-SELF ASSESSMENT TATA KELOLA                 | 2018				| [Download](/LAPORAN/LAPORAN//SELF_ ASSESSMENT_2018.pdf)
+LAPORAN PENERAPAN TATA KELOLA				| 2018				| [Download](/laporan/laporan/LAPORAN_TATA_KELOLA_ 2018.pdf)
+SELF ASSESSMENT TATA KELOLA                 | 2018				| [Download](/laporan/laporan//SELF_ASSESSMENT_2018.pdf)
 

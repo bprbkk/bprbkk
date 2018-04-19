@@ -8,6 +8,6 @@ header-img: "images/publkasi.jpg"
 
 | Triwulan Ke:	| Tahun | File Download |
 --------------- | ------- | ------------- |
-DDDDDDD				| 2017				| [Download](/publikasi/2017/201703.pdf)
+DDDDDDD				| 2018				| [Download](/LAPORAN/LAPORAN/LAPORAN_TATA_KELOLA_2018.pdf)
 DDDDDDD				| 2017				| [Download](/publikasi/2017/201706.pdf)
 

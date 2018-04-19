@@ -8,6 +8,6 @@ header-img: "images/publkasi.jpg"
 
 | Laporan:	| Tahun | File Download |
 --------------- | ------- | ------------- |
-I				| 2018				| [Download](/laporan/LAPORAN_TATA_KELOLA_2018.pdf)
+LAPORAN PENERAPAN TATA KELOLA		| 2018			| [Download](/laporan/LAPORAN_TATA_KELOLA_2018.pdf)
 
 

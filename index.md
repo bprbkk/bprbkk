@@ -10,6 +10,7 @@ layout: home
 		</p>
 		<div class="pull-right">
 			<a class="buynow btn btn-success" href="laporan">Laporan Tata Kelola</a>
+            <a class="buynow btn btn-success" href="laporan">Laporan Tata Kelola</a>
 		</div>
 	</div>
 </div>    

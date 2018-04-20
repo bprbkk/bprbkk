@@ -4,6 +4,12 @@ title: Publikasi BPRBKK
 description: "Transparansi Kesehatan: Perbankan PD. BPR BKK"
 header-img: "images/publikasi.jpg"
 ---
+## Tahun 2018
+
+| Triwulan Ke:	| Tahun | File Download |
+--------------- | ------- | ------------- |
+I				| 2018				| [Download](/publikasi/2017/201803.pdf)
+
 ## Tahun 2017
 
 | Triwulan Ke:	| Tahun | File Download |
@@ -11,6 +17,7 @@ header-img: "images/publikasi.jpg"
 I				| 2017				| [Download](/publikasi/2017/201703.pdf)
 II				| 2017				| [Download](/publikasi/2017/201706.pdf)
 III				| 2017				| [Download](/publikasi/2017/201709.pdf)
+IV				| 2017				| [Download](/publikasi/2017/201712.pdf)
 
 ## Tahun 2016
 

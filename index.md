@@ -9,7 +9,7 @@ layout: home
 			<b>Sesarengan mbangun Wonogiri!</b><br>Meraih Sukses Bersama, Bersama Meraih Sukses.
 		</p>
 		<div class="pull-right">
-			<a class="buynow btn btn-success" href="/produk/simpanan">Ayo Menabung!</a>
+			<a class="buynow btn btn-success" href="laporan">Ayo Menabung!</a>
 		</div>
 	</div>
 </div>    

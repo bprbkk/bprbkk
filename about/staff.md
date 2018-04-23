@@ -102,7 +102,7 @@ layout: staff
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/yani_harmini.png" alt="Yani Harmini,SP"/><h4>Yani Harmini, SP</h4></a>
+			<a href="#"><img src="/images/managemen/yani_harini.png" alt="Yani Harmini,SP"/><h4>Yani Harmini, SP</h4></a>
 			<span class="tooltip-content">Kepala Bidang Kepatuhan dan Managemen Risiko PD BPR BKK Wonogiri</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">

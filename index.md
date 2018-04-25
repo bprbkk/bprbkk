@@ -21,7 +21,8 @@ layout: home
             <a href="/publikasi" class="text-default">Publikasi</a>|
             <a href="/Laporan" class="text-default">Laporan Tata Kelola</a>|
             <a href="/produk/kredit" class="text-default">Kredit</a>|
-            <a href="/produk/simpanan" class="text-default">Simpanan</a>|            
+            <a href="/produk/simpanan" class="text-default">Simpanan</a>|
+            <a href="/about" class="text-default">Tentang</a>|            
 		</div>
 	</div>
 </div>

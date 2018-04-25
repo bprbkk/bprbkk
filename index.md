@@ -18,7 +18,7 @@ layout: home
 		<div class="b-logo pull-left"></div>
 		<div class="js--header-user pull-right b-header--user">
 			<a href="/news" class="text-default">Berita BPR BKK WONOGIRI</a>
-            <a href="/news" class="text-default">Berita BPR BKK WONOGIRI</a>
+            <a href="/publikasi" class="text-default">Laporan</a>
 		</div>
 	</div>
 </div>

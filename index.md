@@ -18,7 +18,7 @@ layout: home
 		<div class="b-logo pull-left"></div>
 		<div class="js--header-user pull-right b-header--user">
 			<a href="/news" class="text-default">Berita</a>|
-            <a href="/publikasi" class="text-default">publikasi</a>|
+            <a href="/publikasi" class="text-default">Publikasi</a>|
             <a href="/Laporan" class="text-default">Laporan Tata Kelola</a>|
             <a href="/produk/kredit" class="text-default">Kredit</a>|
             <a href="/produk/simpanan" class="text-default">Simpanan</a>|            

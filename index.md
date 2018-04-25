@@ -6,9 +6,9 @@ layout: home
 	<div class="container clearfix">
 		<i class="pull-left save"></i>
 		<p class="pull-left">
-			<b>Sesarengan mbangun Wonogiri!</b><br>Meraih Sukses Bersama, Bersama Meraih Sukses.
+			<b>Sesarengan mbangun Wonogiri!</b><br>Meraih Sukses Bersama, Bersama Meraih Sukses.            
 		</p>
-		<div class="pull-right">
+		<div class="pull-down">
 			<a class="buynow btn btn-success" href="laporan">Laporan Tata Kelola</a>            
 		</div>
 	</div>

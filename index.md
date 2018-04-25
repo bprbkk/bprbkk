@@ -139,6 +139,11 @@ layout: home
                     <a href = "#" class="text-default">Bank Terdaftar dan Diawasi OJK</a>
                 </div>
             </div>
+            <div class="btn-group">
+            <a href="#personal" class="btn">Personal</a>
+            <a target="_blank" href="/laporan" class="btn">Laporan Publikasi</a>
+			<a target="_blank" href="/publikasi" class="btn">Laporan Tata Kelola</a>	           
+            <br>
         </div>
     </div>
 </div>

@@ -6,9 +6,9 @@ layout: home
 	<div class="container clearfix">
 		<i class="pull-left save"></i>
 		<p class="pull-left">
-			<b>Sesarengan mbangun Wonogiri!</b><br>Meraih Sukses Bersama, Bersama Meraih Sukses.            
+			<b>Sesarengan mbangun Wonogiri</b><br>Meraih Sukses Bersama, Bersama Meraih Sukses.            
 		</p>
-		<div class="pull-down">
+		<div class="pull-right">
 			<a class="buynow btn btn-success" href="laporan">Laporan Tata Kelola</a>            
 		</div>
 	</div>
@@ -17,8 +17,10 @@ layout: home
 	<div class="container clearfix">
 		<div class="b-logo pull-left"></div>
 		<div class="js--header-user pull-right b-header--user">
-			<a href="/news" class="text-default">Berita BPR BKK WONOGIRI</a>
-            <a href="/publikasi" class="text-default">Laporan</a>            
+			<a href="/news" class="text-default">Berita BPR BKK WONOGIRI</a> |
+            <a href="/publikasi/Laporan" class="text-default">Laporan</a> |
+            <a href="/produk/kredit" class="text-default">Kredit</a> |
+            <a href="/produk/simpanan" class="text-default">Simpanan</a> |            
 		</div>
 	</div>
 </div>

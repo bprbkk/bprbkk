@@ -21,9 +21,7 @@ layout: staff
 	<div class="dummy dummy-avatar" id="dewan-pengawas">
 	<h2>Dewan Pengawas</h2>
 		<div class="tooltip tooltip-effect-1">
-		<a href="#"><img src="/images/managemen/aguspras.png" alt="Agus Prasutio,SH.M.Si"/><h4>Agus Prasutio,SH.M.Si</h4></a>
-		<span class="tooltip-content"> Ketua Dewan Pengawas PD BPR BKK Wonogiri</span>
-			<div class="tooltip-shape">
+		<a href="#"><img src="/images/managemen/aguspras.png" alt="Agus Prasutio,SH.M.Si"/><h4>Agus Prasutio,SH.M.Si</h4></a>		
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen" class="bprbkk-1" />
 				</svg>

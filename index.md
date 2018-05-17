@@ -33,8 +33,7 @@ layout: home
                 
                 <h1 class="text has_hide "> <br/>&laquo; 
 				&laquo;                                    </h1>
-                <div class="form-cont has_hide">                                          
-                    <a href="
+                <div class="form-cont has_hide">                                         
                 </div>
             </div>
         </div>

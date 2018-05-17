@@ -31,10 +31,10 @@ layout: home
         <div class="vertical-block">
             <div class="text-center vertical-block--inner">
                 
-                <h1 class="text has_hide "> <br/>&laquo; Info Lowongan Kerja 2018
+                <h1 class="text has_hide "> <br/>&laquo; Info Lowngan Kerja 2018
 				&laquo;                                    </h1>
-                <div class="form-cont has_hide">
-                    <a href="publikasi/Loker/Loker2018.pdf" class="buynow btn btn-success">Download disini</a>
+                <div class="form-cont has_hide">                                          
+                    <a href="publikasi/Loker/Loker2018.pdf" class="buynow btn btn-success">Downoad disini</a>
                 </div>
             </div>
         </div>

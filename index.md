@@ -34,7 +34,7 @@ layout: home
                 <h1 class="text has_hide "> <br/>&laquo; 
 				&laquo;                                    </h1>
                 <div class="form-cont has_hide">                                          
-                    <a href="publikasi/Loker/Loker2018.pdf"
+                    <a href="
                 </div>
             </div>
         </div>

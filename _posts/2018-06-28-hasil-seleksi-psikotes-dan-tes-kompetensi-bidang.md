@@ -3,7 +3,7 @@ layout: post
 title: Pengumuman Hasil Seleksi Akhir PD BPR BKK Wonogiri
 subtitle:   ""
 description: ""
-author: "admin"
+author: "Cak Pri"
 date: 2018-06-16 10:15:00
 header-img: "images/blog/2017/Loker3.jpg"
 ---

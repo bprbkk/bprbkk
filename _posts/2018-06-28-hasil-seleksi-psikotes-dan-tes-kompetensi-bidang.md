@@ -10,7 +10,6 @@ header-img: "images/blog/2017/Loker3.jpg"
 
 
 ## Pengumuman Hasil Seleksi Akhir Penerimaan Pegawai Kontrak  PD BPR BKK Wonogiri
-<div style="text-align: justify;">Wonogiri - Kamis, 28 Juni 2018.
- 
+<div style="text-align: justify;">
 Dengan ini memberitahukan bahwa Pengumuman Hasil Seleksi Akhir Penerimaan Pegawai Kontrak  PD BPR BKK Wonogiri.</div>
 [Info lengkap download disini](/publikasi/Loker/hasil_akhir.pdf)

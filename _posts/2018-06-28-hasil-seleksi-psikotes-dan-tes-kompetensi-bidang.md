@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pengumuman Hasil Seleksi Akhir PD BPR BKK Wonogiri
+title: Pengumuman Hasil Seleksi Akhir Penerimaan Pegawai Kontrak PD BPR BKK Wonogiri
 subtitle:   "Formasi Tahun 2018"
 description: ""
 author: "Cak Pri"

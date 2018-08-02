@@ -5,7 +5,7 @@ subtitle:   "BPR BKK WONOGIRI"
 description: ""
 author: "cakpri"
 date: 2018-08-02 13:54:00
-header-img: "images/blog/2015/golden.png"
+header-img: ""
 ---
 
 ## Sekilas tentang kami

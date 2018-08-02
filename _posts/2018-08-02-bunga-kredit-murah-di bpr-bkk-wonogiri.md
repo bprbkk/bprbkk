@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bunga Kredit Murah di BPR BKK Wonogiri 
-subtitle:   "Bunga Murah"
+subtitle:   ""
 description: ""
 author: "cakpri"
 date: 2018-08-02 13:54:00

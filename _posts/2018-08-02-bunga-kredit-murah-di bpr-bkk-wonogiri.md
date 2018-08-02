@@ -16,5 +16,3 @@ header-img: "images/blog/2015/golden.png"
 
 <div style="text-align: justify;">Salah satu keunggulan dari layanan kredit MeNTaRI adalah pada saat pencairan debitur tidak dikenakan biaya administrasi dan provisi kredit. Adapun bunga kredit MeNTaRI 3 %/tahun</div>
 
-<a href="http://www.bprbkk.co.id/produk/kredit/">kredit</a>
-

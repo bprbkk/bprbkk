@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Bunga Kredit Murah di BPR BKK Wonogiri 
-subtitle:   "Kredit MeNTaRI"
+title: Tentang kami 
+subtitle:   "BPR BKK WONOGIRI"
 description: ""
 author: "cakpri"
 date: 2018-08-02 13:54:00
-header-img: "images/blog/2015/golden.png"
+header-img: ""
 ---
 
 ## Sekilas tentang kami

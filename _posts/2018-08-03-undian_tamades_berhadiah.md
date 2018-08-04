@@ -4,7 +4,7 @@ title: Gebyar Undian Tamades PD BPR BKK Wonogiri Kembali Akan Digelar Bulan Sept
 subtitle:   "Gebyar Undian Tamades 2018."
 description: ""
 author: "Haryono"
-date: 2018-08-04 10:44:00
+date: 2018-08-03 10:44:00
 header-img: "images/blog/2018/spirithhhhxxxxxual.png"
 ---
 

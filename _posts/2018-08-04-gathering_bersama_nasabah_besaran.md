@@ -4,7 +4,7 @@ title: Gathering PD BANK PERKREDITAN RAKYAT BKK Wonogiri 2018
 subtitle:   "Gathering PD BANK PERKREDITAN RAKYAT BKK Wonogiri 2018."
 description: ""
 author: "Haryono"
-date: 2018-08-04 10:44:00
+date: 2018-08-04 15:44:00
 header-img: "images/blog/2018/spirithhhhxxxxxual.png"
 ---
 

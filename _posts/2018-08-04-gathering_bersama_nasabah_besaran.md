@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gathering PD BANK PERKREDITAN RAKYAT BKK Wonogiri 2018
-subtitle:   "Gathering PD BANK PERKREDITAN RAKYAT BKK Wonogiri 2018."
+subtitle:   "Gathering Bersama Pengusaha Besaran."
 description: ""
 author: "Haryono"
 date: 2018-08-04 15:44:00
@@ -9,7 +9,7 @@ header-img: "images/blog/2018/spirithhhhxxxxxual.png"
 ---
 
 
-## Gebyar Undian Tamades PD BPR BKK Wonogiri
+## Gathering PD BANK PERKREDITAN RAKYAT BKK Wonogiri 2018
 
 
 <img src="/images/blog/2018/1.png" class="img-responsive img-centered" alt="">

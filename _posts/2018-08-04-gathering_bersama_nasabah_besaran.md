@@ -10,13 +10,13 @@ header-img: "images/blog/2018/spirithhhhxxxxxual.png"
 
 
 ## Gebyar Undian Tamades PD BPR BKK Wonogiri
----
+
 
 <img src="/images/blog/2018/1.png" class="img-responsive img-centered" alt="">
----
+
 
 <img src="/images/blog/2018/2.png" class="img-responsive img-centered" alt="">
----
+
 
 WONOGIRI - PD BANK PERKREDITAN RAKYAT BKK Wonogiri menggelar customer gathering bertajuk mempererat hubungan kemitraan antara Bank dan pelaku usaha pedagang ternak untuk kurban "BESARAN".
 

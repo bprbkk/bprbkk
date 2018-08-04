@@ -10,6 +10,9 @@ header-img: "images/blog/2018/spirithhhhxxxxxual.png"
 
 
 ## Gebyar Undian Tamades PD BPR BKK Wonogiri
+
+<img src="/images/banner.png" class="img-responsive img-centered" alt="">
+
 Jangan sampai lupa! Gebyar Undian Tamades akan kembali digelar.
 Proses pengundian diadakan dibulan september 2018 mendatang.
 Muh Hasyim.SE selaku ketua panitia menjelaskan, pengundian ini adalah untuk periode pengumpulan kupon perhitungan saldo per 31 Agustus 2018.

@@ -10,8 +10,6 @@ header-img: "images/blog/2017/Loxxxker3.jpg"
 
 
 ## Gebyar Undian Tamades PD BPR BKK Wonogiri
-<div style="text-align: justify;">
-
 
 Jangan sampai lupa! Gebyar Undian Tamades akan kembali digelar.
 

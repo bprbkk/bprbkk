@@ -5,7 +5,7 @@ layout: simpanan
 <div class="container">
 	<header class="clearfix">
 <span>BPRBKK</span>
-<h1>Ayo Menabung di BPRBKK!</h1>
+<h1>Ayo Menabung di BPR BKK WONOGIRI!</h1>
 <nav>
 	<a href="/" class="bp-icon" data-info="BPRBKK"><span>Home</span></a>
 	<a href="/produk/kredit" class="bp-icon" data-info="Kredit"><span>Kredit</span></a>
@@ -26,14 +26,11 @@ layout: simpanan
 </section>
 <section class="cbp-so-section">
 	<figure class="cbp-so-side cbp-so-side-left">
-<img src="/images/simpanan/2.png" alt="Sicipta BPRBKK">
+<img src="/images/simpanan/SICIPTA_1.png" alt="Sicipta BPRBKK">
 	</figure>
 	<article class="cbp-so-side cbp-so-side-right">
 <h2>Sicipta</h2>
-<p>Sicipta adalah produk yang terinspirasi dan didedikasikan bagi pelajar dan wiraswasta dengan keunggulan :
-a. Bunga dihitung harian
-b. Tanpa Biaya administrasi
-c. Terdapat hadiah yang diundi setiap tahun </p>
+<p>Sicipta adalah produk yang terinspirasi dan didedikasikan bagi pelajar dan wiraswasta </p>
 	</article>
 </section>
 <section class="cbp-so-section">

@@ -18,7 +18,15 @@ layout: simpanan
 <section class="cbp-so-section">
 	<article class="cbp-so-side cbp-so-side-left">
 <h2>Tamades</h2>
-<p>Dapatkan keuntungan menabung di Tamades, simpanan anda lebih aman karena berada di Bank milik Pemprov Jawa Tengah dan Pemda Kab. Wonogiri.</p>
+<p>Tamades adalah Tabungan Sukarela diperuntukan bagi Penabung Perorangan, Perusahaan, Dinas Instansi, LSM, Badan Usaha dan Yayasan dengan persyaratan mudah.</p>
+<p> a. Foto Copy KTP atau identitas lain yang masih berlaku.</p>
+<p> b. Calon untuk nasabah atas nama perusahaan, Dinas Instansi, LSM, Badan Usaha, ataupun Yayasan wajib didukung dengan dokumen identitas antara lain sebagai berikut : </p>  
+    <p> 1) Foto copy  akta pendirian;</p>
+    <p> 2) Foto copy Tanda Daftar Perusahaan/ TDP ;</p>
+    <p> 3) Foto copy NPWP;</p>
+    <p> 4) Foto copy SIUP;</p>
+    <p> 5) Surat  Kuasa.</p>
+
 	</article>
 	<figure class="cbp-so-side cbp-so-side-right">
 <img src="/images/simpanan/TAMADES.png" alt="Tamades BPRBKK">

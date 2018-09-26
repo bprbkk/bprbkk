@@ -18,7 +18,7 @@ header-img: "images/blog/2018/spirithhhhxxxxxual.png"
 <img src="/images/blog/2018/2.png" class="img-responsive img-centered" alt="">
 
 
-WONOGIRI - PD BANK PERKREDITAN RAKYAT BKK Wonogiri menggelar customer gathering bertajuk mempererat hubungan kemitraan antara Bank dan pelaku usaha pedagang ternak untuk kurban "BESARAN".
+WONOGIRI - PD BANK PERKREDI--------------TAN RAKYAT BKK Wonogiri menggelar customer gathering bertajuk mempererat hubungan kemitraan antara Bank dan pelaku usaha pedagang ternak untuk kurban "BESARAN".
 
 Direktur Utama SUCIPTO, SE Menegaskan kepada Pimpinan Cabang, hubungan kemitraan antara Bank dan pelaku usaha pedagang ternak agar selalu dijaga dengan cara pendekatan, orang jawa mengatakan sonjo.
 

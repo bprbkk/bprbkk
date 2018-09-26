@@ -21,7 +21,7 @@ layout: staff
 	<div class="dummy dummy-avatar" id="dewan-pengawas">
 	<h2>Dewan Pengawas</h2>
 		<div class="tooltip tooltip-effect-1">
-		<a href="#"><img src="/images/managemen/aguspras.png" alt="Agus Prasutio,SH.M.Si"/><h4>Agus Prasutio,SH.M.Si</h4></a>
+		<a href="#"><img src="/images/managemen/aguspras.png" alt="Agus Prasutio,S.H., M.Si."/><h4>Agus Prasutio,S.H., M.Si.</h4></a>
 		<span class="tooltip-content"> Ketua Dewan Pengawas PD BPR BKK Wonogiri</span>
 			<div class="tooltip-shape">		
 				<svg height="165px" width="220px">
@@ -30,7 +30,7 @@ layout: staff
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/bambang_haryadi.jpg" alt="Bambang Haryadi,SH.MM"/><h4>Bambang Haryadi,SH.MM</h4></a>
+		<a href="#"><img src="/images/managemen/bambang_haryadi.jpg" alt="Bambang Haryadi,S.H., M.M."/><h4>Bambang Haryadi,S.H., M.M.</h4></a>
 		<span class="tooltip-content">Anggota Dewan Pengawas PD BPR BKK Wonogiri</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -42,7 +42,7 @@ layout: staff
 	<div class="dummy dummy-avatar" id="direksi">
 	<h2>Direksi</h2>
 		<div class="tooltip tooltip-effect-1">
-		<a href="#"><img src="/images/managemen/sucipto.jpg" alt="Sucipto, SE"/><h4>Sucipto, SE</h4></a>
+		<a href="#"><img src="/images/managemen/sucipto.jpg" alt="Sucipto, S.E."/><h4>Sucipto, S.E.</h4></a>
 		<span class="tooltip-content">Direktur Utama PD BPR BKK Wonogiri</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -51,7 +51,7 @@ layout: staff
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/suwarto.png" alt="Suwarto, SE"/><h4>Suwarto, SE</h4></a>
+		<a href="#"><img src="/images/managemen/suwarto.png" alt="Suwarto, S.E."/><h4>Suwarto, S.E.</h4></a>
 		<span class="tooltip-content">Direktur Pemasaran PD BPR BKK Wonogiri</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -60,7 +60,7 @@ layout: staff
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/sarti.jpg" alt="Sarti, SE,MM"/><h4>Sarti, SE,MM</h4></a>
+		<a href="#"><img src="/images/managemen/sarti.jpg" alt="Sarti, S.E., M.M."/><h4>Sarti, S.E., M.M.</h4></a>
 		<span class="tooltip-content">Direktur Umum PD BPR BKK Wonogiri</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -72,7 +72,7 @@ layout: staff
 	<div class="dummy dummy-avatar" id="skai">
 	<h2>SKAI</h2>
 		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/bambang.jpg" alt="Bambang,SE"/><h4>Bambang,SE</h4></a>
+		<a href="#"><img src="/images/managemen/bambang.jpg" alt="Bambang,S.E."/><h4>Bambang,S.E.</h4></a>
 		<span class="tooltip-content">Kepala SKAI PD BPR BKK Wonogiri</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -84,7 +84,7 @@ layout: staff
 	<div class="dummy dummy-avatar" id="kepala-bidang">
 	<h2>Kepala Bidang</h2>
 		<div class="tooltip tooltip-effect-1">
-			<a href="#"><img src="/images/managemen/sri_hartti.png" alt="Indri Yuliawati, SE"/><h4>Indri Yuliawati, SE</h4></a>
+			<a href="#"><img src="/images/managemen/sri_hartti.png" alt="Indriyuliawati, S.E."/><h4>Indriyuliawati, S.E.</h4></a>
 			<span class="tooltip-content">Kepala Bidang Umum PD BPR BKK Wonogiri</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -93,7 +93,7 @@ layout: staff
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/suprmo.jpg" alt="Dwi Sutanto, SE"/><h4>Dwi Sutanto, SE</h4></a>
+			<a href="#"><img src="/images/managemen/suprmo.jpg" alt="Dwi Sutanto, S.E."/><h4>Dwi Sutanto, S.E.</h4></a>
 			<span class="tooltip-content">Kepala Bidang Pemasaran, Literasi Keuangan dan Inklusi Keuangan PD BPR BKK Wonogiri</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -102,7 +102,7 @@ layout: staff
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/yani_harini.png" alt="Yani Harmini,SP"/><h4>Yani Harmini, SP</h4></a>
+			<a href="#"><img src="/images/managemen/yani_harini.png" alt="Yani Harmini,S.P."/><h4>Yani Harmini, S.P.</h4></a>
 			<span class="tooltip-content">Kepala Bidang Kepatuhan dan Managemen Risiko PD BPR BKK Wonogiri</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">

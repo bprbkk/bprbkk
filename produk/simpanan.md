@@ -18,7 +18,8 @@ layout: simpanan
 <section class="cbp-so-section">
 	<article class="cbp-so-side cbp-so-side-left">
 <h2>Tamades</h2>
-<p>Tamades adalah Tabungan yang diperuntukan bagi Penabung Perorangan, Perusahaan, Dinas Instansi, LSM, Badan Usaha dan Yayasan dengan persyaratan sangat mudah.</p>
+<p>Tamades adalah tabungan yang diperuntukan bagi Penabung Perorangan, Perusahaan, Dinas Instansi, LSM, Badan Usaha dan Yayasan dengan persyaratan sangat mudah.</p>
+<p> Dengan syarat-syarat sebagai berikut :</p>
 <p> a. Foto Copy KTP atau identitas lain yang masih berlaku.</p>
 <p> b. Calon untuk nasabah atas nama perusahaan, Dinas Instansi, LSM, Badan Usaha, ataupun Yayasan wajib didukung dengan dokumen identitas antara lain sebagai berikut : </p>  
     <p> 1) Foto copy  akta pendirian;</p>
@@ -39,6 +40,13 @@ layout: simpanan
 	<article class="cbp-so-side cbp-so-side-right">
 <h2>Sicipta</h2>
 <p>Sicipta adalah produk yang terinspirasi dan didedikasikan bagi pelajar dan wiraswasta </p>
+<p>Sicipta adalah simpanan yang diperuntukan bagi Penabung pelajar dan wiraswasta dengan persyaratan sangat mudah.</p>
+<p>Sicipta mempunyai keunggulan :</p>
+<p>a. Perhitungan bunga secara harian yang dicatat setiap pertengahan bulan</p>
+<p>b. Bunga yang kompetitif</p>
+<p>c. Berhadiah</p>
+<p>d. Dapat diambil sewaktu-waktu</p>
+	
 	</article>
 </section>
 <section class="cbp-so-section">

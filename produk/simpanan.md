@@ -30,7 +30,10 @@ layout: simpanan
 	</figure>
 	<article class="cbp-so-side cbp-so-side-right">
 <h2>Sicipta</h2>
-<p>Kebiasaan hemat dan gemar menabung sejak dini adalah tindakan yang bijak. Sicipta adalah produk yang terinspirasi dan didedikasikan bagi pelajar dan wiraswasta yaitu tabungan dengan bunga harian.</p>
+<p>Sicipta adalah produk yang terinspirasi dan didedikasikan bagi pelajar dan wiraswasta dengan keunggulan :
+a. Bunga dihitung harian
+b. Tanpa Biaya administrasi
+c. Terdapat hadiah yang diundi setiap tahun </p>
 	</article>
 </section>
 <section class="cbp-so-section">

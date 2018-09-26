@@ -18,7 +18,7 @@ layout: simpanan
 <section class="cbp-so-section">
 	<article class="cbp-so-side cbp-so-side-left">
 <h2>Tamades</h2>
-<p>Tamades adalah Tabungan Sukarela diperuntukan bagi Penabung Perorangan, Perusahaan, Dinas Instansi, LSM, Badan Usaha dan Yayasan dengan persyaratan mudah.</p>
+<p>Tamades adalah Tabungan yang diperuntukan bagi Penabung Perorangan, Perusahaan, Dinas Instansi, LSM, Badan Usaha dan Yayasan dengan persyaratan sangat mudah.</p>
 <p> a. Foto Copy KTP atau identitas lain yang masih berlaku.</p>
 <p> b. Calon untuk nasabah atas nama perusahaan, Dinas Instansi, LSM, Badan Usaha, ataupun Yayasan wajib didukung dengan dokumen identitas antara lain sebagai berikut : </p>  
     <p> 1) Foto copy  akta pendirian;</p>

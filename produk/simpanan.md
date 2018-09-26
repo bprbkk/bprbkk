@@ -21,7 +21,7 @@ layout: simpanan
 <p>Dapatkan keuntungan menabung di Tamades, simpanan anda lebih aman karena berada di Bank milik Pemprov Jawa Tengah dan Pemda Kab. Wonogiri.</p>
 	</article>
 	<figure class="cbp-so-side cbp-so-side-right">
-<img src="/images/simpanan/1.png" alt="Tamades BPRBKK">
+<img src="/images/simpanan/TAMADES.png" alt="Tamades BPRBKK">
 	</figure>
 </section>
 <section class="cbp-so-section">

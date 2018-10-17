@@ -4,7 +4,7 @@ layout: simpanan
 
 <div class="container">
 	<header class="clearfix">
-<span>Ayo ke BPR</span>
+<span>Ayo KE BPR</span>
 <h1>Ayo Menabung di PD BPR BKK WONOGIRI!</h1>
 <nav>
 	<a href="/" class="bp-icon" data-info="PD BPR BKK WONOGIRI"><span>Home</span></a>

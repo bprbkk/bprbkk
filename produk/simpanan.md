@@ -4,10 +4,10 @@ layout: simpanan
 
 <div class="container">
 	<header class="clearfix">
-<span>BPRBKK</span>
-<h1>Ayo Menabung di PD  BPR BKK WONOGIRI!</h1>
+<span>Ayo ke BPR</span>
+<h1>Ayo Menabung di PD. BPR BKK WONOGIRI!</h1>
 <nav>
-	<a href="/" class="bp-icon" data-info="BPRBKK"><span>Home</span></a>
+	<a href="/" class="bp-icon" data-info="PD BPR BKK WONOGIRI"><span>Home</span></a>
 	<a href="/produk/kredit" class="bp-icon" data-info="Kredit"><span>Kredit</span></a>
 	<a href="/publikasi" class="bp-icon" data-info="Publikasi"><span>Publikasi</span></a>
 	<a href="/news" class="bp-icon" data-info="Berita"><span>Berita</span></a>

@@ -12,7 +12,7 @@ header-img: "images/damkar_1.jpg"
 ## Pelatihan dan Pendidikan Tentang Penanggulangan Bahaya Kebakaran
 
 
-<img src="/images/damkar_1.jpg" class="img-responsive img-centered" alt="">
+<img src="/images/damkar_1.png" class="img-responsive img-centered" alt="">
 
 <img src="/images/damkar_2.jpg" class="img-responsive img-centered" alt="">
 

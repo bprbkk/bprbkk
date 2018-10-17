@@ -9,7 +9,7 @@ header-img: "images/damkar_1.jpg"
 ---
 
 
-## Gathering PD BPR BKK WONOGIRI 2018
+## Pelatihan dan Pendidikan Tentang Penanggulangan Bahaya Kebakaran
 
 
 <img src="/images/damkar_1.jpg" class="img-responsive img-centered" alt="">
@@ -22,7 +22,7 @@ header-img: "images/damkar_1.jpg"
 
 WONOGIRI - Kesiapsiagaan terhadap bahaya kebakaran harus selalu diperbarukan. Kebakaran addalah nyala api yang tidak terkendali dan tidak dikehendaki yang menyebabkan kerugian harta dan nyawa. Untuk kesiapsiagaan atas kebakaran, pada tanggal 16 Oktober PD BPR BKK WONOGIRI menyelengarakan Pelatihan dan Pendidikan Tentang Penanggulangan Bahaya Kebakaran. Pelatihan tersebut diikuti oleh Satuan Pengamanan dan Kepala Seksi Pelayanan di semua Kantor, baik Kantor Pusat Manajemen, Kantor Pusat Operasional dan Kantor Cabang. 
 
-Pelatihan dan pendidikan ini bekerjasama dengan CV Duta Permata yang diselengarakan di Kantor PD BPR BKK WONOGIRI dan praktek dilakukan di Lapangan GOR Giri Mandala Kabupaten Wonogiri.
+Pelatihan dan pendidikan ini bekerjasama dengan CV. Duta Permata yang diselengarakan di Kantor PD BPR BKK WONOGIRI dan praktek dilakukan di Lapangan GOR Giri Mandala Kabupaten Wonogiri.
 
 "Diharapkan dengan pelatihan dan pendidikan ini dapat menambah kemampuan pegawai PD BPR BKK WONOGIRI untuk siap dan siaga dalam menghadapi ancaman bahaya, salah satunya adalah kebakaran" seperti yang diungkapkan oleh Direktur Utama PD BPR BKK WONOGIRI.
 

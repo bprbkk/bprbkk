@@ -5,7 +5,7 @@ layout: simpanan
 <div class="container">
 	<header class="clearfix">
 <span>BPRBKK</span>
-<h1>Ayo Menabung di BPRBKK!</h1>
+<h1>Ayo Menabung di PD  BPR BKK WONOGIRI!</h1>
 <nav>
 	<a href="/" class="bp-icon" data-info="BPRBKK"><span>Home</span></a>
 	<a href="/produk/kredit" class="bp-icon" data-info="Kredit"><span>Kredit</span></a>
@@ -18,15 +18,15 @@ layout: simpanan
 <section class="cbp-so-section">
 	<article class="cbp-so-side cbp-so-side-left">
 <h2>Tamades</h2>
-<p>Dapatkan keuntungan menabung di Tamades, simpanan anda lebih aman karena berada di Bank milik Pemprov Jawa Tengah dan Pemda Kab. Wonogiri.</p>
+<p>Dapatkan keuntungan menabung di Tamades, simpanan anda lebih aman karena berada di Bank milik Pemprov Jawa Tengah dan Pemkab Wonogiri.</p>
 	</article>
 	<figure class="cbp-so-side cbp-so-side-right">
-<img src="/images/simpanan/1.png" alt="Tamades BPRBKK">
+<img src="/images/simpanan/1.png" alt="Tamades PD BPR BKK WONOGIRI">
 	</figure>
 </section>
 <section class="cbp-so-section">
 	<figure class="cbp-so-side cbp-so-side-left">
-<img src="/images/simpanan/2.png" alt="Sicipta BPRBKK">
+<img src="/images/simpanan/2.png" alt="Sicipta PD BPR BKK WONOGIRI">
 	</figure>
 	<article class="cbp-so-side cbp-so-side-right">
 <h2>Sicipta</h2>
@@ -39,7 +39,7 @@ layout: simpanan
 <p>Menyimpan di tempat yang tepat!. Deposito PD. BPR BKK Wonogiri simpanan berjangka yang aman dan berkembang dengan suku bunga kompetitif.</p>
 	</article>
 	<figure class="cbp-so-side cbp-so-side-right">
-<img src="/images/simpanan/3.png" alt="Deposito BPRBKK">
+<img src="/images/simpanan/3.png" alt="Deposito PD BPR BKK WONOGIRI">
 	</figure>
 </section>
 	</div>

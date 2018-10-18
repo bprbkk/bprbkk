@@ -2,7 +2,7 @@
 layout: page
 title: Publikasi PD BPR BKK WONOGIRI
 description: "Transparansi Perbankan"
-header-img: "images/pusat.png"
+header-img: "images/bprbkk.jpg"
 ---
 ## Tahun 2018
 

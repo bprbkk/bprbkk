@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publikasi BPRBKK
-description: "Transparansi Kesehatan: Perbankan PD. BPR BKK"
+title: Publikasi PD BPR BKK WONOGIRI
+description: "Transparansi Perbankan"
 header-img: "images/publikasi.jpg"
 ---
 ## Tahun 2018

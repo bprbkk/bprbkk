@@ -93,7 +93,7 @@ layout: staff
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/suprmo.png" alt="Dwi Sutanto, SE"/><h4>Dwi Sutanto, SE</h4></a>
+			<a href="#"><img src="/images/managemen/suprmo.png" alt="________"/><h4>Dwi Sutanto, SE</h4></a>
 			<span class="tooltip-content">Kepala Bidang Pemasaran, Literasi Keuangan dan Inklusi Keuangan PD BPR BKK Wonogiri</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">

@@ -125,4 +125,16 @@ layout: staff
 	</section>
 </div><!-- /content -->
 </div><!-- /container -->
+<div class="col-md-4">
+		<div class="preview-pane">
+			<img src="/images/kantor/batuwarno.png" class="img-responsive img-centered" alt="" />
+			<h3>Kantor Cabang Batuwarno</h3>
+			<hr class="colored" />
+			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/giyastanto.html" class="ajax-popup-link"> GIYASTANTO, S.E.</a>
+			<ul class="list-unstyled text-muted">
+			<li>
+				<em>Alamat : Jl. Raya Batuwarno - Karangtengah No 12</em>
+			</li>
+			</ul>
+		</div>
 

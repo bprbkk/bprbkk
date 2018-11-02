@@ -125,4 +125,21 @@ layout: staf
 	</section>
 </div><!-- /content -->
 </div><!-- /container -->
+</div>
+	<div class="row">
+	<div class="col-md-4">
+	<div class="preview-pane">
+			<img src="/images/kantor/jatipurno.jpg" class="img-responsive img-centered" alt="" />
+			<h3>Kantor Cabang Jatipurno</h3>
+			<hr class="colored" />
+			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/anom_eko_bawono.html" class="ajax-popup-link"> HENDRA DEDY KUSUMA, S.E.</a>
+			<ul class="list-unstyled text-muted">
+			<li>
+				<em>Alamat : Jl. Arjuno No.20 Jatipurno.</em>
+			</li>
+			<li>
+				<em>Telp : 0273.411252</em>
+			</li>
+			</ul>
+		</div>
 

@@ -93,7 +93,7 @@ layout: staff
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/suprmo.png" alt="________"/><h4>Mohamad Hasyim, S.E.</h4></a>
+			<a href="#"><img src="/images/managemen/hasyim.png" alt="Mohamad Hasyim, S.E."/><h4>Mohamad Hasyim, S.E.</h4></a>
 			<span class="tooltip-content">Kepala Bidang Pemasaran, Literasi Keuangan dan Inklusi Keuangan PD BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">

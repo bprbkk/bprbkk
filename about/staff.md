@@ -30,7 +30,7 @@ layout: staf
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/bambang_haryadi.jpg" alt="Bambang Haryadi,S.H., M.M."/><h4>Bambang Haryadi,S.H., M.M.</h4></a>
+		<a href="#"><img src="/images/managemen/bambang_haryadi.jpg" alt="Edhy Tri Hadyantho, S.Sos., M.Si."/><h4>Edhy Tri Hadyantho, S.Sos., M.Si.</h4></a>
 		<span class="tooltip-content">Anggota Dewan Pengawas PD BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -93,7 +93,7 @@ layout: staf
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/suprmo.jpg" alt="Dwi Sutanto, S.E."/><h4>Dwi Sutanto, S.E.</h4></a>
+			<a href="#"><img src="/images/managemen/suprmo.jpg" alt="Mohamad Hasyim, S.E."/><h4>Mohamad Hasyim, S.E.</h4></a>
 			<span class="tooltip-content">Kepala Bidang Pemasaran, Literasi Keuangan dan Inklusi Keuangan PD BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">

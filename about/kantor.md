@@ -26,7 +26,7 @@ class="ajax-popup-link"> SUHARTATIK ,S.E. </a>
 			<img src="/images/kantor/baturetno.png" class="img-responsive img-centered" alt="">
 			<h3>Kantor Cabang Baturetno</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/surjana.html" class="ajax-popup-link"> SURJANA, S.E.</a>
+			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/surjana.html" class="ajax-popup-link"> Darsanto, S.E., M.M.</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Raya Baturetno - Wonogiri Km.3</em>
@@ -57,7 +57,7 @@ class="ajax-popup-link"> SUHARTATIK ,S.E. </a>
 			<img src="/images/kantor/girimarto.png" class="img-responsive img-centered" alt="">
 			<h3>Kantor Cabang Girimarto</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/hasyim.html" class="ajax-popup-link">MOHAMAD HASYIM, S.E.</a>
+			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/hasyim.html" class="ajax-popup-link">SURJANA, S.E.</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Sinuwun No 29 Tambak Merang, Girimarto.</em>
@@ -74,7 +74,7 @@ class="ajax-popup-link"> SUHARTATIK ,S.E. </a>
 			<img src="/images/kantor/giritontro.png" class="img-responsive img-centered" alt="">
 			<h3>Kantor Cabang Giritontro</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/sarwono.html" class="ajax-popup-link"> SARWONO, S.E.</a>
+			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/sarwono.html" class="ajax-popup-link"> ARWINTO ADI, S.E.</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Raya Giritontro.</em>

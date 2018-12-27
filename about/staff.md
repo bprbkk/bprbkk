@@ -84,7 +84,7 @@ layout: staf
 	<div class="dummy dummy-avatar" id="kepala-bidang">
 	<h2>Kepala Bidang</h2>
 		<div class="tooltip tooltip-effect-1">
-			<a href="#"><img src="/images/managemen/sri_hartti.png" alt="Indriyuliawati, S.E."/><h4>Indriyuliawati, S.E.</h4></a>
+			<a href="#"><img src="/images/managemen/yuliaindri.png" alt="Indriyuliawati, S.E."/><h4>Indriyuliawati, S.E.</h4></a>
 			<span class="tooltip-content">Kepala Bidang Umum PD BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -93,7 +93,7 @@ layout: staf
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/suprmo.jpg" alt="Mohamad Hasyim, S.E."/><h4>Mohamad Hasyim, S.E.</h4></a>
+			<a href="#"><img src="/images/managemen/hasyim.jpg" alt="Mohamad Hasyim, S.E."/><h4>Mohamad Hasyim, S.E.</h4></a>
 			<span class="tooltip-content">Kepala Bidang Pemasaran, Literasi Keuangan dan Inklusi Keuangan PD BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">

@@ -11,6 +11,7 @@ header-img: "images/bprbkk.jpg"
 I				| 2018				| [Download](/publikasi/2018/201803.pdf)
 II				| 2018				| [Download](/publikasi/2018/201806.pdf)
 III				| 2018				| [Download](/publikasi/2018/201809.pdf)
+IV				| 2018				| [Download](/publikasi/2018/201812.pdf)
 
 ## Tahun 2017
 

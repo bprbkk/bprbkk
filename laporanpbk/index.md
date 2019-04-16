@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publikasi Penanganan Pengaduan                             PD BPR BKK WONOGIRI
-description: "Publikasi Penanganan Pengaduan: Perbankan PD. BPR BKK"
+title: Publikasi Penanganan Pengaduan
+description: "PD. BPR BKK BKK WONOGIRI"
 header-img: "Publikasi Penanganan Pengaduan.pdf"
 ---
 ## Tahun 2019

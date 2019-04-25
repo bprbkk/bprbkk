@@ -10,5 +10,5 @@ header-img: "images/publkasi.jpg"
 ------------------------------------------- | ----------------- | ------------- |
 LAPORAN PENERAPAN TATA KELOLA      			| 2017  			| [Download](/laporan/2017/LAPORAN PENERAPAN TATA KELOLA.pdf)
 LAPORAN PENERAPAN TATA KELOLA      			| 2018  			| [Download](/laporan/2018/LAPORAN PENERAPAN TATA KELOLA.pdf)
-LAPORAN PENERAPAN TATA KELOLA				| 2018				| [Download](/laporn/2018/SELF ASSESSMENT TATA KELOLA 2018.pdf)	
+LAPORAN PENERAPAN TATA KELOLA				| 2018				| [Download](/laporn/2019/LAPORAN PENERAPAN TATA KELOLA.pdf)	
 

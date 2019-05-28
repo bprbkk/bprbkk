@@ -4,6 +4,12 @@ title: Publikasi PD BPR BKK WONOGIRI
 description: "Transparansi Perbankan"
 header-img: "images/bprbkk.jpg"
 ---
+## Tahun 2019
+
+| Triwulan Ke:	| Tahun | File Download |
+--------------- | ------- | ------------- |
+I				| 2019				| [Download](/publikasi/2019/201903.pdf)
+
 ## Tahun 2018
 
 | Triwulan Ke:	| Tahun | File Download |

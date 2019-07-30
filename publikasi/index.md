@@ -9,7 +9,7 @@ header-img: "images/bprbkk.jpg"
 | Triwulan Ke:	| Tahun | File Download |
 --------------- | ------- | ------------- |
 I				| 2019				| [Download](/publikasi/2019/201903.pdf)
-II				| 2019				| [Download](/publikasi/2019/II_2019.pdf)
+II				| 2019				| [Download](/publikasi/2019/II_S2019.pdf)
 
 ## Tahun 2018
 

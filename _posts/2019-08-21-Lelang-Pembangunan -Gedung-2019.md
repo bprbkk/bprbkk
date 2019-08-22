@@ -15,4 +15,7 @@ PD. BPR BKK WONOGIRI akan melaksanakan Lelang terbuka pembangunan Gedung Kantor 
 Pembangunan Tahun 2019.</div>
 
 Info lengkap download disini
-[Info lengkap download disini](/publikasi/Pembangunan/Pengumuman_lelang_bpr_wonogiri.WinRAR)
+[Lelang Perluasan 1](/publikasi/Pembangunan/LELANG_PERLUASAN_1.PDF)
+[Lelang Perluasan 2](/publikasi/Pembangunan/LELANG_PERLUASAN_2.PDF)
+[Pengumuman Perluasan 1](/publikasi/Pembangunan/PENGUMUMAN_LELANG_WONOBOYO_1.PDF)
+[Pengumuman Perluasan 1](/publikasi/Pembangunan/PENGUMUMAN_LELANG_WONOBOYO_2.PDF)

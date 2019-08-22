@@ -14,8 +14,6 @@ header-img: "images/blog/xx/Loker3.jpg"
 PD. BPR BKK WONOGIRI akan melaksanakan Lelang terbuka pembangunan Gedung Kantor Pusat dan Gedung Kantor Kas Wonoboyo.
 Pembangunan Tahun 2019.</div>
 
-Info lengkap download disini
-[Lelang Perluasan 1](/publikasi/Pembangunan/LELANG_PERLUASAN_1.PDF)
-[Lelang Perluasan 2](/publikasi/Pembangunan/LELANG_PERLUASAN_2.PDF)
-[Pengumuman Perluasan 1](/publikasi/Pembangunan/PENGUMUMAN_LELANG_WONOBOYO_1.PDF)
-[Pengumuman Perluasan 1](/publikasi/Pembangunan/PENGUMUMAN_LELANG_WONOBOYO_2.PDF)
+
+[Info lengkap download disini](/publikasi/Pembangunan/Pengumuman_Lelang_Gedung_BPR_Wonogiri.pdf)
+

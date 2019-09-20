@@ -31,7 +31,7 @@ Persyaratan:
 7. Surat keterangan sehat jasmani, rohani dan tidak buta warna,    dibuktikan dengan Surat Keterangan dari Dokter (    Pemerintah /     praktek swasta )..</div>
 
 
-[Pengumuman download disini](/publikasi/loker/Penerimaan_Pegawai_ 2019.pdf)
+[Pengumuman download disini](/publikasi/Loker/Penerimaan_Pegawai_ 2019.pdf)
 
 
 

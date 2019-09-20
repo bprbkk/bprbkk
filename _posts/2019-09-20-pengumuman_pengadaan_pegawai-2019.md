@@ -33,6 +33,6 @@ Persyaratan:
 
 [Pengumuman download disini](/publikasi/loker/Penerimaan_Pegawai_ 2019.pdf)
 
-[Contoh surat Lamaran download disini](/Contoh_Surat_Lamaran.pdf)
+[Contoh Surat Lamaran download disini](/Contoh_Surat_Lamaran.pdf)
 
 

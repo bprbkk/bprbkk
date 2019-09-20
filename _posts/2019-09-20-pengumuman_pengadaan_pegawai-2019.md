@@ -10,6 +10,7 @@ header-img: "images/blog/xx/Loker3.jpg"
 
 
 ## Pengumuman Pengadaan Calon Pegawai PD BPR BKK WONOGIRI
+
 <div style="text-align: justify;">
 Saat ini PD. Bank Perkreditan Rakyat BKK Wonogiri membuka lowongan sebagai berikut:
 
@@ -31,6 +32,7 @@ Persyaratan:
 
 
 [Pengumuman download disini](/publikasi/loker/Penerimaan_Pegawai_ 2019.pdf)
+
 [Contoh surat Lamaran download disini](/Contoh_Surat_Lamaran.pdf)
 
 

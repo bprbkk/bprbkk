@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Pengumuman Pengadaan Calon Pegawai PD BPR BKK WONOGIRI tahun 2019
-subtitle:   "Pengumuman Pengadaan Calon Pegawai"
+title: Pengumuman Pengadaan Calon Pegawai tahun 2019
+subtitle:   "PD. Bank Perkreditan Rakyat BKK Wonogiri"
 description: ""
 author: "cakpri"
 date: 2019-09-20 10:15:00
@@ -27,7 +27,7 @@ Persyaratan:
 3. Tidak pernah diberhentikan tidak dengan hormat sebagai pegawai    negeri, pegawai honorer atau sebagai   pegawai swasta;
 4. Tidak berkedudukan sebagai Calon Pegawai Negeri Sipil / Pegawai    Negeri Sipil;
 5. Memiliki ijazah sesuai kualifikasi yang dipersyaratkan;
-6. Berkelakuan baik dibuktikan dengan Foto copy Surat Keterangan    Catatan dari Kepolisian  (SKCK) yang masih berlaku.
+6. Berkelakuan baik dibuktikan dengan Foto copy Surat Keterangan    Catatan dari Kepolisian  (SKCK) yang   masih berlaku.
 7. Surat keterangan sehat jasmani, rohani dan tidak buta warna,    dibuktikan dengan Surat Keterangan dari Dokter (    Pemerintah /     praktek swasta )..</div>
 
 

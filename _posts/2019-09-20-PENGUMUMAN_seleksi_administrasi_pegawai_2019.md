@@ -19,7 +19,7 @@ TAHUN 2019
 
 Menindaklanjuti pengumuman Panitia Seleksi Pengadaan Calon Pegawai PD BPR BKK Wonogiri tahun 2019
 Nomor : 01/PSPCP BPR BKK WNG/2019 Tanggal 17 September 2019 dan berdasarkan Surat Keputusan Ketua
-Panitia Nomor : 06/SK/PSPCP BPR BKK WNG/ 2019 tanggal 2 Oktober 2019 tentang Penetapan Hasil Seleksi Administrasi Calon Pegawai PD BPR BKK Wonogiri Tahun 2019</div>
+Panitia Nomor : 06/SK/PSPCP BPR BKK WNG/ 2019 tanggal 2 Oktober 2019 tentang Penetapan Hasil Seleksi Administrasi Calon Pegawai PD BPR BKK Wonogiri Tahun 2019. </div>
 
 
 [Pengumuman download disini](/publikasi/Loker/PENGUMUMAN_seleksi_administrasi_pegawai_2019.pdf)

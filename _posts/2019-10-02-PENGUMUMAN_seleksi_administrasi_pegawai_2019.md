@@ -21,7 +21,7 @@ Menindaklanjuti pengumuman Panitia Seleksi Pengadaan Calon Pegawai PD BPR BKK Wo
 </div>
 
 
-[Pengumuman download disini](/publikasi/Loker/PENGUMUMAN_seleksi_administrasi_pegawai_2019.pdf)
+[Pengumuman download disini](/publikasi/Loker/pengumuman_seleksi_administrasi_ pegawai_2019.pdf)
 
 
 

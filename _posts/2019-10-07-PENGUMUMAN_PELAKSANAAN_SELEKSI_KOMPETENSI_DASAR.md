@@ -19,10 +19,14 @@ PELAKSANAAN SELEKSI KOMPETENSI DASAR (SKD)
 PENERIMAAN CALON PEGAWAI
 PD BPR BKK WONOGIRI TAHUN 2019
 
-Seleksi Kompetensi Dasar (SKD) di selenggarakan pada : Hari/ tanggal : Kamis, 
-10 Oktober 2019
+Seleksi Kompetensi Dasar (SKD) di selenggarakan pada : 
+
+Hari/ tanggal : Kamis, 10 Oktober 2019
+
 Tempat: SMK Negeri 2 Wonogiri
+
 Alamat: Jl. Wonogiri–Ngadirojo KM. 3 Bulusari RT. 01 RW. 03 Bulusulur, Wonogiri
+
 Jadwal waktu pelaksanaan ujian serta Pembagian sesi dapat dilihat atau didownload dilink dibawah ini;
 </div>
 

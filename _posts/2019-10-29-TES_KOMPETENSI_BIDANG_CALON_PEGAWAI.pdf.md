@@ -22,5 +22,5 @@ Tempat  Kantor Pusat PD BPR BKK WONOGIRI, Jl. Jendral Sudirman No. 234 Wonogiri.
 </div>
 
 [Info lengkap download disini](/publikasi/Loker/TES_KOMPETENSI_BIDANG_CALON_PEGAWAI.pdf)
-[Link Group WhatApp] https://chat.whatsapp.com/F0xCEsDUWpnJ9JiadHZ1CZ
+
 

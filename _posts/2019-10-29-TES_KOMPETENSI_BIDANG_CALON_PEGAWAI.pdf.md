@@ -14,11 +14,11 @@ header-img: "images/bl_og/201_7/Lo_ker3.jpg"
 Dengan ini memberitahukan bahwa Jadwal Pelaksanaan Tes Kompetensi Bidang Calon Pegawai PD BPR BKK Wonogiri.
 Akan dilaksanakan pada :
 
-Hari,  Kamis,
+Hari  Kamis,
 
-tanggal,  31 Oktober 2019,
+tanggal  31 Oktober 2019,
 
-Tempat,  Kantor Pusat PD BPR BKK WONOGIRIJl. Jendral Sudirman No. 234 Wonogiri.
+Tempat  Kantor Pusat PD BPR BKK WONOGIRIJl. Jendral Sudirman No. 234 Wonogiri.
 </div>
 
 [Info lengkap download disini](/publikasi/Loker/TES_KOMPETENSI_BIDANG_CALON_PEGAWAI.pdf)

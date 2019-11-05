@@ -11,6 +11,6 @@ header-img: "images/blog/201cc8/spiritual.png"
 
 ## PENGUMUMAN AKHIR PENERIMAAN CALON PEGAWAI PD BPR BKK WONOGIRI
 
-Pengumuman Akhir Penerimaan Calon pegawai PD BPR BKK Wonogiri Formasi Tahun 2019.
+Pengumuman Akhir Penerimaan Calon pegawai PD BPR BKK WONOGIRI Formasi Tahun 2019.
 
 [Info lengkap download disini](/publikasi/Loker/PENGUMUMAN AKHIR CALON PEGAWAI TAHUN 2019.pdf)

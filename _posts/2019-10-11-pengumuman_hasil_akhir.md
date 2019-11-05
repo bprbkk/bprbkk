@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PENGUMUMAN HASIL AKHIR PENERIMAAN CALON PEGAWAI TAHUN 2019
-subtitle:   " PD BPR BKK WONOGIRI."
+subtitle:   ""
 description: ""
 author: "cakpri"
 date: 2019-11-05 17:44:00

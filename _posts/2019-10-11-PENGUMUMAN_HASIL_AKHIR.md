@@ -4,7 +4,7 @@ title: PENGUMUMAN AKHIR PENERIMAAN CALON PEGAWAI PD BPR BKK WONOGIRI
 subtitle:   " PD. Bank Perkreditan Rakyat BKK Wonogiri."
 description: ""
 author: "cakpri"
-date: 2019-10-17 13:44:00
+date: 2019-11-05 16:05:00
 header-img: "images/blog/201cc8/spiritual.png"
 ---
 

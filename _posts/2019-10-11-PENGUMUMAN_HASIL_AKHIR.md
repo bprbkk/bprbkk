@@ -13,4 +13,4 @@ header-img: "images/blog/201cc8/spiritual.png"
 
 Pengumuman Akhir Penerimaan Calon pegawai PD BPR BKK WONOGIRI Tahun 2019.
 
-[Info lengkap download disini](/publikasi/Loker/PENGUMUMAN AKHIR CALON PEGAWAI TAHUN 2019.pdf)
+[Info lengkap download disini](/publikasi/Loker/PENGUMUMAN_AKHIR_CALON_PEGAWAI_TAHUN_2019.pdf)

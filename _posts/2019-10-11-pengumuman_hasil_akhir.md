@@ -1,11 +1,11 @@
 ---
 layout: post
 title: PENGUMUMAN HASIL AKHIR PENERIMAAN CALON PEGAWAI TAHUN 2019
-subtitle:   " PD. Bank Perkreditan Rakyat BKK Wonogiri."
+subtitle:   " PD BPR BKK WONOGIRI."
 description: ""
 author: "cakpri"
 date: 2019-11-05 17:44:00
-header-img: "images/blog/201cc8/spiritual.png"
+header-img: "images/blog/2017/Loker3.jpg"
 ---
 
 

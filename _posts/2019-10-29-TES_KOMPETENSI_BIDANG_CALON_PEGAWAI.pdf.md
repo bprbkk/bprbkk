@@ -21,6 +21,6 @@ tanggal  31 Oktober 2019,
 Tempat  Kantor Pusat PD BPR BKK WONOGIRI, Jl. Jendral Sudirman No. 234 Wonogiri.
 </div>
 
-[Info lengkap download disini](/publikasi/Loker/TES_KOMPETENSI_BIDANG_CALON_PEGAWAI.pdf)
+[Info lengkap download disini](/publikasi/Loker/PENGUMUMAN_AKHIR_CALON_PEGAWAI_PD_BPR_BKK_WONOGIRI_TAHUN_2019.pdf)
 
 

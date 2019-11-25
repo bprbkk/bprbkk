@@ -45,10 +45,10 @@ layout: home
             <div class="vertical-block--inner">
                 <div class="container">
                     <h2>
-                        Produk<br> <span class="text-success">Layanan</span> BPRBKK
+                        Produk<br> <span class="text-success">Layanan</span> BPR BKK WONOGIRI
                     </h2>
                     <p>
-                        Produk layanan kami meliputi kredit, <br>Tamades, Deposito dan Sicipta. <br>Menjangkau bagi semua kepentingan keuangan masyarakat.<br>Segera bergabung bersama kami, <br>miliki rekening di <b>PD BPR BKK WONOGIRI</b> dan tingkatkan saldonya.
+                        Produk layanan kami meliputi kredit, <br>Tamades, Deposito dan Sicipta. <br>Menjangkau bagi semua kepentingan keuangan masyarakat.<br>Segera bergabung bersama kami, <br>miliki rekening di <b>PT BPR BKK WONOGIRI (Perseroda)</b> dan tingkatkan saldonya.
                     </p>
                     <div class="b-monitor js-monitor"></div>
                     <div class="form-cont has_hide">
@@ -64,7 +64,7 @@ layout: home
             <i></i>
         </div>
     </div>
-    <div class="section section3" data-index="produk_unggulan_bprbkk">
+    <div class="section section3" data-index="produk_unggulan_PT_BPR_BKK_WONOGIRI">
         <div class="vertical-block">
             <div class="vertical-block--inner">
                 <div class="container text-center">

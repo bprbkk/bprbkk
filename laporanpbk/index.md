@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publikasi Penanganan Pengaduan
-description: "PD. BPR BKK WONOGIRI"
+description: "PT BPR BKK WONOGIRI (Perseroda)"
 header-img: "Publikasi Penanganan Pengaduan.pdf"
 ---
 ## Tahun 2019

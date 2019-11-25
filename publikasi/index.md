@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publikasi PD BPR BKK WONOGIRI
+title: Publikasi PT BPR BKK WONOGIRI (Perseroda)
 description: "Transparansi Perbankan"
 header-img: "images/bprbkk.jpg"
 ---

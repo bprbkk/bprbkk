@@ -45,7 +45,7 @@ layout: home
             <div class="vertical-block--inner">
                 <div class="container">
                     <h2>
-                        Produk<br> <span class="text-success">Layanan</span> BPR BKK WONOGIRI
+                        Produk<br> <span class="text-success">Layanan</span> PT BPR BKK WONOGIRI (Perseroda)
                     </h2>
                     <p>
                         Produk layanan kami meliputi kredit, <br>Tamades, Deposito dan Sicipta. <br>Menjangkau bagi semua kepentingan keuangan masyarakat.<br>Segera bergabung bersama kami, <br>miliki rekening di <b>PT BPR BKK WONOGIRI (Perseroda)</b> dan tingkatkan saldonya.

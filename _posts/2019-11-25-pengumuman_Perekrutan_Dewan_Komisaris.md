@@ -14,5 +14,5 @@ header-img: "images/bggglog/2017/Loker3.jpg"
 Sesuai dengan keputusan Gubernur Jawa Tengah No. 539/51 Tahun 2018 tetang Pembentukan Panitia Seleksi Dewan Pengawas/Komisaris Perusahaan Daerah Bank Perkreditan Rakyat Bank
 Kredit Kecamatan dan Perusahaan Daerah Badan Kredit Kecamatan. Dengan ini diumumkan perekrutan Dewan Komisaris Independen.
 
-[Info lengkap download disini](/publikasi/Pengumuman/Komisaris_Independen_BPR_Wonogiri-091219.pdf)
+[Info lengkap download disini](/publikasi/Pengumuman/Komisaris_Independen_BPR_Wonogiri_091219.pdf)
 

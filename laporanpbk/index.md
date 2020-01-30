@@ -9,5 +9,5 @@ header-img: "Publikasi Penanganan Pengaduan.pdf"
 | Jenis Laporan:                            | Tahun             | File Download |
 ------------------------------------------- | ----------------- | ------------- |
 PUBLIKASI PENANGANAN PENGADUAN      		| 2019  			| [Download](/laporanpbk/2019/Publikasi Penanganan Pengaduan.pdf)
-------------------------------------------- | ----------------- | ------------- |
 PUBLIKASI PENANGANAN PENGADUAN      		| 2020  			| [Download](/laporanpbk/2020/Publikasi Penanganan Pengaduan.pdf)
+ 

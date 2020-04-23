@@ -11,7 +11,7 @@ header-img: "images/bprbkk.jpg"
 I				| 2019				| [Download](/publikasi/2019/201903.pdf)
 II				| 2019				| [Download](/publikasi/2019/II_2019.pdf)
 III				| 2019				| [Download](/publikasi/2019/LaporanPublikasiNeraca601576001092019.pdf)
-IV				| 2019				| [Download] (/LaporanPublikasi2019.pdf)
+IV				| 2019				| [Download](/LaporanPublikasi2019.pdf)
 
 ## Tahun 2018
 

@@ -18,3 +18,13 @@ LAPORAN PENERAPAN TATA KELOLA      			| 2017  			| [Download](/laporan/2017/LAPO
 LAPORAN PENERAPAN TATA KELOLA 2018			| 2018  			| [Download](/laporan/2018/LAPORAN PENERAPAN TATA KELOLA 2018.pdf)
 LAPORAN SELF ASSESMENT TATA KELOLA 2018  	| 2018  			| [Download](/laporan/2018/SELF ASSESMENT TATA KELOLA 2018.pdf)
 
+
+## Tahun 2019
+
+| Jenis Laporan:                            | Tahun             | File Download |
+------------------------------------------- | ----------------- | ------------- |
+KERTAS KERJA LAPORAN TATA KELOLA 2019		| 2019  			| [Download](/laporan/2019/Kertas Kerja Laporan Tata Kelola Tahun 2019.pdf)
+LAPORAN KESIMPULAN TATA KELOLA TAHUN 2019  	| 2019  			| [Download](/laporan/2018/Laporan Kesimpulan Umum Tata Kelola Tahun 2019.pdf)
+LAPORAN TATA KELOLA TAHUN 2019				| 2019  			| [Download](/laporan/2019/Laporan Tata Kelola Tahun 2019.pdf)
+PENGANTAR LAPORAN PENERAPAN TATA KELOLA 2019| 2019  			| [Download](/laporan/2019/Pengantar Laporan Penerapan Tata Kelola 2019.pdf)
+

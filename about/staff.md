@@ -120,7 +120,7 @@ layout: staf
 			</div>
 		</div>
 	</div>
-	<div class="dummy dummy-avatar" id="Pemimpin Cabang">
+	<div class="dummy dummy-avatar" id="Pemimpin-Cabang">
 	<div class="tooltip tooltip-effect-2">
 			<a href="#"><img src="/images/managemen/suhartatik.jpg" alt="suhartatik,S.E."/><h4>suhartatik,S.E.</h4></a>
 			<span class="tooltip-content">Pemimpin Kantor Pusat Operasional PT BPR BKK WONOGIRI (Perseroda)</span>
@@ -142,8 +142,8 @@ layout: staf
 		</div>
 	</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/agus_sriyanto.jpg" alt="Agus Sriyanto,S.E."/><h4>Agus Sriyanto,S.E.</h4></a>
-			<span class="tooltip-content">Pemimpin Cabang Ngadirojo PT BPR BKK WONOGIRI (Perseroda)</span>
+			<a href="#"><img src="/images/managemen/suhartatik.jpg" alt="suhartatik,S.E."/><h4>suhartatik,S.E.</h4></a>
+			<span class="tooltip-content">Pemimpin Kantor Pusat Operasional PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
@@ -152,8 +152,8 @@ layout: staf
 		</div>
 	</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/agus_sriyanto.jpg" alt="Agus Sriyanto,S.E."/><h4>Agus Sriyanto,S.E.</h4></a>
-			<span class="tooltip-content">Pemimpin Cabang Ngadirojo PT BPR BKK WONOGIRI (Perseroda)</span>
+			<a href="#"><img src="/images/managemen/suhartatik.jpg" alt="suhartatik,S.E."/><h4>suhartatik,S.E.</h4></a>
+			<span class="tooltip-content">Pemimpin Kantor Pusat Operasional PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
@@ -162,58 +162,8 @@ layout: staf
 		</div>
 	</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/agus_sriyanto.jpg" alt="Agus Sriyanto,S.E."/><h4>Agus Sriyanto,S.E.</h4></a>
-			<span class="tooltip-content">Pemimpin Cabang Ngadirojo PT BPR BKK WONOGIRI (Perseroda)</span>
-			<div class="tooltip-shape">
-				<svg height="165px" width="220px">
-				<use xlink:href="#managemen-2" class="bprbkk-1" />
-				</svg>
-			</div>
-		</div>
-	</div>
-	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/agus_sriyanto.jpg" alt="Agus Sriyanto,S.E."/><h4>Agus Sriyanto,S.E.</h4></a>
-			<span class="tooltip-content">Pemimpin Cabang Ngadirojo PT BPR BKK WONOGIRI (Perseroda)</span>
-			<div class="tooltip-shape">
-				<svg height="165px" width="220px">
-				<use xlink:href="#managemen-2" class="bprbkk-1" />
-				</svg>
-			</div>
-		</div>
-	</div>
-	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/agus_sriyanto.jpg" alt="Agus Sriyanto,S.E."/><h4>Agus Sriyanto,S.E.</h4></a>
-			<span class="tooltip-content">Pemimpin Cabang Ngadirojo PT BPR BKK WONOGIRI (Perseroda)</span>
-			<div class="tooltip-shape">
-				<svg height="165px" width="220px">
-				<use xlink:href="#managemen-2" class="bprbkk-1" />
-				</svg>
-			</div>
-		</div>
-	</div>
-	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/agus_sriyanto.jpg" alt="Agus Sriyanto,S.E."/><h4>Agus Sriyanto,S.E.</h4></a>
-			<span class="tooltip-content">Pemimpin Cabang Ngadirojo PT BPR BKK WONOGIRI (Perseroda)</span>
-			<div class="tooltip-shape">
-				<svg height="165px" width="220px">
-				<use xlink:href="#managemen-2" class="bprbkk-1" />
-				</svg>
-			</div>
-		</div>
-	</div>
-	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/agus_sriyanto.jpg" alt="Agus Sriyanto,S.E."/><h4>Agus Sriyanto,S.E.</h4></a>
-			<span class="tooltip-content">Pemimpin Cabang Ngadirojo PT BPR BKK WONOGIRI (Perseroda)</span>
-			<div class="tooltip-shape">
-				<svg height="165px" width="220px">
-				<use xlink:href="#managemen-2" class="bprbkk-1" />
-				</svg>
-			</div>
-		</div>
-	</div>
-	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/agus_sriyanto.jpg" alt="Agus Sriyanto,S.E."/><h4>Agus Sriyanto,S.E.</h4></a>
-			<span class="tooltip-content">Pemimpin Cabang Ngadirojo PT BPR BKK WONOGIRI (Perseroda)</span>
+			<a href="#"><img src="/images/managemen/suhartatik.jpg" alt="suhartatik,S.E."/><h4>suhartatik,S.E.</h4></a>
+			<span class="tooltip-content">Pemimpin Kantor Pusat Operasional PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />

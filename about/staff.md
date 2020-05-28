@@ -21,7 +21,7 @@ layout: staf
 	<div class="dummy dummy-avatar" id="dewan-Komisaris">
 	<h2>Dewan Komisaris</h2>
 		<div class="tooltip tooltip-effect-1">
-		<a href="#"><img src="/images/managemen/aguspras.png" alt="Agus Prasutio,S.H., M.Si."/><h4>Agus Prasutio,S.H., M.Si.</h4></a>
+		<a href="#"><img src="/images/managemen/aguspras.jpg" alt="Agus Prasutio,S.H., M.Si."/><h4>Agus Prasutio,S.H., M.Si.</h4></a>
 		<span class="tooltip-content"> Ketua Dewan Komisaris PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">		
 				<svg height="165px" width="220px">
@@ -60,7 +60,7 @@ layout: staf
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/suwarto.png" alt="Suwarto, S.E."/><h4>Suwarto, S.E.</h4></a>
+		<a href="#"><img src="/images/managemen/suwarto.jpg" alt="Suwarto, S.E."/><h4>Suwarto, S.E.</h4></a>
 		<span class="tooltip-content">Direktur Pemasaran PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">

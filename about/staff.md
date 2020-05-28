@@ -152,8 +152,8 @@ layout: staf
 		</div>
 	</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/surjana.jpg" alt="Surjana,S.E."/><h4>Surjana,S.E.</h4></a>
-			<span class="tooltip-content">Pemimpin Cabang Girimarto PT BPR BKK WONOGIRI (Perseroda)</span>
+			<a href="#"><img src="/images/managemen/agus_sriyanto.jpg" alt="Agus Sriyanto,S.E."/><h4>Agus Sriyanto,S.E.</h4></a>
+			<span class="tooltip-content">Pemimpin Cabang Ngadirojo PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
@@ -162,8 +162,8 @@ layout: staf
 		</div>
 	</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/suratni.jpg" alt="Suratni,S.E."/><h4>Suratni,S.E.</h4></a>
-			<span class="tooltip-content">Pemimpin Cabang Jatipurno PT BPR BKK WONOGIRI (Perseroda)</span>
+			<a href="#"><img src="/images/managemen/agus_sriyanto.jpg" alt="Agus Sriyanto,S.E."/><h4>Agus Sriyanto,S.E.</h4></a>
+			<span class="tooltip-content">Pemimpin Cabang Ngadirojo PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
@@ -172,8 +172,8 @@ layout: staf
 		</div>
 	</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/ariss.jpg" alt="Aris Suhartoko,S.E."/><h4>Aris Suhartoko,S.E.</h4></a>
-			<span class="tooltip-content">Pemimpin Cabang Jatiroto PT BPR BKK WONOGIRI (Perseroda)</span>
+			<a href="#"><img src="/images/managemen/agus_sriyanto.jpg" alt="Agus Sriyanto,S.E."/><h4>Agus Sriyanto,S.E.</h4></a>
+			<span class="tooltip-content">Pemimpin Cabang Ngadirojo PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
@@ -182,8 +182,8 @@ layout: staf
 		</div>
 	</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/bambang.jpg" alt="Bambang,S.E."/><h4>Bambang,S.E.</h4></a>
-			<span class="tooltip-content">Pemimpin Cabang Slogohimo PT BPR BKK WONOGIRI (Perseroda)</span>
+			<a href="#"><img src="/images/managemen/agus_sriyanto.jpg" alt="Agus Sriyanto,S.E."/><h4>Agus Sriyanto,S.E.</h4></a>
+			<span class="tooltip-content">Pemimpin Cabang Ngadirojo PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
@@ -192,8 +192,8 @@ layout: staf
 		</div>
 	</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/jack.jpg" alt="Joko Santoso,S.E."/><h4>Joko Santoso,S.E.</h4></a>
-			<span class="tooltip-content">Pemimpin Cabang Purwantoro PT BPR BKK WONOGIRI (Perseroda)</span>
+			<a href="#"><img src="/images/managemen/agus_sriyanto.jpg" alt="Agus Sriyanto,S.E."/><h4>Agus Sriyanto,S.E.</h4></a>
+			<span class="tooltip-content">Pemimpin Cabang Ngadirojo PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
@@ -202,8 +202,8 @@ layout: staf
 		</div>
 	</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/Endang.jpg" alt="Endang Suharniati,S.E."/><h4>Endang Suhaniati,S.E.</h4></a>
-			<span class="tooltip-content">Pemimpin Cabang Tirtomoyo PT BPR BKK WONOGIRI (Perseroda)</span>
+			<a href="#"><img src="/images/managemen/agus_sriyanto.jpg" alt="Agus Sriyanto,S.E."/><h4>Agus Sriyanto,S.E.</h4></a>
+			<span class="tooltip-content">Pemimpin Cabang Ngadirojo PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
@@ -212,8 +212,8 @@ layout: staf
 		</div>
 	</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/basuki.jpg" alt="Darsanto,S.E."/><h4>Darsanto,S.E.</h4></a>
-			<span class="tooltip-content">Pemimpin Cabang Baturetno PT BPR BKK WONOGIRI (Perseroda)</span>
+			<a href="#"><img src="/images/managemen/agus_sriyanto.jpg" alt="Agus Sriyanto,S.E."/><h4>Agus Sriyanto,S.E.</h4></a>
+			<span class="tooltip-content">Pemimpin Cabang Ngadirojo PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
@@ -222,8 +222,8 @@ layout: staf
 		</div>
 	</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/Giyas.jpg" alt="Giyastanto,S.E."/><h4>Giyastanto,S.E.</h4></a>
-			<span class="tooltip-content">Pemimpin Cabang Batuwarno PT BPR BKK WONOGIRI (Perseroda)</span>
+			<a href="#"><img src="/images/managemen/agus_sriyanto.jpg" alt="Agus Sriyanto,S.E."/><h4>Agus Sriyanto,S.E.</h4></a>
+			<span class="tooltip-content">Pemimpin Cabang Ngadirojo PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
@@ -232,18 +232,8 @@ layout: staf
 		</div>
 	</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/AMS.jpg" alt="AMS Adi Prabowo,S.E."/><h4>AMS Adi Prabowo,S.E.</h4></a>
-			<span class="tooltip-content">Pemimpin Cabang Giriwoyo PT BPR BKK WONOGIRI (Perseroda)</span>
-			<div class="tooltip-shape">
-				<svg height="165px" width="220px">
-				<use xlink:href="#managemen-2" class="bprbkk-1" />
-				</svg>
-			</div>
-		</div>
-	</div>
-	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/adi.jpg" alt="Arwinto Adi,S.E."/><h4>,S.E.</h4></a>
-			<span class="tooltip-content">Pemimpin Cabang Giritontro PT BPR BKK WONOGIRI (Perseroda)</span>
+			<a href="#"><img src="/images/managemen/agus_sriyanto.jpg" alt="Agus Sriyanto,S.E."/><h4>Agus Sriyanto,S.E.</h4></a>
+			<span class="tooltip-content">Pemimpin Cabang Ngadirojo PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />

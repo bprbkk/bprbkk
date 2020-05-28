@@ -21,8 +21,8 @@ layout: staf
 	<div class="dummy dummy-avatar" id="dewan-Komisaris">
 	<h2>Dewan Komisaris</h2>
 		<div class="tooltip tooltip-effect-1">
-		<a href="#"><img src="/images/managemen/aguspras.png" alt="Agus Prasutio,S.H., M.Si."/><h4>Agus Prasutio,S.H., M.Si.</h4></a>
-		<span class="tooltip-content"> Dewan Komisaris PT BPR BKK WONOGIRI (Perseroda)</span>
+		<a href="#"><img src="/images/managemen/aguspras.jpg" alt="Agus Prasutio,S.H., M.Si."/><h4>Agus Prasutio,S.H., M.Si.</h4></a>
+		<span class="tooltip-content"> Ketua Dewan Komisaris PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">		
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen" class="bprbkk-1" />
@@ -31,7 +31,7 @@ layout: staf
 		</div>
 		<div class="tooltip tooltip-effect-2">
 		<a href="#"><img src="/images/managemen/edhytri.jpg" alt="Edhy Tri Hadyantho, S.Sos., M.Si."/><h4>Edhy Tri Hadyantho, S.Sos., M.Si.</h4></a>
-		<span class="tooltip-content">Komisaris PT BPR BKK WONOGIRI (Perseroda)</span>
+		<span class="tooltip-content">Anggota Dewan Komisaris PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
@@ -39,8 +39,8 @@ layout: staf
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/marjoko.jpg" alt="Aristian Hari Marjoko, S.E., M.M."/><h4>Aristian Hari Marjoko, S.E., M.M.</h4></a>
-		<span class="tooltip-content">Dewan Komisaris Independen PT BPR BKK WONOGIRI (Perseroda)</span>
+		<a href="#"><img src="/images/managemen/marjoko.jpg" alt="Aristian Hari Marjoko, S.E., M.M."/><h4>alt="Aristian Hari Marjoko, S.E., M.M.</h4></a>
+		<span class="tooltip-content">Anggota Dewan Komisaris Independen PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
@@ -70,7 +70,7 @@ layout: staf
 		</div>
 		<div class="tooltip tooltip-effect-2">
 		<a href="#"><img src="/images/managemen/sarti.jpg" alt="Sarti, S.E., M.M."/><h4>Sarti, S.E., M.M.</h4></a>
-		<span class="tooltip-content">Direktur Umum dan Kepatuhan PT BPR BKK WONOGIRI (Perseroda)</span>
+		<span class="tooltip-content">Direktur Umum PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
@@ -82,7 +82,7 @@ layout: staf
 	<h2>SKAI</h2>
 		<div class="tooltip tooltip-effect-2">
 		<a href="#"><img src="/images/managemen/suyono.jpg" alt="Suyono,S.E."/><h4>Suyono,S.E.</h4></a>
-		<span class="tooltip-content">Ketua SKAI PT BPR BKK WONOGIRI (Perseroda)</span>
+		<span class="tooltip-content">Kepala SKAI PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
@@ -102,7 +102,7 @@ layout: staf
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/anom.jpg" alt="Anom Eko Bawono, S.E."/><h4>Anom Eko Bawono, S.E.</h4></a>
+			<a href="#"><img src="/images/managemen/anom.jpg" alt="Anom Eko Bawono, S.E."/><h4>Mohamad Hasyim, S.E.</h4></a>
 			<span class="tooltip-content">Kepala Bidang Pemasaran, Literasi Keuangan dan Inklusi Keuangan PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -121,56 +121,87 @@ layout: staf
 		</div>
 	</div>
 	<div class="dummy dummy-avatar" id="Pemimpin-Cabang">
+	<h2>Pemimpin Cabang</h2>
+		<div class="tooltip tooltip-effect-1">
+			<a href="#"><img src="/images/managemen/yuliaindri.jpg" alt="Indriyuliawati, S.E."/><h4>Indriyuliawati, S.E.</h4></a>
+			<span class="tooltip-content">Kepala Bidang Umum PT BPR BKK WONOGIRI (Perseroda)</span>
+			<div class="tooltip-shape">
+				<svg height="165px" width="220px">
+				<use xlink:href="#managemen" class="bprbkk-1" />
+				</svg>
+			</div>
+		</div>
+	</div>	
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/suhartatik.jpg" alt="suhartatik,S.E."/><h4>suhartatik,S.E.</h4></a>
-			<span class="tooltip-content">Pemimpin Kantor Pusat Operasional PT BPR BKK WONOGIRI (Perseroda)</span>
+			<a href="#"><img src="/images/managemen/anom.jpg" alt="Anom Eko Bawono, S.E."/><h4>Mohamad Hasyim, S.E.</h4></a>
+			<span class="tooltip-content">Kepala Bidang Pemasaran, Literasi Keuangan dan Inklusi Keuangan PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
 				</svg>
 			</div>
 		</div>
-	</div>
+	</div>	
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/suhartatik.jpg" alt="suhartatik,S.E."/><h4>suhartatik,S.E.</h4></a>
-			<span class="tooltip-content">Pemimpin Kantor Pusat Operasional PT BPR BKK WONOGIRI (Perseroda)</span>
+			<a href="#"><img src="/images/managemen/anom.jpg" alt="Anom Eko Bawono, S.E."/><h4>Mohamad Hasyim, S.E.</h4></a>
+			<span class="tooltip-content">Kepala Bidang Pemasaran, Literasi Keuangan dan Inklusi Keuangan PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
 				</svg>
 			</div>
 		</div>
-	</div>
+	</div>	
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/suhartatik.jpg" alt="suhartatik,S.E."/><h4>suhartatik,S.E.</h4></a>
-			<span class="tooltip-content">Pemimpin Kantor Pusat Operasional PT BPR BKK WONOGIRI (Perseroda)</span>
+			<a href="#"><img src="/images/managemen/anom.jpg" alt="Anom Eko Bawono, S.E."/><h4>Mohamad Hasyim, S.E.</h4></a>
+			<span class="tooltip-content">Kepala Bidang Pemasaran, Literasi Keuangan dan Inklusi Keuangan PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
 				</svg>
 			</div>
 		</div>
-	</div>
+	</div>	
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/suhartatik.jpg" alt="suhartatik,S.E."/><h4>suhartatik,S.E.</h4></a>
-			<span class="tooltip-content">Pemimpin Kantor Pusat Operasional PT BPR BKK WONOGIRI (Perseroda)</span>
+			<a href="#"><img src="/images/managemen/anom.jpg" alt="Anom Eko Bawono, S.E."/><h4>Mohamad Hasyim, S.E.</h4></a>
+			<span class="tooltip-content">Kepala Bidang Pemasaran, Literasi Keuangan dan Inklusi Keuangan PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
 				</svg>
 			</div>
 		</div>
-	</div>
+	</div>	
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/agus_sriyanto.jpg" alt="Agus Sriyanto,S.E."/><h4>Agus Sriyanto,S.E.</h4></a>
-			<span class="tooltip-content">Pemimpin Cabang Ngadirojo PT BPR BKK WONOGIRI (Perseroda)</span>
+			<a href="#"><img src="/images/managemen/anom.jpg" alt="Anom Eko Bawono, S.E."/><h4>Mohamad Hasyim, S.E.</h4></a>
+			<span class="tooltip-content">Kepala Bidang Pemasaran, Literasi Keuangan dan Inklusi Keuangan PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
 				</svg>
 			</div>
 		</div>
-	</div>
+	</div>	
+	<div class="tooltip tooltip-effect-2">
+			<a href="#"><img src="/images/managemen/anom.jpg" alt="Anom Eko Bawono, S.E."/><h4>Mohamad Hasyim, S.E.</h4></a>
+			<span class="tooltip-content">Kepala Bidang Pemasaran, Literasi Keuangan dan Inklusi Keuangan PT BPR BKK WONOGIRI (Perseroda)</span>
+			<div class="tooltip-shape">
+				<svg height="165px" width="220px">
+				<use xlink:href="#managemen-2" class="bprbkk-1" />
+				</svg>
+			</div>
+		</div>
+	</div>	
+	<div class="tooltip tooltip-effect-2">
+			<a href="#"><img src="/images/managemen/anom.jpg" alt="Anom Eko Bawono, S.E."/><h4>Mohamad Hasyim, S.E.</h4></a>
+			<span class="tooltip-content">Kepala Bidang Pemasaran, Literasi Keuangan dan Inklusi Keuangan PT BPR BKK WONOGIRI (Perseroda)</span>
+			<div class="tooltip-shape">
+				<svg height="165px" width="220px">
+				<use xlink:href="#managemen-2" class="bprbkk-1" />
+				</svg>
+			</div>
+		</div>
+	</div>	
 	<p class="info">Semua staf manajemen diatas bekerja di Kantor PT BPR BKK WONOGIRI (Perseroda).</p>
 	<section class="related">
 		<p>Lihat juga informasi berikut:</p>

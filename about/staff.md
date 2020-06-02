@@ -133,63 +133,58 @@ layout: staf
 		</div>
 	</div>
 </div>
-</div>	
-<div class="tooltip tooltip-effect-3">
+<div class="tooltip tooltip-effect-2">
 			<a href="#"><img src="/images/managemen/anm.jpg" alt="Anom Eko Bawono, S.E."/><h4>Mohamad Hasyim, S.E.</h4></a>
 			<span class="tooltip-content">Kepala Bidang Pemasaran, Literasi Keuangan dan Inklusi Keuangan PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
-				<use xlink:href="#managemen-3" class="bprbkk-1" />
+				<use xlink:href="#managemen-2" class="bprbkk-1" />
 				</svg>
 			</div>
 		</div>
 	</div>
 </div>
-</div>	
-	<div class="tooltip tooltip-effect-3">
+<div class="tooltip tooltip-effect-2">
 			<a href="#"><img src="/images/managemen/anom.jpg" alt="Anom Eko Bawono, S.E."/><h4>Mohamad Hasyim, S.E.</h4></a>
 			<span class="tooltip-content">Kepala Bidang Pemasaran, Literasi Keuangan dan Inklusi Keuangan PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
-				<use xlink:href="#managemen-3" class="bprbkk-1" />
+				<use xlink:href="#managemen-2" class="bprbkk-1" />
 				</svg>
 			</div>
 		</div>
 	</div>
 </div>
-</div>	
-<div class="tooltip tooltip-effect-3">
+<div class="tooltip tooltip-effect-2">
 			<a href="#"><img src="/images/managemen/anom.jpg" alt="Anom Eko Bawono, S.E."/><h4>Mohamad Hasyim, S.E.</h4></a>
 			<span class="tooltip-content">Kepala Bidang Pemasaran, Literasi Keuangan dan Inklusi Keuangan PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
-				<use xlink:href="#managemen-3" class="bprbkk-1" />
-				</svg>
-			</div>
-			</div>
-		</div>
-	</div>
-</div>
-</div>	
-<div class="tooltip tooltip-effect-3">
-			<a href="#"><img src="/images/managemen/anom.jpg" alt="Anom Eko Bawono, S.E."/><h4>Mohamad Hasyim, S.E.</h4></a>
-			<span class="tooltip-content">Kepala Bidang Pemasaran, Literasi Keuangan dan Inklusi Keuangan PT BPR BKK WONOGIRI (Perseroda)</span>
-			<div class="tooltip-shape">
-				<svg height="165px" width="220px">
-				<use xlink:href="#managemen-3" class="bprbkk-1" />
+				<use xlink:href="#managemen-2" class="bprbkk-1" />
 				</svg>
 			</div>
 			</div>
 		</div>
 	</div>
 </div>
-</div>	
-<div class="tooltip tooltip-effect-3">
+<div class="tooltip tooltip-effect-2">
 			<a href="#"><img src="/images/managemen/anom.jpg" alt="Anom Eko Bawono, S.E."/><h4>Mohamad Hasyim, S.E.</h4></a>
 			<span class="tooltip-content">Kepala Bidang Pemasaran, Literasi Keuangan dan Inklusi Keuangan PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
-				<use xlink:href="#managemen-3" class="bprbkk-1" />
+				<use xlink:href="#managemen-2" class="bprbkk-1" />
+				</svg>
+			</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="tooltip tooltip-effect-2">
+			<a href="#"><img src="/images/managemen/anom.jpg" alt="Anom Eko Bawono, S.E."/><h4>Mohamad Hasyim, S.E.</h4></a>
+			<span class="tooltip-content">Kepala Bidang Pemasaran, Literasi Keuangan dan Inklusi Keuangan PT BPR BKK WONOGIRI (Perseroda)</span>
+			<div class="tooltip-shape">
+				<svg height="165px" width="220px">
+				<use xlink:href="#managemen-2" class="bprbkk-1" />
 				</svg>
 			</div>
 		</div>

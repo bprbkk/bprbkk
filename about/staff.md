@@ -158,7 +158,7 @@ layout: staf
 			</div>
 		</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/arissht.jpg" alt="Aris Suhartoko, S.E."/><h4>Aris Suhartoko, S.E.</h4></a>
+			<a href="#"><img src="/images/managemen/arissh.jpg" alt="Aris Suhartoko, S.E."/><h4>Aris Suhartoko, S.E.</h4></a>
 			<span class="tooltip-content">Pemimpin Kantor Cabang Jatiroto</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">

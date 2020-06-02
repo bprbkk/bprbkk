@@ -10,7 +10,7 @@ layout: staf
 	</div>
 <div class="content">
 	<header class="bprbkk-header">
-		<h1>Staf Manajemen <span>PT BPR BKK WONOGIRI (Perseroda)</span></h1>
+		<h1>Struktur Organisasi <span>PT BPR BKK WONOGIRI (Perseroda)</span></h1>
 		<nav class="bprbkk-staff">
 			<a href="#dewan-komisaris">Dewan Komisaris</a>
 			<a href="#skai">SKAI</a>
@@ -102,7 +102,7 @@ layout: staf
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/anom.jpg" alt="Anom Eko Bawono, S.E."/><h4>Mohamad Hasyim, S.E.</h4></a>
+			<a href="#"><img src="/images/managemen/anom.jpg" alt="Anom Eko Bawono, S.E."/><h4>Anom Eko Bawono, S.E.</h4></a>
 			<span class="tooltip-content">Kepala Bidang Pemasaran, Literasi Keuangan dan Inklusi Keuangan PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -203,7 +203,7 @@ layout: staf
 			</div>
 		</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/giyas.jpg" alt="Giyastanto, S.E."/><h4>Giyastanto, S.E.</h4></a>
+			<a href="#"><img src="/images/managemen/giyastanto.jpg" alt="Giyastanto, S.E."/><h4>Giyastanto, S.E.</h4></a>
 			<span class="tooltip-content">Pemimpin Kantor Cabang Batuwarno</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">

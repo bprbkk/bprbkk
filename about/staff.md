@@ -242,17 +242,17 @@ layout: staf
 			</div>
 		</div>
 	</div>
-	<p class="info">Semua staf manajemen diatas bekerja di Kantor PT BPR BKK WONOGIRI (Perseroda).</p>
-	<section class="related">
-		<p>Lihat juga informasi berikut:</p>
-			<a href="/about/kantor">
-				<img src="/images/jaringan_kantor_300x142.jpg" />
-				<h3>Jaringan Kantor PT BPR BKK WONOGIRI (Perseroda)</h3>
-			</a>
-			<a href="/about">
-				<img src="/images/bprbkk_300x142.jpg" />
-				<h3>Tentang PT BPR BKK WONOGIRI (Perseroda)</h3>
-			</a>
+<p class="info">Semua staf manajemen diatas bekerja di Kantor PT BPR BKK WONOGIRI (Perseroda).</p>
+<section class="related">
+	<p>Lihat juga informasi berikut:</p>
+		<a href="/about/kantor">
+			<img src="/images/jaringan_kantor_300x142.jpg" />
+			<h3>Jaringan Kantor PT BPR BKK WONOGIRI (Perseroda)</h3>
+		</a>
+		<a href="/about">
+			<img src="/images/bprbkk_300x142.jpg" />
+			<h3>Tentang PT BPR BKK WONOGIRI (Perseroda)</h3>
+		</a>
 	</section>
 </div><!-- /content -->
 </div><!-- /container -->

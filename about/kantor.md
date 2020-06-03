@@ -9,8 +9,6 @@ layout: kantor
 			<img src="/images/kantor/pusat.png" class="img-responsive img-centered" alt="">
 			<h3><span class="label label-primary">Kantor Pusat Operasional</span></h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin KPO </p> <a href="/ajax/suhartatik.html" 
-class="ajax-popup-link"> SUHARTATIK ,S.E. </a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Jend. Sudirman No 234 Wonogiri.</em>
@@ -26,7 +24,6 @@ class="ajax-popup-link"> SUHARTATIK ,S.E. </a>
 			<img src="/images/kantor/baturetno.png" class="img-responsive img-centered" alt="">
 			<h3>Kantor Cabang Baturetno</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/surjana.html" class="ajax-popup-link"> Darsanto, S.E., M.M.</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Raya Baturetno - Wonogiri Km.3</em>
@@ -42,7 +39,6 @@ class="ajax-popup-link"> SUHARTATIK ,S.E. </a>
 			<img src="/images/kantor/batuwarno.png" class="img-responsive img-centered" alt="">
 			<h3>Kantor Cabang Batuwarno</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/giyastanto.html" class="ajax-popup-link"> GIYASTANTO, S.E.</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Raya Batuwarno - Karangtengah No 12</em>
@@ -57,7 +53,6 @@ class="ajax-popup-link"> SUHARTATIK ,S.E. </a>
 			<img src="/images/kantor/girimarto.png" class="img-responsive img-centered" alt="">
 			<h3>Kantor Cabang Girimarto</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/hasyim.html" class="ajax-popup-link">SURJANA, S.E.</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Sinuwun No 29 Tambak Merang, Girimarto.</em>
@@ -74,7 +69,6 @@ class="ajax-popup-link"> SUHARTATIK ,S.E. </a>
 			<img src="/images/kantor/giritontro.png" class="img-responsive img-centered" alt="">
 			<h3>Kantor Cabang Giritontro</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/sarwono.html" class="ajax-popup-link"> ARWINTO ADI, S.E.</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Raya Giritontro.</em>
@@ -90,7 +84,6 @@ class="ajax-popup-link"> SUHARTATIK ,S.E. </a>
 			<img src="/images/kantor/giriwoyo.png" class="img-responsive img-centered" alt="">
 			<h3>Kantor Cabang Giriwoyo</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/ams_adiprabowo.html" class="ajax-popup-link"> AMS ADIPRABOWO, S.E.</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Wijaya Kusuma No 94 Giriwoyo.</em>
@@ -108,7 +101,6 @@ class="ajax-popup-link"> SUHARTATIK ,S.E. </a>
 			<img src="/images/kantor/jatipurno.jpg" class="img-responsive img-centered" alt="">
 			<h3>Kantor Cabang Jatipurno</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/anom_eko_bawono.html" class="ajax-popup-link"> HENDRA DEDY KUSUMA, S.E.</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Arjuno No.20 Jatipurno.</em>
@@ -124,7 +116,6 @@ class="ajax-popup-link"> SUHARTATIK ,S.E. </a>
 			<img src="/images/kantor/jatiroto.png" class="img-responsive img-centered" alt="">
 			<h3>Kantor Cabang Jatiroto</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/suratni.html" class="ajax-popup-link"> SURATNI, S.E.</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Raya No 68 Jatiroto.</em>
@@ -140,7 +131,6 @@ class="ajax-popup-link"> SUHARTATIK ,S.E. </a>
 			<img src="/images/kantor/ngadirojo.png" class="img-responsive img-centered" alt="">
 			<h3>Kantor Cabang Ngadirojo</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/suyono.html" class="ajax-popup-link"> SUYONO, S.E.</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Kepodang No 4 Ngadirojo.</em>
@@ -157,7 +147,6 @@ class="ajax-popup-link"> SUHARTATIK ,S.E. </a>
 			<img src="/images/kantor/purwantoro.jpg" class="img-responsive img-centered" alt="">
 			<h3>Kantor Cabang Purwantoro</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/joko_santoso.html" class="ajax-popup-link"> JOKO SANTOSO, S.E.</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Pemuda No 35 Purwantoro.</em>
@@ -173,7 +162,6 @@ class="ajax-popup-link"> SUHARTATIK ,S.E. </a>
 			<img src="/images/kantor/slogohimo.png" class="img-responsive img-centered" alt="">
 			<h3>Kantor Cabang Slogohimo</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/hendra_dedy.html" class="ajax-popup-link"> ANOM EKO BAWONO, S.E.</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Punggawan No 01 Slogohimo.</em>
@@ -189,7 +177,6 @@ class="ajax-popup-link"> SUHARTATIK ,S.E. </a>
 			<img src="/images/kantor/tirtomoyo.png" class="img-responsive img-centered" alt="">
 			<h3>Kantor Cabang Tirtomoyo</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/endang-suharniati.html" class="ajax-popup-link"> ENDANG SUHARNIATI, S.E.</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Raya No 51 Tirtomoyo.</em>

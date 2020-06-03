@@ -7,7 +7,7 @@ layout: kantor
 	<div class="col-md-4">
 		<div class="preview-pane">
 			<img src="/images/kantor/pusat.png" class="img-responsive img-centered" alt="">
-			<h3><span class="label label-primary">Kantor Pusat Operasional</span></h3>
+			<h3><span class="label label-primary">Kantor Pusat</span></h3>
 			<hr class="colored">
 			<ul class="list-unstyled text-muted">
 			<li>

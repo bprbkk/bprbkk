@@ -9,7 +9,7 @@ header-img: "images/blog/20---17/Loker3.jpg"
 ---
 
 
-## SURAT PERNYATA.AN DAN PENGAJUAN RESTRUKTURISASI KREDIT DEBITUR TERDAMPAK COVID-19 PD BPR BKK WONOGIRI
+## SURAT PERNYATAAN DAN PENGAJUAN RESTRUKTURISASI KREDIT DEBITUR TERDAMPAK COVID-19 PD BPR BKK WONOGIRI
 
 Perkembangan penyebaran Coronavirus Disease 2019 (COVID-19) berdampak secara langsung ataupun tidak langsung terhadap kinerja dan kapasitas debitur termasuk debitur UMKM, sehingga berpotensi mengganggu kinerja perbankan dan stabilitas sistem keuangan yang dapat memengaruhi pertumbuhan ekonomi.
 

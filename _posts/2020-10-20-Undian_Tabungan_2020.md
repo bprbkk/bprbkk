@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Gebyar Undian Tamades PD BPR BKK Wonogiri Kembali Akan Digelar Bulan September 2018 Mendatang
-subtitle:   "Gebyar Undian Tamades 2018."
+title: Undian Tabungan PT BPR BKK Wonogiri (Perseroda), Berbagi ditengah Pandemi 2020.
+subtitle:   "Undian Tabungan PT BPR BKK Wonogiri (Perseroda)."
 description: ""
 author: "Dimas"
 date: 2020-10-20 10:44:00

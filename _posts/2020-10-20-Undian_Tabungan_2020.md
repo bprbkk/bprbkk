@@ -9,7 +9,7 @@ header-img: "images/UNDIAN.jpg"
 ---
 
 
-## Undian Tabungan PT BPR BKK Wonogiri (Perseroda), Berbagi ditengah Pandemi 2020.
+## Daftar Pemenang Undian Tabungan PT BPR BKK Wonogiri (Perseroda), Berbagi ditengah Pandemi 2020.
 
 <img src="/images/Daftar Pemenang Hadiah Undian.jpg" class="img-responsive img-centered" alt="">
 

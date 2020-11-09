@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Undian Tabungan PT BPR BKK Wonogiri (Perseroda), Berbagi ditengah Pandemi 2020.
-subtitle:   "Undian Tabungan PT BPR BKK Wonogiri (Perseroda)."
+title: "Daftar Pemenang Undian Tabungan PT BPR BKK Wonogiri (Perseroda), Berbagi ditengah Pandemi 2020."
+subtitle:   "Daftar Pemenang Undian Tabungan PT BPR BKK Wonogiri (Perseroda)."
 description: ""
 author: "Dimas"
 date: 2020-10-20 10:44:00

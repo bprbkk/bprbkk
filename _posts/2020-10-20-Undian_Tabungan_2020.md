@@ -11,7 +11,7 @@ header-img: "images/UNDIAN.jpg"
 
 ## Daftar Pemenang Undian Tabungan PT BPR BKK Wonogiri (Perseroda), Berbagi ditengah Pandemi 2020.
 
-<img src="/images/Daftar Pemenang Hadiah Undian.pdf" class="img-responsive img-centered" alt="">
+<img src="/images/Daftar Pemenang Hadiah Undian.jpg" class="img-responsive img-centered" alt="">
 
 Undian Tabungan PT BPR BKK WONOGIRI (Perseroda) BERBAGI DITENGAH PANDEMI Tahun 2020.
 Kami PT BPR BKK WONOGIRI (Perseroda) Yang Berkantor Pusat Di Jalan Jendral Sudirman No.234, Sukorejo, Giritirto , Wonogiri.Kantor pusat operasional dan Kantor cabang di Ngadirojo, Girimarto, Jatipurno, Jatiroto, Slogoimo, Purwantoro, Tirtomoyo, Batuwarno, Baturetno, Giriwoyo, Giritontro Juga Kantor KAS di Mojoroto, Wonoboyo Wonogiri, Puhpelem, Karangtengah, Paranggupito.

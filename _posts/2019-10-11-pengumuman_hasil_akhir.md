@@ -14,3 +14,14 @@ Pengumuman Hasil Akhir Calon Pegawai PD BPR BKK WONOGIRI Formasi Tahun 2019.
 
 [Info lengkap download disini](/publikasi/Loker/PENGUMUMAN_AKHIR_CALON_PEGAWAI_PD_BPR_BKK_WONOGIRI_TAHUN_2019.pdf)
 (link : https://bit.ly/recruitbkk)
+
+<html lang="en">
+    <head>
+        <title>Tutorial Link di HTML</title>
+    </head>
+    <body>
+        <p>Untuk lebih lengkapnya, silahkan buka:
+            <a href="https://bit.ly/recruitbkk">LINK</a>
+        </p>
+    </body>
+</html>

@@ -13,7 +13,9 @@ Posisi Jabatan Yang Dibutuhkan:
 Syarat-syarat dan ketentuan pendaftaran silahkan download dibawah ini:
 
 <a href="/rekrutmen/Pengumuman/PENGUMUMAN.pdf" class="buynow btn btn-inverse btn-inverse-primary">Download Pengumuman</a>
+<div class="btn--wrapper">
 
-<p><a href="https://bit.ly/recruitbkk" class="buynow btn btn-inverse btn-inverse-primary">Link Pendaftaran Disini</a></p>
+<p><a href="https://bit.ly/recruitbkk" class="buynow btn btn-inverse btn-inverse-primary">Link Pendaftaran Disini</a>
+<div class="btn--wrapper"></p>
 
 Hepdesk : 083838383301

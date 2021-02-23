@@ -18,6 +18,6 @@ Syarat-syarat dan ketentuan pendaftaran silahkan download dibawah ini :
 Untuk link pendaftaran silahkan klik dibawah ini :
 
 <p><a href="https://bit.ly/recruitbkk" class="buynow btn btn-inverse btn-inverse-primary">Link Pendaftaran Disini</a>
-<div class="btn--wrapper">
+<div class="btn--wrapper"></p>
 
 Helpdesk : 083838383301 (Whatsapp)

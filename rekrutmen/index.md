@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Rekruitmen Pegawai PT BPR BKK WONOGIRI (Perseroda) 
-Tahun 2021
+title: Rekrutmen Pegawai PT BPR BKK WONOGIRI (Perseroda)
 description: "Menjadi SDM Bermutu Bersama PT BPR BKK WONOGIRI (Perseroda), Meraih Sukses Bersama, Bersama Meraih Sukes"
-header-img: "images/bprbkk.jpg"
+header-img: "rekrutmen/bprbkk.jpg"
 ---
-## Pendaftaran Rekruitmen Pegawai Tahun 2021
+## Pendaftaran Rekrutmen Pegawai Tahun 2021
 
 Posisi Jabatan Yang Dibutuhkan:
 <p>1. Staf Pemasaran</p>
@@ -13,8 +12,8 @@ Posisi Jabatan Yang Dibutuhkan:
 <p>3. Teller </p>
 Syarat-syarat dan ketentuan pendaftaran silahkan download dibawah ini:
 
-[Download Pengumuman Resmi Disini](/rekrutmen/Pengumuman/PENGUMUMAN.pdf)
+<a href="/rekrutmen/Pengumuman/PENGUMUMAN.pdf" class="buynow btn btn-inverse btn-inverse-primary">Download Pengumuman</a>
 
-<p><a href="https://bit.ly/recruitbkk">Link Pendaftaran Disini</a></p>
+<p><a href="https://bit.ly/recruitbkk" class="buynow btn btn-inverse btn-inverse-primary">Link Pendaftaran Disini</a></p>
 
 Hepdesk : 083838383301

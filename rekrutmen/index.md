@@ -1,27 +1,23 @@
 ---
 layout: page
 title: Rekrutmen PT BPR BKK WONOGIRI (Perseroda)
-description: "Menjadi SDM Bermutu, Merai Sukses Bersama, Bersama Meraih Sukes"
+description: "Menjadi SDM Bermutu, Meraih Sukses Bersama, Bersama Meraih Sukes"
 header-img: "images/bprbkk.jpg"
 ---
 ## Pendaftaran Rekrutmen Pegawai Tahun 2021
 
-<div style="text-align: justify;">
-Saat ini PT. Bank Perkreditan Rakyat BKK Wonogiri membuka lowongan sebagai berikut:
-
-Posisi Jabatan:
-• Staf Pemasaran  
-• Staf TI
-• Teller
-
-Persyaratan:
-1. Warga Negara Republik Indonesia;
-2. Mempunyai kualifikasi pendidikan, kecakapan, keahlian dan    keterampilan yang diperlukan.
-3. Tidak pernah diberhentikan tidak dengan hormat sebagai pegawai    negeri, pegawai honorer atau sebagai   pegawai swasta;
-4. Tidak berkedudukan sebagai Calon Pegawai Negeri Sipil / Pegawai    Negeri Sipil;
-5. Memiliki ijazah sesuai kualifikasi yang dipersyaratkan;
-6. Berkelakuan baik dibuktikan dengan Foto copy Surat Keterangan    Catatan dari Kepolisian  (SKCK) yang   masih berlaku.
-7. Surat keterangan sehat jasmani, rohani dan tidak buta warna,    dibuktikan dengan Surat Keterangan dari Dokter (    Pemerintah /     praktek swasta )..</div>
+<html>
+<head>
+<title><div style="text-align: justify;">
+Saat ini PT. Bank Perkreditan Rakyat BKK Wonogiri membuka lowongan sebagai berikut</title>
+</head>
+<body>
+<p>Posisi Jabatan:</p>
+<p>1. Teller</p>
+<p>2. Staf Pemasaran</p>
+<p>3. Staf TI</p>
+</body>
+</html>
 
 [Download Pengumuman Resmi Disini](/rekrutmen/Pengumuman/PENGUMUMAN.pdf)
 

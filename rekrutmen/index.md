@@ -15,7 +15,7 @@ Syarat-syarat dan ketentuan pendaftaran silahkan download dibawah ini:
 <a href="/rekrutmen/Pengumuman/PENGUMUMAN.pdf" class="buynow btn btn-inverse btn-inverse-primary">Download Pengumuman</a>
 <div class="btn--wrapper">
 
-Untuk link pendaftaran silahkan klik dibawah ini
+Untuk link pendaftaran silahkan klik dibawah ini :
 
 <p><a href="https://bit.ly/recruitbkk" class="buynow btn btn-inverse btn-inverse-primary">Link Pendaftaran Disini</a>
 <div class="btn--wrapper"></p>

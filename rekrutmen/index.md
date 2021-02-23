@@ -2,7 +2,7 @@
 layout: page
 title: Rekrutmen Pegawai PT BPR BKK WONOGIRI (Perseroda)
 description: "Menjadi SDM Bermutu Bersama PT BPR BKK WONOGIRI (Perseroda), Meraih Sukses Bersama, Bersama Meraih Sukes"
-header-img: "rekrutmen/bprbkk.jpg"
+header-img: "images/rekrutmen/bprbkk.jpg"
 ---
 ## Pendaftaran Rekrutmen Pegawai Tahun 2021
 
@@ -17,7 +17,7 @@ Syarat-syarat dan ketentuan pendaftaran silahkan download dibawah ini :
 
 Untuk link pendaftaran silahkan klik dibawah ini :
 
-<p><a href="https://bit.ly/recruitbkk" class="buynow btn btn-inverse btn-inverse-primary">Link Pendaftaran Disini</a>
-<div class="btn--wrapper"></p>
+<p><a href="https://bit.ly/recruitbkk" class="buynow btn btn-inverse btn-inverse-primary">Link Pendaftaran Disini</a></p>
+<div class="btn--wrapper">
 
 Helpdesk : 083838383301 (Whatsapp)

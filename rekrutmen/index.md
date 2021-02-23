@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rekruitmen Pegawai PT BPR BKK WONOGIRI (Perseroda)
-description: "Menjadi SDM Bermutu, Meraih Sukses Bersama, Bersama Meraih Sukes"
+description: "Menjadi SDM Bermutu Bersama PT BPR BKK WONOGIRI (Perseroda), Meraih Sukses Bersama, Bersama Meraih Sukes"
 header-img: "images/bprbkk.jpg"
 ---
 ## Pendaftaran Rekruitmen Pegawai Tahun 2021

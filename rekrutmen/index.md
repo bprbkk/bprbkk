@@ -23,6 +23,6 @@ Persyaratan:
 6. Berkelakuan baik dibuktikan dengan Foto copy Surat Keterangan    Catatan dari Kepolisian  (SKCK) yang   masih berlaku.
 7. Surat keterangan sehat jasmani, rohani dan tidak buta warna,    dibuktikan dengan Surat Keterangan dari Dokter (    Pemerintah /     praktek swasta )..</div>
 
-<p>[Download Pengumuman Resmi Disini](/rekrutmen/Pengumuman/PENGUMUMAN.pdf)</p>
+[Download Pengumuman Resmi Disini](/rekrutmen/Pengumuman/PENGUMUMAN.pdf)
 
 <p><a href="https://bit.ly/recruitbkk">Pendaftaran</a></p>

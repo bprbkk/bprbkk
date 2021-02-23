@@ -6,4 +6,5 @@ header-img: "images/bprbkk.jpg"
 ---
 ## Pendaftaran Rekrutmen Pegawai Tahun 2021
 
+[Download](/rekrutmen/Pengumuman/PENGUMUMAN_SELEKSI_CAPEG_TAHUN_2021_PT_BPR_BKK_WONOGIRI_Perseroda.pdf)
 <a href="https://bit.ly/recruitbkk">Pendaftaran</a>

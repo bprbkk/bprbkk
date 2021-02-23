@@ -12,6 +12,6 @@ Posisi Jabatan Yang Dibutuhkan:
 <p>3. Staf TI</p>
 Syarat-syarat dan ketentuan pendaftaran silahkan download dibawah ini:
 
-//[Download Pengumuman Resmi Disini](/rekrutmen/Pengumuman/PENGUMUMAN.pdf)//
+\\[Download Pengumuman Resmi Disini](/rekrutmen/Pengumuman/PENGUMUMAN.pdf)\\
 
-//<p><a href="https://bit.ly/recruitbkk">Link Pendaftaran Disini</a></p>//
+\\<p><a href="https://bit.ly/recruitbkk">Link Pendaftaran Disini</a></p>\\

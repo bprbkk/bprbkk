@@ -18,8 +18,7 @@ layout: home
 		<div class="b-logo pull-left"></div>
 		<div class="js--header-user pull-right b-header--user">
 			<a href="/news" class="text-default">Berita</a>|
-	    <a href="https://bit.ly/recruitbkk" class="text-default">Coba</a>|
-	    <a href="/rekrutmen" class="text-default">Coba1</a>|
+	    <a href="/rekrutmen" class="text-default">Rekruitmen Pegawai</a>|
             <a href="/publikasi" class="text-default">Publikasi</a>|
 			<a href="/laporanpbk" class="text-default">Publikasi Penanganan Pengaduan</a>|
             <a href="/laporan" class="text-default">Laporan Tata Kelola</a>|

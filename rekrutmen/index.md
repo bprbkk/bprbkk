@@ -23,5 +23,6 @@ Persyaratan:
 6. Berkelakuan baik dibuktikan dengan Foto copy Surat Keterangan    Catatan dari Kepolisian  (SKCK) yang   masih berlaku.
 7. Surat keterangan sehat jasmani, rohani dan tidak buta warna,    dibuktikan dengan Surat Keterangan dari Dokter (    Pemerintah /     praktek swasta )..</div>
 
-<p>[Download Pengumuman Resmi Disini](/rekrutmen/Pengumuman/PENGUMUMAN_SELEKSI_CAPEG_TAHUN_2021_PT_BPR_BKK_WONOGIRI_Perseroda.pdf)</p>
+<p>[Download Pengumuman Resmi Disini](/rekrutmen/Pengumuman/PENGUMUMAN.pdf)</p>
+
 <p><a href="https://bit.ly/recruitbkk">Pendaftaran</a></p>

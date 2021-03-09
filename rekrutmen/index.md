@@ -8,7 +8,7 @@ header-img: "images/rekrutmen/bprbkk.jpg"
 
 Pengumuman Hasil Seleksi Tahap I silahkan download dibawah ini :
 
-<a href="/rekrutmen/Pengumuman/Pengumuman_Seleksi_Administrasi_dan_jadwal_SKD_BPR_ BKK_2021.pdf" class="buynow btn btn-inverse btn-inverse-primary">Download Pengumuman Hasil Seleksi Tahap I</a>
+<a href="/publikasi/2020/Live_Score_TMMK" class="buynow btn btn-inverse btn-inverse-primary">live Score TMMK</a>
 <div class="btn--wrapper">
 
 HelpDesk : 083838383301 (WhatssApp)

@@ -14,17 +14,15 @@ header-img: "images/bxxlog/xx/Loker3.jpg"
 
 
 
-Pengumuman hasil Seleksi Pengadaan Calon Pegawai PT BPR BKK WONOGIRI (Perseroda) Tahun 2021
+Pengumuman hasil Seleksi Kompetensi Dasar Calon Pegawai PT BPR BKK WONOGIRI (Perseroda) Tahun 2021
 diumumkan melalui surat pengumuman
-nomor : 03/PSPCP BPR BKK WNG/2021 Tanggal 06 Maret 2021 dan berdasarkan Berita Acara 
-Nomor : 800/02377 tanggal 9 Maret 2021
-tentang Hasil Pengolahan Tes Kompetensi Dasar Pengadaan Calon Pegawai PT BPR BKK WONOGIRI (Perseroda) Tahun 2021.
+nomor : 07/PSPCP BPR BKK WNG/2021 Tanggal 11 Maret 2021, 
+tentang Hasil Seleksi  Kompetensi Dasar Penerimaan Calon Pegawai PT BPR BKK WONOGIRI (Perseroda) Tahun 2021.
 
 Informasi Lebih lanjut silahkan download
 
 
 [Pengumuman download disini](/rekrutmen/Pengumuman/PENGUMUMAN_SKD_2021_FIX.pdf)
-
 
 
 

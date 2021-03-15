@@ -9,7 +9,7 @@ header-img: "images/rekrutmen/bprbkk.jpg"
 
 Pengumuman SKB 2021 Silahkan Klik dibawah ini :
 
-<a href="/rekrutmen/Pengumuman/Pengumuman SKB 2021" class="buynow btn btn-inverse btn-inverse-primary">Pengumuman SKB 2021</a>
+<a href="/rekrutmen/Pengumuman/Pengumuman_SKB_2021" class="buynow btn btn-inverse btn-inverse-primary">Pengumuman SKB 2021</a>
 <div class="btn--wrapper">
 
 HelpDesk : 083838383301 (WhatssApp)

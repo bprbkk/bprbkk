@@ -6,9 +6,9 @@ header-img: "images/rekrutmen/bprbkk.jpg"
 ---
 ## Live Score Ujian dengan Media Komputer Tahun 2021
 
-Pengumuman Live Score TMMK Silahkan Clik dibawah ini :
+Pengumuman SKB 2021 Silahkan Klik dibawah ini :
 
-<a href="/publikasi/2021/Live_Score_TMMK" class="buynow btn btn-inverse btn-inverse-primary">live Score TMMK</a>
+<a href="/Pengumuman/Pengumuman SKB 2021" class="buynow btn btn-inverse btn-inverse-primary">Pengumuman SKB 2021</a>
 <div class="btn--wrapper">
 
 HelpDesk : 083838383301 (WhatssApp)

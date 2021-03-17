@@ -14,8 +14,10 @@ Pengumuman SKB 2021 Silahkan Klik link dibawah ini :
 
 Undangan Tes Psikotes 2021 Silahkan Klik link dibawah ini : 
 
+
 <a href="/rekrutmen/Pengumuman/UNDANGAN_PESERTA_PSIKOTES.pdf" class="buynow btn btn-inverse btn-inverse-primary">Undangan Tes Psikotes 2021</a>
 <div class="btn--wrapper">
+
 
 
 HelpDesk : 083838383301 (WhatssApp)

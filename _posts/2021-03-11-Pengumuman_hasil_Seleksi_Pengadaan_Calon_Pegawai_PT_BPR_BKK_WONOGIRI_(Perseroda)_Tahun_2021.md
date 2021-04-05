@@ -4,7 +4,7 @@ title: Pengumuman hasil Seleksi Pengadaan Calon Pegawai PT BPR BKK WONOGIRI (Per
 subtitle:   "PT BPR BKK WONOGIRI (Perseroda)"
 description: ""
 author: "Admin"
-date: 2021-03-11 09:00:00
+date: 2021-04-05 19:45:00
 header-img: "images/bxxlog/xx/Loker3.jpg"
 ---
 

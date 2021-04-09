@@ -111,7 +111,7 @@ layout: staf
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="" alt="Yani Harmini,S.P."/><h4></h4></a>
+			<a href="#"><img src="" alt="."/><h4></h4></a>
 			<span class="tooltip-content">Kepala Bidang Kepatuhan dan Managemen Risiko PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -131,7 +131,7 @@ layout: staf
 			</div>
 		</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="" alt="Agus Sriyanto, S.E."/><h4></h4></a>
+			<a href="#"><img src="" alt=""/><h4></h4></a>
 			<span class="tooltip-content">Pemimpin Kantor Cabang Ngadirojo</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -167,7 +167,7 @@ layout: staf
 			</div>
 		</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="" alt="bambang, S.E."/><h4></h4></a>
+			<a href="#"><img src="" alt=""/><h4></h4></a>
 			<span class="tooltip-content">Pemimpin Kantor Cabang Slogohimo</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -185,7 +185,7 @@ layout: staf
 			</div>
 		</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="" alt=""/><h4>Endang Suharniati, S.E.</h4></a>
+			<a href="#"><img src="" alt=""/><h4></h4></a>
 			<span class="tooltip-content">Pemimpin Kantor Cabang Tirtomoyo</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">

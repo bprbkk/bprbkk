@@ -50,7 +50,7 @@ layout: staf
 	</div>
 	<div class="dummy dummy-avatar" id="direksi">
 	<h2>Direksi</h2>
-		//<div class="tooltip tooltip-effect-1">
+		<div class="tooltip tooltip-effect-1">
 		<a href="#"><img src="/images/managemen/sucipto.jpg" alt="Sucipto, S.E."/><h4>Sucipto, S.E.</h4></a>
 		<span class="tooltip-content">Direktur Utama PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
@@ -58,7 +58,7 @@ layout: staf
 				<use xlink:href="#managemen" class="bprbkk-1" />
 				</svg>
 			</div>
-		</div>//
+		</div>
 		<div class="tooltip tooltip-effect-2">
 		<a href="#"><img src="/images/managemen/suwarto.jpg" alt="Suwarto, S.E."/><h4>Suwarto, S.E.</h4></a>
 		<span class="tooltip-content">Direktur Pemasaran PT BPR BKK WONOGIRI (Perseroda)</span>

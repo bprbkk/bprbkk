@@ -51,7 +51,7 @@ layout: staf
 	<div class="dummy dummy-avatar" id="direksi">
 	<h2>Direksi</h2>
 		<div class="tooltip tooltip-effect-1">
-		<a href="#"><img src="/images/managemen/sucipto.jpg" alt="Sucipto, S.E."/><h4>Sucipto, S.E.</h4></a>
+		<a href="#"><img src="/images/managemen/sucipXto.jpg" alt="----"/><h4>-----</h4></a>
 		<span class="tooltip-content">Direktur Utama PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">

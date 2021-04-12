@@ -102,7 +102,7 @@ layout: staf
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="" alt=""/><h4></h4></a>
+			<a href="#"><img src="/images/managemen/bambangw.jpg" alt="Bambang,S.E."/><h4>Bambang,S.E.</h4></a>
 			<span class="tooltip-content">Kepala Bidang Pemasaran, Literasi Keuangan dan Inklusi Keuangan PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -111,7 +111,7 @@ layout: staf
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="" alt="."/><h4></h4></a>
+			<a href="#"><img src="/images/managemen/suratni.jpg" alt="Suratni, S.E."/><h4>Suratni, S.E.</h4></a>
 			<span class="tooltip-content">Kepala Bidang Kepatuhan dan Managemen Risiko PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -131,7 +131,7 @@ layout: staf
 			</div>
 		</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="" alt=""/><h4></h4></a>
+			<a href="#"><img src="/images/managemen/YETTYDWIANA" alt="Yetty Dwian A, S.E."/><h4>Yetty Dwian A, S.E.</h4></a>
 			<span class="tooltip-content">Pemimpin Kantor Cabang Ngadirojo</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -140,7 +140,7 @@ layout: staf
 			</div>
 		</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/surjana.jpg" alt="Surjana, S.E."/><h4>Surjana, S.E.</h4></a>
+			<a href="#"><img src="/images/managemen/yani_harmini.jpg" alt="Yani Harmini, S.E."/><h4>Yani Harmini, S.E.</h4></a>
 			<span class="tooltip-content">Pemimpin Kantor Cabang Girimarto</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -149,7 +149,7 @@ layout: staf
 			</div>
 		</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="" alt=""/><h4></h4></a>
+			<a href="#"><img src="/images/managemen/HENDRADEDIKUSUMA.jpg" alt="Hendra Dedi K, S.E."/><h4>Hendra Dedi K, S.E.</h4></a>
 			<span class="tooltip-content">Pemimpin Kantor Cabang Jatipurno</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -167,7 +167,7 @@ layout: staf
 			</div>
 		</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="" alt=""/><h4></h4></a>
+			<a href="#"><img src="/images/managemen/anoms.jpg" alt="Anom Eko Bawono, S.E."/><h4>Anom Eko Bawono, S.E.</h4></a>
 			<span class="tooltip-content">Pemimpin Kantor Cabang Slogohimo</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -185,7 +185,7 @@ layout: staf
 			</div>
 		</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="" alt=""/><h4></h4></a>
+			<a href="#"><img src="/images/managemen/DWIPRIHARINI.jpg" alt="Dwi Priharini, S.E."/><h4>Dwi Priharini, S.E.</h4></a>
 			<span class="tooltip-content">Pemimpin Kantor Cabang Tirtomoyo</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -212,7 +212,7 @@ layout: staf
 			</div>
 		</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="" alt=""/><h4></h4></a>
+			<a href="#"><img src="/images/managemen/endang.jpg" alt="Endang Suharniati, S.E."/><h4>Endang Suharniati, S.E.</h4></a>
 			<span class="tooltip-content">Pemimpin Kantor Cabang Giriwoyo</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">

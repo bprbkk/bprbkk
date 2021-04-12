@@ -131,7 +131,7 @@ layout: staf
 			</div>
 		</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/YETTYDWIANA.jpg" alt="Yetty Dwian A, S.E."/><h4>Yetty Dwian A, S.E.</h4></a>
+			<a href="#"><img src="/images/managemen/yetty.jpg" alt="Yetty Dwian A, S.E."/><h4>Yetty Dwian A, S.E.</h4></a>
 			<span class="tooltip-content">Pemimpin Kantor Cabang Ngadirojo</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -149,7 +149,7 @@ layout: staf
 			</div>
 		</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/HENDRADEDIKUSUMA.jpg" alt="Hendra Dedi K, S.E."/><h4>Hendra Dedi K, S.E.</h4></a>
+			<a href="#"><img src="/images/managemen/dedi.jpg" alt="Hendra Dedi K, S.E."/><h4>Hendra Dedi K, S.E.</h4></a>
 			<span class="tooltip-content">Pemimpin Kantor Cabang Jatipurno</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -185,7 +185,7 @@ layout: staf
 			</div>
 		</div>
 	<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/DWIPRIHARINI.jpg" alt="Dwi Priharini, S.E."/><h4>Dwi Priharini, S.E.</h4></a>
+			<a href="#"><img src="/images/managemen/rini.jpg" alt="Dwi Priharini, S.E."/><h4>Dwi Priharini, S.E.</h4></a>
 			<span class="tooltip-content">Pemimpin Kantor Cabang Tirtomoyo</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">

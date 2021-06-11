@@ -18,7 +18,6 @@ layout: home
 		<div class="b-logo pull-left"></div>
 		<div class="js--header-user pull-right b-header--user">
 			<a href="/news" class="text-default">Berita</a>|
-	    <a href="/rekrutmen" class="text-default">Rekrutmen Pegawai</a>|
             <a href="/publikasi" class="text-default">Publikasi</a>|
 			<a href="/laporanpbk" class="text-default">Publikasi Penanganan Pengaduan</a>|
             <a href="/laporan" class="text-default">Laporan Tata Kelola</a>|

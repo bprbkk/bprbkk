@@ -21,7 +21,7 @@ layout: staf
 	<div class="dummy dummy-avatar" id="dewan-Komisaris">
 	<h2>Dewan Komisaris</h2>
 		<div class="tooltip tooltip-effect-1">
-		<a href="#"><img src="/images/managemen/aguspras.png" alt="Agus Prasutio,S.H., M.Si."/><h4>Agus Prasutio,S.H., M.Si.</h4></a>
+		<a href="#"><img src="/images/managemen/Aguspras.jpg" alt="Agus Prasutio,S.H., M.Si."/><h4>Agus Prasutio,S.H., M.Si.</h4></a>
 		<span class="tooltip-content"> Komisaris Utama PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">		
 				<svg height="165px" width="220px">
@@ -30,8 +30,8 @@ layout: staf
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/edhytri.jpg" alt="Edhy Tri Hadyantho, S.Sos., M.Si."/><h4>Edhy Tri Hadyantho, S.Sos., M.Si.</h4></a>
-		<span class="tooltip-content">Komisaris PT BPR BKK WONOGIRI (Perseroda)</span>
+		<a href="#"><img src="/images/managemen/Edhy.jpg" alt="Edhy Tri Hadyantho, S.Sos., M.Si."/><h4>Edhy Tri Hadyantho, S.Sos., M.Si.</h4></a>
+		<span class="tooltip-content"> Komisaris PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
@@ -40,7 +40,7 @@ layout: staf
 		</div>
 		<div class="tooltip tooltip-effect-2">
 		<a href="#"><img src="/images/managemen/arisdekom.jpg" alt="Aristian Hari Marjoko, S.E., M.M."/><h4>Aristian Hari Marjoko, S.E., M.M.</h4></a>
-		<span class="tooltip-content">Komisaris Independen PT BPR BKK WONOGIRI (Perseroda)</span>
+		<span class="tooltip-content"> Komisaris Independen PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
@@ -51,7 +51,7 @@ layout: staf
 	<div class="dummy dummy-avatar" id="direksi">
 	<h2>Direksi</h2>
 		<div class="tooltip tooltip-effect-1">
-		<a href="#"><img src="" alt=""/><h4></h4></a>
+		<a href="#"><img src="/images/managemen/sarti.jpg" alt="Sarti, S.E., M.M."/><h4>Sarti, S.E., M.M.</h4></a>
 		<span class="tooltip-content">Direktur Utama PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -67,16 +67,6 @@ layout: staf
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
 				</svg>
 			</div>
-		</div>
-		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/sarti.jpg" alt="Sarti, S.E., M.M."/><h4>Sarti, S.E., M.M.</h4></a>
-		<span class="tooltip-content">Direktur Umum dan Kepatuhan PT BPR BKK WONOGIRI (Perseroda)</span>
-			<div class="tooltip-shape">
-				<svg height="165px" width="220px">
-				<use xlink:href="#managemen-2" class="bprbkk-1" />
-				</svg>
-			</div>
-		</div>
 	</div>
 	<div class="dummy dummy-avatar" id="skai">
 	<h2>SKAI</h2>

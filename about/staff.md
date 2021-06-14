@@ -30,7 +30,7 @@ layout: staf
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/Edhy.jpg" alt="Edhy Tri Hadyantho, S.Sos., M.Si."/><h4>Edhy Tri Hadyantho, S.Sos., M.Si.</h4></a>
+		<a href="#"><img src="/images/managemen/edhy.jpg" alt="Edhy Tri Hadyantho, S.Sos., M.Si."/><h4>Edhy Tri Hadyantho, S.Sos., M.Si.</h4></a>
 		<span class="tooltip-content"> Komisaris PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -43,7 +43,7 @@ layout: staf
 		<span class="tooltip-content"> Komisaris Independen PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
-				<use xlink:href="#managemen-2" class="bprbkk-1" />
+				<use xlink:href="#managemen-3" class="bprbkk-1" />
 				</svg>
 			</div>
 		</div>

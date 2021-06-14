@@ -83,7 +83,7 @@ layout: staf
 	<div class="dummy dummy-avatar" id="kepala-bidang">
 	<h2>Kepala Bidang</h2>
 		<div class="tooltip tooltip-effect-1">
-			<a href="#"><img src="/images/managemen/yuliaindri.jpg" alt="Indriyuliawati, S.E."/><h4>Indriyuliawati, S.E.</h4></a>
+			<a href="#"><img src="/images/managemen/indriyuliawati.jpg" alt="Indriyuliawati, S.E."/><h4>Indriyuliawati, S.E.</h4></a>
 			<span class="tooltip-content">Kepala Bidang Umum PT BPR BKK WONOGIRI (Perseroda)</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">

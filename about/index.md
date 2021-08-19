@@ -68,13 +68,8 @@ Lihat Lebih lanjut tentang Profil PT BPR BKK WONOGIRI (Perseroda)
   Meliputi informasi tentang Dewan Pengawas, SKAI, Direksi dan Kepala Bidang
 - [Jaringan Kantor](/about/kantor)
   Meliputi informasi tentang Kantor Cabang, Termasuk Alamat Kantor, dan Pimpinan Cabang 
-- [Hubungi Kami]
+- [Hubungi Kami Dibawah ini]
 
-<a href="https://www.facebook.com/bprbkkwonogiri/" class="buynow btn btn-inverse btn-inverse-primary">Facebook</a><a href="https://www.instagram.com/pt.bprbkkwonogiri/" class="buynow btn btn-inverse btn-inverse-primary">Instagram</a><a href="https://twitter.com/BPRBKK" class="buynow btn btn-inverse btn-inverse-primary">Twitter</a>
-
-	
-
-
-
+<a href="https://www.facebook.com/bprbkkwonogiri/" class="buynow btn btn-inverse btn-inverse-primary">Facebook</a><a href="https://www.instagram.com/pt.bprbkkwonogiri/" class="buynow btn btn-inverse btn-inverse-primary">Instagram</a><a href="https://twitter.com/BPRBKK" class="buynow btn btn-inverse btn-inverse-primary">Twitter</a><a href="https://bit.ly/2Uy5yYY" class="buynow btn btn-inverse btn-inverse-primary">WhatApps</a>
 
 Silahkan hubungi kami jika ada sesuatu yang ingin disampaikan.

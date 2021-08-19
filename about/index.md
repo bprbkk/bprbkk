@@ -72,5 +72,9 @@ Lihat Lebih lanjut tentang Profil PT BPR BKK WONOGIRI (Perseroda)
 
   <a href="https://www.facebook.com/" class="buynow btn btn-inverse btn-inverse-primary">Facebook</a>
   <div class="btn--wrapper">
+  <a href="https://www.instagram.com/pt.bprbkkwonogiri/" class="buynow btn btn-inverse btn-inverse-primary">Facebook</a>
+  <div class="btn--wrapper">
+  <a href="https://www.facebook.com/bprbkkwonogiri" class="buynow btn btn-inverse btn-inverse-primary">Facebook</a>
+  <div class="btn--wrapper">	
 
-  Silakan hubungi kami jika ada sesuatu yang ingin disampaikan.
+Silahkan hubungi kami jika ada sesuatu yang ingin disampaikan.

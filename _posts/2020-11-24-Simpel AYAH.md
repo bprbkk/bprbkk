@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 
-subtitle:<p>"Dirut PT BPR BKK WONOGIRI (Perseroda) Mensosialisasikan SimPel AYAH SUKSES."<span style="color:blue;font-style:italic;font-weight:bold;"></span>.</p>
+subtitle:"Dirut PT BPR BKK WONOGIRI (Perseroda) Mensosialisasikan SimPel AYAH SUKSES.
 description: ""
 author: "Admin"
 date: 2020-11-24 11:44:00
-header-img: "images/pusat.png"
+header-img: "images/bprbkk.png"
 ---
 
 ##Sosialisasi Simpel AYAH SUKSES

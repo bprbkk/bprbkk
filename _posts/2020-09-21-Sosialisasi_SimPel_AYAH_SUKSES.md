@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dirut PT BPR BKK WONOGIRI (Perseroda) Mensosialisasikan SimPel AYAH SUKSES."
+title: Dirut PT BPR BKK WONOGIRI (Perseroda) Mensosialisasikan SimPel AYAH SUKSES.
 subtitle: ""
 description: ""
 author: "Admin"

@@ -5,7 +5,7 @@ subtitle: ""
 description: ""
 author: "Admin"
 date: 2020-05-21 11:44:00
-header-img: "images/mobiling.jpg"
+header-img: "images/mobil.jpg"
 ---
 Mobiling PT BPR BKK WONOGIRI (Perseroda) memberikan layanan di Kantor Desa Sonoharjo
 

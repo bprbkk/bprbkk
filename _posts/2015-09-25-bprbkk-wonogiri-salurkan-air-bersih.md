@@ -16,4 +16,3 @@ Adanya pengaruh iklim global pada pertengahan tahun 2015 yang berdampak langsung
 
 
 
-https://searchisback.com

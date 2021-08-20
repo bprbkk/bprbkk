@@ -5,7 +5,7 @@ subtitle: ""
 description: ""
 author: "Admin"
 date: 2020-09-21 11:44:00
-header-img: "images/mentari.jpg"
+header-img: "images/mentari1.jpg"
 ---
 PT BPR BKK WONOGIRI (Perseroda) memberikan sosialisasi Produk Mentari di desa Miricinde kecamatan Purwantoro.
 

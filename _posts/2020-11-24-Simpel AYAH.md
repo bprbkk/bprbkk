@@ -8,7 +8,7 @@ date: 2020-11-24 11:44:00
 header-img: "images/bprbkk.png"
 ---
 
-##Sosialisasi Simpel AYAH SUKSES
+##Sosialisasi Simpel AYAH SUKSES oleh Direktur Utama PT BPR BKK WONOGIRI (Perseroda) Sarti, S.E, M.M.
 
 <div style="text-align: justify;">Ibu Direktur Utama PT BPR BKK WONOGIRI (Perseroda), memerikan sosialisasi Produk SimPel AYAH SUKSES didesa Purwosari Kabupaten Wonogiri</div>
 

@@ -4,7 +4,7 @@ title: PENGUMUMAN HASIL UKK CALON DIREKTUR UTAMA PT BPR BKK WONOGIRI (Perseroda)
 subtitle:   ""
 description: ""
 author: "haryono"
-date: 2021-01-05 15.27
+date: 2021-08-08 15.27
 header-img: "images/bggglog/2017/Loker3.jpg"
 ---
 

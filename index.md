@@ -13,18 +13,19 @@ layout: home
 		</div>
 	</div>
 </div>    
-<div class="collapse navbar-collapse">
-	<div class="container clearfix">
-		<div class="b-logo pull-left"></div>
-		<div class="js--header-user pull-right b-header--user">
-			<a href="/news" class="text-default">Berita</a>|
+<div class="collapse navbar-collapse"><div class="pos-f-t">
+  <div class="collapse" id="navbarToggleExternalContent">
+    <div class="bg-dark p-4">
+      <h4 class="text-white">Collapsed content</h4>
+      <span class="text-muted">Toggleable via the navbar brand.</span>
+ 	    <a href="/news" class="text-default">Berita</a>|
             <a href="/publikasi" class="text-default">Publikasi</a>|
-			<a href="/laporanpbk" class="text-default">Publikasi Penanganan Pengaduan</a>|
+            <a href="/laporanpbk" class="text-default">Publikasi Penanganan Pengaduan</a>|
             <a href="/laporan" class="text-default">Laporan Tata Kelola</a>|
             <a href="/produk/kredit" class="text-default">Kredit</a>|
             <a href="/produk/simpanan" class="text-default">Simpanan</a>|
             <a href="/about" class="text-default">Tentang</a>           
-		</div>
+	</div>
 	</div>
 </div>
 <div class="landing-sections">

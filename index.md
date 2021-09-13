@@ -12,12 +12,16 @@ layout: home
 			<a class="buynow btn btn-success" href="laporan">Laporan Tata Kelola</a>            
 		</div>
 	</div>
-</div>    
-<div class="collapse navbar-collapse"><div class="pos-f-t">
-  <div class="collapse" id="navbarToggleExternalContent">
-    <div class="bg-dark p-4">
-      <h4 class="text-white">Collapsed content</h4>
-      <span class="text-muted">Toggleable via the navbar brand.</span>
+</div>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <a class="navbar-brand" href="#">Navbar</a>  
+<div class="b-header">
+	<div class="container clearfix">
+		<div class="b-logo pull-left"></div>
+		<div class="js--header-user pull-right b-header--user">
  	    <a href="/news" class="text-default">Berita</a>|
             <a href="/publikasi" class="text-default">Publikasi</a>|
             <a href="/laporanpbk" class="text-default">Publikasi Penanganan Pengaduan</a>|

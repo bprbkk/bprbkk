@@ -13,7 +13,7 @@ layout: home
 		</div>
 	</div>
 </div>    
-<div class="b-header">
+<div class="collapse navbar-collapse">
 	<div class="container clearfix">
 		<div class="b-logo pull-left"></div>
 		<div class="js--header-user pull-right b-header--user">

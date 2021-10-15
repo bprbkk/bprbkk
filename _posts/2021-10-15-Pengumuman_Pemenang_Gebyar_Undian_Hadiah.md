@@ -25,12 +25,10 @@ Foto Dokumentasi
 <img src="/images/undian/karangan.png" class="img-responsive img-centered" alt="">
 
 
-
 [Info lengkap download disini](/publikasi/Pengumuman/Daftar Pemenang Undian  2021.pdf)
 
 
-<iframe width="560" height="315" src="https://https://www.youtube.com/watch?v=vNsoSsE17N0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vNsoSsE17N0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 
 

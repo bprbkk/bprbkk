@@ -16,13 +16,13 @@ GEBYAR UNDIAN HADIAH TABUNGAN PT BPR BKK WONOGIRI (Perseroda) TAHUN 2021, telah 
 
 [Foto Dokumentasi](/images/undian/dirut.JPG)
 
-<img src="/images/undian/dirut.JPG" class="img-responsive img-centered" alt="">
+<img src="/images/undian/dirut.WEBP" class="img-responsive img-centered" alt="">
 
-<img src="/images/undian/csr.JPG" class="img-responsive img-centered" alt="">
+<img src="/images/undian/csr.WEBP" class="img-responsive img-centered" alt="">
 
-<img src="/images/undian/csr1.JPG" class="img-responsive img-centered" alt="">
+<img src="/images/undian/csr1.WEBP" class="img-responsive img-centered" alt="">
 
-<img src="/images/undian/karangan.JPG" class="img-responsive img-centered" alt="">
+<img src="/images/undian/karangan.WEBP" class="img-responsive img-centered" alt="">
 
 
 

@@ -28,7 +28,7 @@ Foto Dokumentasi
 [Info lengkap download disini](/publikasi/Pengumuman/Daftar Pemenang Undian  2021.pdf)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vNsoSsE17N0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="www.youtube.com/watch?v=vNsoSsE17N0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 
 

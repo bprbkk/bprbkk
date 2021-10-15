@@ -22,7 +22,6 @@ Foto Dokumentasi
 
 <img src="/images/undian/csr1.JPG" class="img-responsive img-centered" alt="">
 
-<img src="/images/undian/karangan.JPG" class="img-responsive img-centered" alt="">
 
 
 [Info lengkap download disini](/publikasi/Pengumuman/Daftar Pemenang Undian  2021.pdf)

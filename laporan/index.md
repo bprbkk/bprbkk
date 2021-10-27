@@ -28,3 +28,9 @@ LAPORAN KESIMPULAN TATA KELOLA TAHUN 2019  	| 2019  			| [Download](/laporan/201
 LAPORAN TATA KELOLA TAHUN 2019				| 2019  			| [Download](/laporan/2019/Laporan Tata Kelola Tahun 2019.pdf)
 PENGANTAR LAPORAN PENERAPAN TATA KELOLA 2019| 2019  			| [Download](/laporan/2019/Pengantar Laporan Penerapan Tata Kelola 2019.pdf)
 
+## Tahun 2020
+
+| Jenis Laporan:                            | Tahun             | File Download |
+------------------------------------------- | ----------------- | ------------- |
+KERTAS KERJA LAPORAN TATA KELOLA 2019		| 2020  			| [Download](/laporan/2020/LAPORAN TATA KELOLA 2020.pdf)
+

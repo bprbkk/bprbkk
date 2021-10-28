@@ -9,9 +9,9 @@ header-img: "images/bprbkk.jpg"
 
 | Triwulan Ke:	| Tahun | File Download |
 --------------- | ------- | ------------- |
-I				| 2021				| [Download](/publikasi/2020/LAPORAN PUBLIKASI TRIWULAN I 2021.pdf)
-II				| 2021				| [Download](/publikasi/2020/LAPORAN PUBLIKASI TRIWULANAN II 2021.pdf)
-III				| 2021				| [Download](/publikasi/2020/LAPORAN PUBLIKASI TRIWULANAN III 2021.pdf)
+I				| 2021				| [Download](/publikasi/2021/LAPORAN PUBLIKASI TRIWULAN I 2021.pdf)
+II				| 2021				| [Download](/publikasi/2021/LAPORAN PUBLIKASI TRIWULANAN II 2021.pdf)
+III				| 2021				| [Download](/publikasi/2021/LAPORAN PUBLIKASI TRIWULANAN III 2021.pdf)
 
 
 ## Tahun 2020

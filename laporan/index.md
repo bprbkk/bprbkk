@@ -32,5 +32,5 @@ PENGANTAR LAPORAN PENERAPAN TATA KELOLA 2019| 2019  			| [Download](/laporan/201
 
 | Jenis Laporan:                            | Tahun             | File Download |
 ------------------------------------------- | ----------------- | ------------- |
-KERTAS KERJA LAPORAN TATA KELOLA 2020		| 2020  			| [Download](/laporan/2020/LAPORAN TATA KELOLA 202.pdf)
+KERTAS KERJA LAPORAN TATA KELOLA 2020		| 2020  			| [Download](/laporan/2020/LAPORAN TATA KELOLA 2020.pdf)
 

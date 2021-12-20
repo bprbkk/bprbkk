@@ -16,13 +16,12 @@ Pelatihan ini diharapkan dapat membentuk karakter serta meningkatkan kedisiplina
 Setiap pegawai merupakan bagian terpenting dalam kehidupan kerja di setiap perusahaan, maka dari itu pengembangan karakter sangat diperlukan untuk mewujudkan komitmen dan menciptakan pegawai yang berintegritas yang mampu menyelesaikan setiap permasalahan dan bersikap dengan tepat. Jika setiap pegawai sudah mengenali nilai-nilai penting dalam sebuah perusahaan, ditambah dengan profesionalisme di tempat kerja, maka akan menjadi pribadi yang handal serta unggul dan siap untuk saling bersinergi mewujudkan visi misi perusahaan.
 Proses pembentukan karakter baik disadari maupun tidak, akan memengaruhi cara individu tersebut memandang diri dan lingkungannya. Suksesnya pembangunan sebuah negara sangat bergantung pada karakter bangsanya. Namun, dalam menjalankan pendidikan karakter, banyaknya perilaku atau nilai yang dikembangkan bukanlah hal yang paling penting. Hal yang lebih penting adalah terjadinya penerapan  yang dapat dilakukan secara konsisten. 
 
-Foto Dokumentasi
+[Foto Dokumentasi]
+(/images/Gelombang 2.JPG)
+(/images/Gel 1.JPG)
+(/images/gel 1 2.jpg)
 
-<img src="/images/Gelombang 2.JPG" class="img-responsive img-centered" alt="">
 
-<img src="/images/Gel 1.JPG" class="img-responsive img-centered" alt="">
-
-<img src="/images/gel 1 2.jpg" class="img-responsive img-centered" alt="">
 
 
 

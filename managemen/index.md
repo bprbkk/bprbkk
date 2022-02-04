@@ -21,7 +21,7 @@ layout: staf
 	<div class="dummy dummy-avatar" id="dewan-pengawas">
 	<h2>Dewan Pengawas</h2>
 		<div class="tooltip tooltip-effect-1">
-		<a href="#"><img src="/images/managemen/aguspras.png" alt="Agus Prasutio,SH.M.Si"/><h4>Agus Prasutio,SH.M.Si</h4></a>
+		<a href="#"><img src="/images/managemen/Aguspras.jpg" alt="Agus Prasutio,SH.M.Si"/><h4>Agus Prasutio,SH.M.Si</h4></a>
 		<span class="tooltip-content"> Ketua Dewan Komisaris PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -30,7 +30,7 @@ layout: staf
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/Edhy.jpg" alt="Edhy Tri Hardyanto, S.Sos.M.si"/><h4>Bambang Haryadi</h4></a>
+		<a href="#"><img src="/images/managemen/Edhy.jpg" alt="Edhy Tri Hardyanto, S.Sos.M.si"/><h4>Edhy Tri Hardyanto, S.Sos.M.si</h4></a>
 		<span class="tooltip-content">Anggota Dewan Komisaris PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -51,7 +51,7 @@ layout: staf
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/suwarto.png" alt="Suwarto, SE"/><h4>Suwarto, SE</h4></a>
+		<a href="#"><img src="/images/managemen/suwarto.jpg" alt="Suwarto, SE"/><h4>Suwarto, SE</h4></a>
 		<span class="tooltip-content">Direktur Pemasaran PD BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">

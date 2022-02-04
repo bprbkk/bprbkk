@@ -30,7 +30,7 @@ layout: staf
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/Edhy.jpg" alt="Edhy Tri Hardyanto, S.Sos.M.si"/><h4>Edhy Tri Hardyanto, S.Sos.M.si</h4></a>
+		<a href="#"><img src="/images/managemen/Edhy.JPG" alt="Edhy Tri Hardyanto, S.Sos.M.si"/><h4>Edhy Tri Hardyanto, S.Sos.M.si</h4></a>
 		<span class="tooltip-content">Anggota Dewan Komisaris PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -52,7 +52,7 @@ layout: staf
 		</div>
 		<div class="tooltip tooltip-effect-2">
 		<a href="#"><img src="/images/managemen/suwarto.jpg" alt="Suwarto, SE"/><h4>Suwarto, SE</h4></a>
-		<span class="tooltip-content">Direktur Pemasaran PD BPR BKK WONOGIRI</span>
+		<span class="tooltip-content">Direktur Pemasaran PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
@@ -60,8 +60,8 @@ layout: staf
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/YANI HARMINI.jpg" alt="Yani Harmini, SP"/><h4>Yani Harmini, SP</h4></a>
-		<span class="tooltip-content">Direktur Umum dan Kepatuhan PD BPR BKK WONOGIRI</span>
+		<a href="#"><img src="/images/managemen/Yani.JPG" alt="Yani Harmini, SP"/><h4>Yani Harmini, SP</h4></a>
+		<span class="tooltip-content">Direktur Umum dan Kepatuhan PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />

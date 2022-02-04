@@ -42,7 +42,7 @@ layout: staf
 	<div class="dummy dummy-avatar" id="direksi">
 	<h2>Direksi</h2>
 		<div class="tooltip tooltip-effect-1">
-		<a href="#"><img src="/images/managemen/sarti.jpg" alt="Sarti, SE. MM"/><h4>Sucipto, SE</h4></a>
+		<a href="#"><img src="/images/managemen/sarti.jpg" alt="Sarti, SE. MM"/><h4>Sarti, SE. MM</h4></a>
 		<span class="tooltip-content">Direktur Utama PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -60,7 +60,7 @@ layout: staf
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/YANI HARMINI.jpg" alt="Sarti, SE,MM"/><h4>Yani Harmini, SP</h4></a>
+		<a href="#"><img src="/images/managemen/YANI HARMINI.jpg" alt="Yani Harmini, SP"/><h4>Yani Harmini, SP</h4></a>
 		<span class="tooltip-content">Direktur Umum dan Kepatuhan PD BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -72,7 +72,7 @@ layout: staf
 	<div class="dummy dummy-avatar" id="skai">
 	<h2>SKAI</h2>
 		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/suyono.jpg" alt="Bambang,SE"/><h4>Suyono,SE</h4></a>
+		<a href="#"><img src="/images/managemen/suyono.jpg" alt="Suyono,SE"/><h4>Suyono,SE</h4></a>
 		<span class="tooltip-content">Kepala SKAI PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -102,7 +102,7 @@ layout: staf
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-3">
-			<a href="#"><img src="/images/managemen/suratni.jpg" alt="Yani Harmini, SP"/><h4>Yani Harmini,SE</h4></a>
+			<a href="#"><img src="/images/managemen/suratni.jpg" alt="Suratni, SE"/><h4>Suratni, SE</h4></a>
 			<span class="tooltip-content">Kepala Bidang Kepatuhan dan Manajemen Risiko PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">

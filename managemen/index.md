@@ -30,7 +30,7 @@ layout: staf
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/Edhy.jpg" alt="Bambang Haryadi"/><h4>Bambang Haryadi</h4></a>
+		<a href="#"><img src="/images/managemen/Edhy.jpg" alt="Edhy Tri Hardyanto, S.Sos.M.si"/><h4>Bambang Haryadi</h4></a>
 		<span class="tooltip-content">Anggota Dewan Komisaris PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">

@@ -120,8 +120,8 @@ layout: home
     <div class="section section4" data-index="promo_bprbkk_2016">
         <div class="vertical-block">
             <div class="text-center vertical-block--inner">  
-                <h3 style="color:black;">
-                    DAFTAR PEMENANG<br><span class="text-thin" >GEBYAR UNDIAN TABUNGAN</span>
+                <h3 style="color:black;align:center;">
+                    DAFTAR PEMENANG<br><span class="text-large" >GEBYAR UNDIAN TABUNGAN</span>
                 </h3>
                 <div class="text-large text has_hide" style="color:black;>TAHUN 2021</div>
                 <div class="form-cont has_hide">

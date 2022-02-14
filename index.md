@@ -123,7 +123,7 @@ layout: home
                 <h3 style="color:black;align:center;">
                     DAFTAR PEMENANG<br><span class="text-large" >GEBYAR UNDIAN TABUNGAN</span>
                 </h3>
-                <div class="text-large text has_hide" style="color:black;>TAHUN 2021</div>
+                <div class="text-large text has_hide style="color:black;">TAHUN 2021</div>
                 <div class="form-cont has_hide">
                 <a href="publikasi/Pengumuman/Daftar_Pemenang_Undian_2021.pdf" class="buynow btn btn-success">Download disini</a>
                 </div>

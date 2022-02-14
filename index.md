@@ -121,7 +121,7 @@ layout: home
         <div class="vertical-block">
             <div class="text-center">  
                 <h3 style="color:black;align:center;">
-                    DAFTAR PEMENANG<br><span class="text-large" >GEBYAR UNDIAN TABUNGAN<br><span class="text-thin">TAHUN 2021</span></br>
+                    DAFTAR PEMENANG<br><span class="text-large" >GEBYAR UNDIAN TABUNGAN<br><span class="text-thin">TAHUN 2021</span>
                 </h3>
                 <div class="form-cont has_hide">
                 <a href="publikasi/Pengumuman/Daftar_Pemenang_Undian_2021.pdf" class="buynow btn btn-success">Download disini</a>

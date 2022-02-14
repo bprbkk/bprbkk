@@ -120,10 +120,12 @@ layout: home
     <div class="section section4" data-index="promo_bprbkk_2016">
         <div class="vertical-block">
             <div class="text-center">  
-                <h3 style="color:black;align:center;">
-                    DAFTAR PEMENANG<br><span class="text-large" >GEBYAR UNDIAN TABUNGAN<br><span class="text-thin">TAHUN 2021</span>
+                 <h3 class="text has_hide">
+                    DAFTAR PEMENANG<br><span class="text-thin">GEBYAR UNDIAN</span>
+                </h3>
+                <div class="text-large text has_hide">TABUNGAN 2021</div>
                 <div class="form-cont has_hide">
-				<br><a href="publikasi/Pengumuman/Daftar_Pemenang_Undian_2021.pdf" class="buynow btn btn-success">Download disini</a>
+                    <a href="publikasi/Undian/tamades2018.pdf" class="buynow btn btn-success">Download disini</a>
                 </div>
 				<div class="lined-text">
 				<a href="/produk/kredit" class="text-default">Kredit</a> |

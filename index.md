@@ -121,11 +121,11 @@ layout: home
         <div class="vertical-block">
             <div class="text-center vertical-block--inner">
                 <h3 class="text has_hide">
-                    DAFTAR PEMENANG<br><span class="text-thin">GEBYAR UNDIAN TABUNGAN</span>
+                    DAFTAR PEMENANG<br><span class="text-thin" color="black" >GEBYAR UNDIAN TABUNGAN</span>
                 </h3>
                 <div class="text-large text has_hide">TAHUN 2021</div>
                 <div class="form-cont has_hide">
-                    <a href="publikasi/Pengumuman/Daftar_Pemenang_Undian_2021.pdf" class="buynow btn btn-success">Download disini</a>
+                <a href="publikasi/Pengumuman/Daftar_Pemenang_Undian_2021.pdf" class="buynow btn btn-success">Download disini</a>
                 </div>
 				<div class="lined-text">
 				<a href="/produk/kredit" class="text-default">Kredit</a> |

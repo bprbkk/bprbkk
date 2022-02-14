@@ -119,7 +119,7 @@ layout: home
     </div>
     <div class="section section4" data-index="promo_bprbkk_2016">
         <div class="vertical-block">
-            <div class="text-center vertical-block--inner">  
+            <div class="text-center">  
                 <h3 style="color:black;align:center;">
                     DAFTAR PEMENANG<br><span class="text-large" >GEBYAR UNDIAN TABUNGAN</span>
                 </h3>

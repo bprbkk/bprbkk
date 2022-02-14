@@ -121,7 +121,7 @@ layout: home
         <div class="vertical-block">
             <div class="text-center">  
                  <h3 class="text has_hide">
-                    DAFTAR PEMENANG<br><span class="text-thin">GEBYAR UNDIAN</span>
+                    DAFTAR PEMENANG<br><span class="text-thin">GEBYAR UNDIAN HADIAH</span>
                 </h3>
                 <div class="text-large text has_hide">TABUNGAN 2021</div>
                 <div class="form-cont has_hide">

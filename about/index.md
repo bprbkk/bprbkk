@@ -64,7 +64,7 @@ Prestasi dan penghargaan yang telah di raih PD BPR BKK WONOGIRI:
 
 Lihat Lebih lanjut tentang Profil PT BPR BKK WONOGIRI (Perseroda)
 
-- [BPR BKK Manajemen](/about/staff)
+- [BPR BKK Manajemen](/managemen/index)
   Meliputi informasi tentang Dewan Pengawas, SKAI, Direksi dan Kepala Bidang
 - [Jaringan Kantor](/about/kantor)
   Meliputi informasi tentang Kantor Cabang, Termasuk Alamat Kantor, dan Pimpinan Cabang 

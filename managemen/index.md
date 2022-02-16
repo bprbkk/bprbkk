@@ -1,5 +1,5 @@
 ---
-layout: kantor
+layout: staf
 ---
 
 <div class="container">

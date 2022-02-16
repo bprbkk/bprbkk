@@ -37,6 +37,15 @@ layout: staf
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
 				</svg>
 			</div>
+			</div>
+		<div class="tooltip tooltip-effect-2">
+		<a href="#"><img src="/images/managemen/Aris.JPG" alt="Aristian Hari Marjoko, S.E.,M.M"/><h4>Aristian Hari Marjoko, S.E.,M.M</h4></a>
+		<span class="tooltip-content">Komisaris Independen PT BPR BKK WONOGIRI</span>
+			<div class="tooltip-shape">
+				<svg height="165px" width="220px">
+				<use xlink:href="#managemen-2" class="bprbkk-1" />
+				</svg>
+			</div>
 		</div>
 	</div>
 	<div class="dummy dummy-avatar" id="direksi">

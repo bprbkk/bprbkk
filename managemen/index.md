@@ -1,5 +1,5 @@
 ---
-layout: staff
+layout: kantor
 ---
 
 <div class="container">
@@ -18,6 +18,7 @@ layout: staff
 			<a href="#kepala-bidang">Kabid</a>
 		</nav>
 	</header>
+	<div class="dummy dummy-avatar" id="dewan-pengawas">
 	<h2>Dewan Pengawas</h2>
 		<div class="tooltip tooltip-effect-1">
 		<a href="#"><img src="/images/managemen/Aguspras.jpg" alt="Agus Prasutio,SH.M.Si"/><h4>Agus Prasutio,SH.M.Si</h4></a>

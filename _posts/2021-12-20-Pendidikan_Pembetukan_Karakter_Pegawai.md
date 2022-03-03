@@ -18,7 +18,7 @@ Proses pembentukan karakter baik disadari maupun tidak, akan memengaruhi cara in
 
 Foto Dokumentasi
 
-<<<<<<< HEAD
+
 <img src="/images/Gelombang 2.JPG" class="img-responsive img-centered" alt="">
 
 <img src="/images/Gel 1.JPG" class="img-responsive img-centered" alt="">
@@ -30,7 +30,7 @@ Foto Dokumentasi
 <img src="/images/Gel_1.JPG" class="img-responsive img-centered" alt="">
 
 <img src="/images/gel_1_2.jpg" class="img-responsive img-centered" alt="">
->>>>>>> 42697888c9ed2bfe19a88b3056792e98d774b3ec
+
 
 
 

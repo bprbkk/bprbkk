@@ -21,6 +21,4 @@ Foto Dokumentasi
 
 Berikut Apresiasi Ir. SRIYANTO SAPUTRO, M.M. Wakil Ketua Komisi C DPRD Jawa Tengah atas kinerja PT BPR BKK WONOGIRI (Perseroda)
 
-<iframe width="560" height="315" src="/images/videodprd.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<video width="640" src="video/videodprd.mp4" controls></video>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=FKeAqqQwgWg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

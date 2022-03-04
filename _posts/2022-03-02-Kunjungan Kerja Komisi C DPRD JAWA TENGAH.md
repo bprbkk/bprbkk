@@ -16,8 +16,11 @@ Komisi C DPRD Jawa Tengah melakukan kunjungan kerja di PT BPR BKK WONOGIRI (Pers
 Foto Dokumentasi
 
 <img src="/images/dprd.JPG" class="img-responsive img-centered" alt="">
+
 <img src="/images/dprd1.JPG" class="img-responsive img-centered" alt="">
 
 Berikut Apresiasi Ir. SRIYANTO SAPUTRO, M.M. Wakil Ketua Komisi C DPRD Jawa Tengah atas kinerja PT BPR BKK WONOGIRI (Perseroda)
 
 <iframe width="560" height="315" src="/images/videodprd.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<video width="640" src="video/videodprd.mp4" controls></video>

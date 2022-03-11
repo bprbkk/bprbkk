@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PT BPR BKK WONOGIRI (Perseroda) bekerja sama dengan PT USSI meluncurkan Aplikasi Branchless
+title: PT BPR BKK WONOGIRI (Perseroda) BEKERJA SAMA PT USSI MELUNCURKAN IBS BRANCHLESS
 subtitle: ""
 description: ""
 author: "Admin"

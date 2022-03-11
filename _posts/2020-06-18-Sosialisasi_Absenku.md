@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PT BPR BKK WONOGIRI (Perseroda) meluncurkan Aplikasi Absenku 
+title: PT BPR BKK WONOGIRI (Perseroda) MELUNCURKAN APLIKASI ABSENKU
 subtitle: ""
 description: ""
 author: "Admin"

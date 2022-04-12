@@ -5,7 +5,7 @@ subtitle:   ""
 description: ""
 author: "Admin"
 date: 2022-04-11 14.30
-header-img: "Pejabat2.JPG"
+header-img: "images/Pejabat2.JPG"
 ---
 
 

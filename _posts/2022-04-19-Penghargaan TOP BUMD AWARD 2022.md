@@ -15,4 +15,3 @@ PT BPR BKK WONOGIRI (Perseroda) mendapat penghargaan dalam Top BUMD Award 2022 s
 
 <img src="/images/topbumd1.JPGG" class="img-responsive img-centered" alt="">
 
-

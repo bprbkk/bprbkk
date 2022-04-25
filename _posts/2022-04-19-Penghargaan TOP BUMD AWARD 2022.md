@@ -13,5 +13,5 @@ header-img: "images/topbumd.jpg"
 
 PT BPR BKK WONOGIRI (Perseroda) mendapat penghargaan dalam Top BUMD Award 2022 sebagai BUMD Bintang 4 Terbaik, Ibu Dirut Sarti, S.E., M.M. sebagai TOP CEO BUMD 2022, dan Bapak Bupati Wonogiri Joko Sutopo sebagai TOP PEMBINA BUMD 2022.
 
-<img src="/images/topbumd1.jpg" class="img-responsive img-centered" alt="">
+<img src="/images/topbumd1.JPG" class="img-responsive img-centered" alt="">
 

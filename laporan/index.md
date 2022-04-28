@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tata Kelola PT BPR BKK WONOGIRI (Perseroda)
+title: TATA KELOLA PT BPR BKK WONOGIRI (Perseroda)
 description: "Laporan Tata Kelola: Perbankan PT BPR BKK WONOGIRI (Perseroda)"
 header-img: "images/publkasi.jpg"
 ---

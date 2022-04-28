@@ -38,4 +38,4 @@ KERTAS KERJA LAPORAN TATA KELOLA 2020		| 2020  			| [Download](/laporan/2020/LAP
 
 | Jenis Laporan:                            | Tahun             | File Download |
 ------------------------------------------- | ----------------- | ------------- |
-KERTAS KERJA LAPORAN TATA KELOLA 2020		| 2021  			| [Download](/laporan/2020/LAPORAN GCG PERBARINDO - WEB.pdf)
+KERTAS KERJA LAPORAN TATA KELOLA 2021		| 2021  			| [Download](/laporan/2021/LAPORAN GCG PERBARINDO.pdf)

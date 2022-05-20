@@ -13,5 +13,5 @@ header-img: "images/youtube.jpg"
 
 Dalam rangka menyambut Hari Jadi Kabupaten Wonogiri, Ibu  Direktur Utama PT BPR BKK WONOGIRI (Perseroda), Sarti, S.E.,M.M. diundang dalam acara Wedangan Mas Warmin.
 
-<iframe width="560" height="315" src="https://youtube.com/embed/eiphtEJpQmc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://youtube.com/embed/eiphtEJpQmc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

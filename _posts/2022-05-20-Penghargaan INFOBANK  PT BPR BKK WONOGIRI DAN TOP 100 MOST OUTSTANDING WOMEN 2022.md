@@ -5,7 +5,7 @@ subtitle:   ""
 description: ""
 author: "Admin"
 date: 2022-05-20 15.30
-header-img: "images/Infobank/2.jpg"
+header-img: "images/Infobank/2.JPG"
 ---
 
 
@@ -15,7 +15,7 @@ PT BPR BKK WONOGIRI (Perseroda) kembali meraih penghargaan di tahun 2022 dari IN
 
 <img src="/images/Infobank/1.jpg" class="img-responsive img-centered" alt="">
 
-<img src="/images/Infobank/2.jpg" class="img-responsive img-centered" alt="">
+<img src="/images/Infobank/2.JPG" class="img-responsive img-centered" alt="">
 
 <img src="/images/Infobank/3.jpg" class="img-responsive img-centered" alt="">
 

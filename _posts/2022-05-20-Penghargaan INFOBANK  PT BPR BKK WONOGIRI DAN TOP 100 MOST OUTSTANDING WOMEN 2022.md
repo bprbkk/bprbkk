@@ -9,7 +9,7 @@ header-img: "images/Infobank/2.JPG"
 ---
 
 
-## PELEPASAN PEGAWAI PURNA TUGAS PT BPR BKK WONOGIRI (Perseroda)
+## PENGHARGAAN INFOBANK PT BPR BKK WONOGIRI DAN TOP 100 MOST OUTSTANDING WOMEN 2022
 
 PT BPR BKK WONOGIRI (Perseroda) kembali meraih penghargaan di tahun 2022 dari INFOBANK berpredikat "EXCELLENT" For The Financial Performance During September 2020 - 2021. Dalam acara tersebut Ibu Direktur Utama Sarti, S.E.,M.M mendapat penghargaan TOP 100 MOST OUTSTANDING WOMEN 2022 dalam kategori In Financial Sector & Soe 2022.
 

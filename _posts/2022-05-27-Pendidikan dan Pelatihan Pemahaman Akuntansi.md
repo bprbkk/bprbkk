@@ -5,7 +5,7 @@ subtitle:   ""
 description: ""
 author: "Admin"
 date: 2022-05-27 15.30
-header-img: "images/pendidikanakuntansi/akuntansi1.jpg"
+header-img: "images/pendidikanakuntasi/akuntansi1.jpg"
 ---
 
 

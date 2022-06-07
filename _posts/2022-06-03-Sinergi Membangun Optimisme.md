@@ -11,5 +11,5 @@ header-img:
 
 ## SINERGI MEMBANGUN OPTIMISME PT BPR BKK WONOGIRI (Perseroda)
 
-<img src="/images/news.png" class="img-responsive img-centered" alt="">
+<img src="images/news.PNG" class="img-responsive img-centered" alt="">
 

@@ -15,7 +15,7 @@ Penyuluhan Dan Penerangan Hukum di PT.BPR BKK WONOGIRI (Perseroda) oleh Kejaksaa
 
 Kegiatan ini dihadiri oleh FX Pranata AP. MHUM (Asisten Perekonomian dan Pembangunan Setda Kab.Wonogiri),  Tim Kejaksaan Tinggi Jawa Tengah dan Direksi serta Pegawai PT.BPR BKK WONOGIRI (Perseroda).
 Tiga hal yang menjadi fokus (tata niaga dan perizinan, Keuangan Negara, Penegakan Hukum Reformasi dan Birokrasi - Budi Setyadi, S.H.,M.H.
-Pencegahan Tindak Pidana Pada Perbankan ( Pardiono, SH)
+Pencegahan Tindak Pidana Pada Perbankan ( Pardiono, SH).
 
 <img src="/images/PenyulujhanHukum/jaksadireksi.JPG" class="img-responsive img-centered" alt="">
 

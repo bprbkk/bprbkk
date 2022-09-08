@@ -48,7 +48,7 @@ layout: home
                         Produk<br> <span class="text-success">Layanan</span> PT BPR BKK WONOGIRI (Perseroda)
                     </h2>
                     <p>
-                        Produk layanan kami meliputi kredit, <br>Tamades, Deposito dan Sicipta. <br>Menjangkau bagi semua kepentingan keuangan masyarakat.<br>Segera bergabung bersama kami, <br>miliki rekening di <b>PT BPR BKK WONOGIRI (Perseroda)</b> dan tingkatkan saldonya.
+                        Produk layanan kami meliputi kredit, <br>Tamades, Deposito, Sicipta, Simpel Ayah Sukses. <br>Menjangkau bagi semua kepentingan keuangan masyarakat.<br>Segera bergabung bersama kami, <br>miliki rekening di <b>PT BPR BKK WONOGIRI (Perseroda)</b> dan tingkatkan saldonya.
                     </p>
                     <div class="b-monitor js-monitor"></div>
                     <div class="form-cont has_hide">

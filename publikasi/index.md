@@ -5,6 +5,13 @@ description: "Transparansi Perbankan"
 header-img: "images/bprbkk.jpg"
 ---
 
+## Tahun 2022
+
+| Triwulan Ke:	| Tahun | File Download |
+--------------- | ------- | ------------- |
+I				| 2022				| [Download](/publikasi/2022/LAPORAN PUBLIKASI TRIWULAN I.pdf)
+II				| 2022				| [Download](/publikasi/2022/LAPORAN PUBLIKASI TRIWULAN II.pdf)
+
 ## Tahun 2021
 
 | Triwulan Ke:	| Tahun | File Download |

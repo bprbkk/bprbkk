@@ -81,7 +81,7 @@ layout: staf
 	<div class="dummy dummy-avatar" id="skai">
 	<h2>SKAI</h2>
 		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/satino.JPG" alt="Satino,SE"/><h4>Satino,SE</h4></a>
+		<a href="#"><img src="/images/managemen/Satino.JPG" alt="Satino,SE"/><h4>Satino,SE</h4></a>
 		<span class="tooltip-content">Kepala SKAI PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">

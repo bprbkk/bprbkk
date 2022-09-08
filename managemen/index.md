@@ -39,7 +39,7 @@ layout: staf
 			</div>
 			</div>
 		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/Aris.JPG" alt="Aristian Hari Marjoko, S.E.,M.M"/><h4>Aristian Hari Marjoko, S.E.,M.M</h4></a>
+		<a href="#"><img src="/images/managemen/Aris.jpg" alt="Aristian Hari Marjoko, S.E.,M.M"/><h4>Aristian Hari Marjoko, S.E.,M.M</h4></a>
 		<span class="tooltip-content">Komisaris Independen PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -81,7 +81,7 @@ layout: staf
 	<div class="dummy dummy-avatar" id="skai">
 	<h2>SKAI</h2>
 		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/suyono.jpg" alt="Suyono,SE"/><h4>Suyono,SE</h4></a>
+		<a href="#"><img src="/images/managemen/satino.jpg" alt="Satino,SE"/><h4>Satino,SE</h4></a>
 		<span class="tooltip-content">Kepala SKAI PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -102,7 +102,7 @@ layout: staf
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/" alt=""/><h4></h4></a>
+			<a href="#"><img src="/images/managemen/jokosan.jpg" alt="Joko Santoso, S.E."/><h4>Joko Santoso, S.E.</h4></a>
 			<span class="tooltip-content">Kepala Bidang Pemasaran, Literasi Keuangan dan Inklusi Keuangan PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">

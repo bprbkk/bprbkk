@@ -4,7 +4,7 @@ layout: kredit
 
 ## Kredit Umum
 
-Fasilitas kredit s/d Rp.750 juta yang diberikan untuk usaha produktif dalam bentuk kredit modal kerja dan kredit investasi.
+Fasilitas kredit yang diberikan untuk usaha produktif dalam bentuk kredit modal kerja dan kredit investasi.
 
 #### PERSYARATAN:
 
@@ -21,7 +21,7 @@ Fasilitas kredit s/d Rp.750 juta yang diberikan untuk usaha produktif dalam bent
 
 - Proses lebih cepat dengan persyaratan mudah;
 - Suku bunga bersaing dengan jangka waktu hingga 10 tahun;
-- Plafond hingga maksimal Rp.750 juta;
+- Plafond hingga maksimal sesuai kebutuhan;
 - Dapat take over dari Bank lain.
 
 

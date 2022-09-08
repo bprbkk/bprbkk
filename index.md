@@ -24,6 +24,7 @@ layout: home
             <a href="/laporan" class="text-default">Laporan Tata Kelola</a>|
             <a href="/produk/kredit" class="text-default">Kredit</a>|
             <a href="/produk/simpanan" class="text-default">Simpanan</a>|
+			<a href="/produk/simpanan" class="text-default">Simulasi Kredit</a>|
             <a href="/about" class="text-default">Tentang</a>           
 	</div>
 	</div>

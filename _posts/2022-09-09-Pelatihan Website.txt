@@ -3,7 +3,7 @@ layout: post
 title: PELATIHAN APLIKATIF STANDART INFORMASI MINIMUM WEBSITE
 subtitle:   ""
 description: ""
-author: "Admin"
+author: "Admiin"
 date: 2022-09-09 08.00
 header-img: "images/latih_website.jpg"
 ---

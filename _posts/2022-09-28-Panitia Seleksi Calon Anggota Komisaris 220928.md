@@ -12,4 +12,4 @@ header-img: ""
 
 Panitia Seleksi Calon Anggota Komisaris PT. BPR BKK Wonogiri (Perseroda) membuka kesempatan Kepada Pejabat Pemerintah Daerah di Kabupaten Wonogiri yang mempunyai persyaratan untuk mengisi jabatan sebagai Calon Anggota Komisaris PT. BPR BKK WONOGIRI (Perseroda).
 
-[Info lengkap download disini](/publikasi/Pengumuman/Pengumuman-Selkom-BPR-WNG.pdf)
+[Info lengkap download disini](/publikasi/Pengumuman/PengumumanSelkomBPRWNG.pdf)

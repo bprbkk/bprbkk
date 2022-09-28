@@ -9,7 +9,7 @@ header-img: "images/bggglog/2017/Loker3.jpg"
 ---
 
 
-## PENGUMUMAN PANITIA SELEKSI CALON ANGGOTA KOMISARIS PT BPR BKK WONOGIRI (Perseroda)
+##PENGUMUMAN PANITIA SELEKSI CALON ANGGOTA KOMISARIS PT BPR BKK WONOGIRI (Perseroda)
 
 <div style="text-align: justify;">Panitia Seleksi Calon Anggota Komisaris PT. BPR BKK Wonogiri (Perseroda) membuka kesempatan Kepada Pejabat Pemerintah Daerah di Kabupaten Wonogiri yang mempunyai persyaratan untuk mengisi jabatan sebagai Calon Anggota Komisaris PT. BPR BKK WONOGIRI (Perseroda).</div>
 

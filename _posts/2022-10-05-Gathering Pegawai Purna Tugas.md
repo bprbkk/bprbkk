@@ -15,3 +15,5 @@ PT BPR BKK WONOGIRI (Perseroda) melaksanakan Gathering Pegawai Purna Tugas 5 Okt
 </div>
 
 <img src="/images/gathpurna1.jpg" class="img-responsive img-centered" alt="">
+
+<img src="/images/gathpurna.jpg" class="img-responsive img-centered" alt="">

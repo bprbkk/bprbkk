@@ -123,11 +123,11 @@ layout: home
         <div class="vertical-block">
             <div class="text-center">  
                  <h3 class="text has_hide" >
-                   TOP 100 BUMD AWARD 2022<br><span class="text-thin">TOP 100 BUMD AWARD 2022</span>
+                   DAFTAR PEMENANG<br><span class="text-thin">SPEKTAMADES TAHUN 2022</span>
                 </h3>
                 <div class="text-large text has_hide">TOP 100 BUMD 2022</div>
                 <div class="form-cont has_hide">
-                <a href="images/news.png" class="buynow btn btn-success">Download disini</a>
+                <a href="images/undian2022.pdf" class="buynow btn btn-success">Download disini</a>
                 </div>
 				<div class="lined-text">
 				<a href="/produk/kredit" class="text-default">Kredit</a> |

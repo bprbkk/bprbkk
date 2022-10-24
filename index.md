@@ -125,7 +125,7 @@ layout: home
                  <h3 class="text has_hide" >
                    DAFTAR PEMENANG<br><span class="text-thin">SPEKTAMADES TAHUN 2022</span>
                 </h3>
-                <div class="text-large text has_hide">TOP 100 BUMD 2022</div>
+                <div class="text-large text has_hide">DAFTAR PEMENANG</div>
                 <div class="form-cont has_hide">
                 <a href="images/undian2022.pdf" class="buynow btn btn-success">Download disini</a>
                 </div>
@@ -134,7 +134,7 @@ layout: home
 				<a href="/produk/simpanan" class="text-default">Simpanan</a> |
 				<a href="/publikasi" class="text-default">Publikasi</a> |
 				<a href="/laporanpbk" class="text-default">Publikasi Penanganan Pengaduan</a>|
-                <a href="/laporan" class="text-default">Laporan Tata Kelola</a> |				
+                		<a href="/laporan" class="text-default">Laporan Tata Kelola</a> |				
 				<a href="/news" class="text-default">Berita</a> |
 				<a href="/about" class="text-default">Tentang</a>
 				</div>

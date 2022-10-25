@@ -4,7 +4,7 @@ title: PT BPR BKK WONOGIRI MELUNCURKAN PRODUK BARU WARIS DAN KRANS
 subtitle:   ""
 description: ""
 author: "Admin"
-date: 2022-10-21 23.00
+date: 2022-10-22 09.00
 header-img: "images/spektamades/waris.png"
 ---
 

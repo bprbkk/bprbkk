@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 
-subtitle:   ""
+subtitle: "GATHERING PT BPR BKK WONOGIRI BERSAMA BUMDESMA SE KABUPATEN WONOGIRI"
 description: ""
 author: "Admin"
 date: 2022-12-13 11.00

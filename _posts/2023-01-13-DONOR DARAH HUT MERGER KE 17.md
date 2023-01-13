@@ -4,7 +4,7 @@ title: "DONOR DARAH HUT MERGER PT BPR BKK WONOGIRI (Perseroda) "
 subtitle: 
 description: ""
 author: "Admin"
-date: 2022-01-13 08.30
+date: 2023-01-13 08.30
 header-img: "images/donor2023/1.JPG"
 ---
 

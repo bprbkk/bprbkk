@@ -5,7 +5,7 @@ subtitle:
 description: ""
 author: "Admin"
 date: 2023-01-24 08.30
-header-img: "images/bprbkk.JPG"
+header-img: "images/bprbkk.jpg"
 ---
 
  PELANTIKAN DEWAN KOMISARIS PT BPR BKK WONOGIRI (Perseroda)

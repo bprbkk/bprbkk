@@ -39,3 +39,9 @@ KERTAS KERJA LAPORAN TATA KELOLA 2020		| 2020  			| [Download](/laporan/2020/LAP
 | Jenis Laporan:                            | Tahun             | File Download |
 ------------------------------------------- | ----------------- | ------------- |
 KERTAS KERJA LAPORAN TATA KELOLA 2021		| 2021  			| [Download](/laporan/2021/LAPORAN GCG PERBARINDO.pdf)
+
+## Tahun 2022
+
+| Jenis Laporan:                            | Tahun             | File Download |
+------------------------------------------- | ----------------- | ------------- |
+KERTAS KERJA LAPORAN TATA KELOLA 2022		| 2022  			| [Download](/laporan/2022/LAPORAN GCG 2022.pdf)

@@ -11,7 +11,7 @@ header-img: "images/foto_tampak_depan.jpg"
 --------------- | ------- | ------------- |
 I				| 2022				| [Download](/publikasi/2022/LAPORAN PUBLIKASI TRIWULAN I.pdf)
 II				| 2022				| [Download](/publikasi/2022/LAPORAN PUBLIKASI TRIWULAN II.pdf)
-III				| 2022				| [Download](/publikasi/2022/LAPORAN PUBLIKASI TRIWULAN II.pdf)
+III				| 2022				| [Download](/publikasi/2022/LAPORAN PUBLIKASI TRIWULAN III.pdf)
 
 ## Tahun 2021
 

@@ -12,14 +12,14 @@ layout: staf
 	<header class="bprbkk-header">
 		<h1>Staf Manajemen <span>PT BPR BKK WONOGIRI</span></h1>
 		<nav class="bprbkk-staff">
-			<a href="#dewan-pengawas">Pengawas</a>
+			<a href="#dewan-pengawas">Komisaris</a>
 			<a href="#skai">SKAI</a>
 			<a href="#direksi">Direksi</a>
 			<a href="#kepala-bidang">Kabid</a>
 		</nav>
 	</header>
 	<div class="dummy dummy-avatar" id="dewan-pengawas">
-	<h2>Dewan Pengawas</h2>
+	<h2>Dewan Komisaris</h2>
 		<div class="tooltip tooltip-effect-1">
 		<a href="#"><img src="/images/managemen/Aguspras.jpg" alt="Agus Prasutio,SH.M.Si"/><h4>Agus Prasutio,SH.M.Si</h4></a>
 		<span class="tooltip-content"> Ketua Dewan Komisaris PT BPR BKK WONOGIRI</span>
@@ -30,7 +30,7 @@ layout: staf
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/Edhy.JPG" alt="Edhy Tri Hardyanto, S.Sos.M.si"/><h4>Edhy Tri Hardyanto, S.Sos.M.si</h4></a>
+		<a href="#"><img src="/images/managemen/Pranata.jpg" alt="FX. Pranata, AP, M.Hum"/><h4>FX. Pranata, AP, M.Hum</h4></a>
 		<span class="tooltip-content">Anggota Dewan Komisaris PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">

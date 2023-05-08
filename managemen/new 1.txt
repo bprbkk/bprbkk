@@ -1,0 +1,6 @@
+Trans Id	Tgl Trans	Kode Jurnal	No Bukti	Uraian	Modul Source	Trans Id Source	User Id	Kode Kantor
+1680601253	06/04/2023	JU	04-06-04-23-00126	Jurnal Reverse PENGEMBALIAN KAS TELLER 06/04/2023	GL		4034	04
+
+
+Trans Id	Tgl Trans	Kode Jurnal	No Bukti	Uraian	Modul Source	Trans Id Source	User Id	Kode Kantor
+1680601034	06/04/2023	JU	04-06-04-23-00126	PENGEMBALIAN KAS TELLER	GL		4034	04

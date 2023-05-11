@@ -5,7 +5,7 @@ subtitle:   ""
 description: ""
 author: "Admin"
 date: 2023-05-11 06.30
-header-img: "images/Napak/1.jpg"
+header-img: "images/Napak/1.JPG"
 ---
 
 <div style="text-align: justify;">

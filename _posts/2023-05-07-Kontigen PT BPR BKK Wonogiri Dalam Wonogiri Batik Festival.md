@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KONTINGEN PT BPR BKK WONOGIRI (Perseroda), WONOGIRI
+title: KONTINGEN PT BPR BKK WONOGIRI (Perseroda)
 subtitle:   ""
 description: ""
 author: "Admin"

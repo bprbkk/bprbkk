@@ -2,17 +2,19 @@
 layout: page
 header-img: "images/rekrutmen/Rekrutmen.png"
 ---
-## Seleksi Rekrutmen Pegawai PT BPR BKK WONOGIRI (Perseroda) TAHUN 2023
-
 
 Pengumuman Hasil Akhir Seleksi Pegawai PT BPR BKK WONOGIRI (Perseroda) 2023 Silahkan Klik link dibawah ini :
-
-<a href="/rekrutmen/Pengumuman/PENGUMUMAN REKRUTMEN PEGAWAI 2023.pdf" class="buynow btn btn-inverse btn-inverse-primary">Pengumuman </a>
+<a href="/rekrutmen/Pengumuman/PENGUMUMAN REKRUTMEN PEGAWAI 2023.pdf" class="buynow btn btn-inverse btn-inverse-primary">Klik Disini</a>
 <div class="btn--wrapper">
 
-LINK PENDAFTARAN : 
-<a href="https://bit.ly/lamaran_pegawai_bkk_2023" class="buynow btn btn-inverse btn-inverse-primary">LINK SUBMIT PENDAFTARAN </a>
+Link Submit Lamaran :
+<a href="https://bit.ly/lamaran_pegawai_bkk_2023" class="buynow btn btn-inverse btn-inverse-primary">Klik Disini</a>
 <div class="btn--wrapper">
 
-HelpDesk : 0811263311 (WhatssApp)
-HelpDesk : 0811263311 (Telegram)
+HelpDesk : 0811263311
+Telegram : <a href="http://t.me/ptbprbkkwonogiri" class="buynow btn btn-inverse btn-inverse-primary">Klik Disini</a>
+<div class="btn--wrapper">
+
+Pelayanan Helpdesk hanya pada jam kerja.
+
+

@@ -1,4 +1,7 @@
-
+---
+layout: page
+header-img: "images/rekrutmen/Rekrutmen.png"
+---
 ## Seleksi Rekrutmen Pegawai PT BPR BKK WONOGIRI (Perseroda) TAHUN 2023
 
 
@@ -12,3 +15,4 @@ LINK PENDAFTARAN :
 <div class="btn--wrapper">
 
 HelpDesk : 0811263311 (WhatssApp)
+HelpDesk : 0811263311 (Telegram)

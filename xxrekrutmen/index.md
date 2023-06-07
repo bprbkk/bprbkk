@@ -12,4 +12,4 @@ Pengumuman Hasil Akhir Seleksi Pegawai PT BPR BKK WONOGIRI (Perseroda) 2023 Sila
 <a href="/rekrutmen/Pengumuman/PENGUMUMAN REKRUTMEN PEGAWAI 2023.pdf" class="buynow btn btn-inverse btn-inverse-primary">Pengumuman </a>
 <div class="btn--wrapper">
 
-HelpDesk : 083838383301 (WhatssApp)
+HelpDesk : 0811263311 (WhatssApp)

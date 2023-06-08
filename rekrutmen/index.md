@@ -13,6 +13,8 @@ Link Submit Lamaran :
 HelpDesk : 0811263311
 Telegram : <a href="http://t.me/ptbprbkkwonogiri" class="buynow btn btn-inverse btn-inverse-primary">Klik Disini</a>
 <div class="btn--wrapper">
+Whatsapp :<a href="https://wa.link/3ojs9z" class:"buynow btn btn-inverse btn-inverse-primary">Klik Disini</>
+<div class="btn--wrapper">
 
 Pelayanan Helpdesk hanya pada jam kerja.
 

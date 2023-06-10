@@ -69,7 +69,7 @@ layout: staf
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/Yani.JPG" alt="Yani Harmini, SP"/><h4>Yani Harmini, SP</h4></a>
+		<a href="#"><img src="/images/managemen/Yani.jpg" alt="Yani Harmini, SP"/><h4>Yani Harmini, SP</h4></a>
 		<span class="tooltip-content">Direktur Umum dan Kepatuhan PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">

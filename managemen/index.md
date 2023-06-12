@@ -91,7 +91,7 @@ layout: staf
 		</div>
 	</div>
 	<div class="dummy dummy-avatar" id="kepala-bidang">
-	<h2>Kepala Bidang</h2>
+	<h2>Manajer Perusahaan</h2>
 		<div class="tooltip tooltip-effect-1">
 			<a href="#"><img src="/images/managemen/suratni.jpg" alt="Suratni, SE"/><h4>Suratni, SE</h4></a>
 			<span class="tooltip-content">Manajer Umum PT BPR BKK WONOGIRI</span>
@@ -120,7 +120,7 @@ layout: staf
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-3">
-			<a href="#"><img src="/images/managemen/Utari.jpg" alt="Autari Asriningsih, SE"/><h4>Suratni, SE</h4></a>
+			<a href="#"><img src="/images/managemen/Utari.jpg" alt="Autari Asriningsih, SE"/><h4>Autari Asriningsih, SE</h4></a>
 			<span class="tooltip-content">Manajer Kepatuhan dan Manajemen Risiko PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">

@@ -7,7 +7,6 @@ Pengumuman Rekrutmen Calon Pegawai PT BPR BKK WONOGIRI (Perseroda) 2023 Silahkan
 <div class="btn--wrapper">
 
 HelpDesk : 0811263311
-Telegram : <a href="http://t.me/ptbprbkkwonogiri" class="buynow btn btn-inverse btn-inverse-primary">Klik Disini</a>
 Whatsapp : <a href="https://wa.link/3ojs9z" class="buynow btn btn-inverse btn-inverse-primary">Klik Disini</a>
 <div class="btn--wrapper">
 

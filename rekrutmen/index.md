@@ -17,7 +17,7 @@ Pengumuman Jadwal Sesi Ujian CAT Silahkan :
 Cetak Kartu Peserta Ujian Rekrutmen Calon Pegawai PT BPR BKK WONOGIRI (Perseroda) 2023 Silahkan : <a href="https://bkkwonogiri.com" class="buynow btn btn-inverse btn-inverse-primary">Klik Disini</a>
 <div class="btn--wrapper">
 
-Pengumuman Hasil Seleksi Kemampuan Dasar Calon Pegawai PT BPR BKK WONOGIRI (Perseroda) 2023 Silahkan 
+Pengumuman Hasil Seleksi Kemampuan Dasar Calon Pegawai PT BPR BKK WONOGIRI (Perseroda) 2023</a> Silahkan 
 <a href="/rekrutmen/Pengumuman/PENGUMUMAN_HASIL_SELEKSI_KEMAMPUAN_DASAR_CALON_PEGAWAI.pdf" class="buynow btn btn-inverse btn-inverse-primary">Klik Disini</a>
 <div class="btn--wrapper">
 

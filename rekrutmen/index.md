@@ -2,11 +2,11 @@
 layout: page
 header-img: "images/rekrutmen/Rekrutmen.png"
 ---
-Pengumuman Rekrutmen Calon Pegawai PT BPR BKK WONOGIRI (Perseroda) 2023 Silahkan 
+Pengumuman Hasil Seleksi Kemampuan Dasar Calon Pegawai PT BPR BKK WONOGIRI (Perseroda) 2023 Silahkan 
 <a href="/rekrutmen/Pengumuman/PENGUMUMAN_HASIL_SELEKSI_KEMAMPUAN_DASAR_CALON_PEGAWAI.pdf" class="buynow btn btn-inverse btn-inverse-primary">Klik Disini</a>
 <div class="btn--wrapper">
 
-Pengumuman Rekrutmen Calon Pegawai PT BPR BKK WONOGIRI (Perseroda) 2023 Silahkan 
+Pengumuman Pelaksanaan Seleksi Kemampuan Bbidang (SKB) Penerimaan Calon Pegawai PT BPR BKK WONOGIRI (Perseroda) 2023 Silahkan 
 <a href="/rekrutmen/Pengumuman/PENGUMUMAN_PELAKSANAAN_SELEKSI_KEMAMPUAN_BIDANG_PENERIMAAN_CALON_PEGAWAI.pdf" class="buynow btn btn-inverse btn-inverse-primary">Klik Disini</a>
 <div class="btn--wrapper">
 

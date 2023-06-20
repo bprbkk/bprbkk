@@ -25,7 +25,6 @@ Pengumuman Pelaksanaan Seleksi Kemampuan Bbidang (SKB) Penerimaan Calon Pegawai 
 <a href="/rekrutmen/Pengumuman/PENGUMUMAN_PELAKSANAAN_SELEKSI_KEMAMPUAN_BIDANG_PENERIMAAN_CALON_PEGAWAI.pdf" class="buynow btn btn-inverse btn-inverse-primary">Klik Disini</a>
 <div class="btn--wrapper">
 
-
 HelpDesk : 0811263311
 Whatsapp : <a href="https://wa.link/3ojs9z" class="buynow btn btn-inverse btn-inverse-primary">Klik Disini</a>
 <div class="btn--wrapper">

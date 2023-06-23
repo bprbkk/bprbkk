@@ -25,6 +25,10 @@ Pengumuman Pelaksanaan Seleksi Kemampuan Bidang (SKB) Penerimaan Calon Pegawai P
 <a href="/rekrutmen/Pengumuman/PENGUMUMAN_PELAKSANAAN_SELEKSI_KEMAMPUAN_BIDANG_PENERIMAAN_CALON_PEGAWAI.pdf" class="buynow btn btn-inverse btn-inverse-primary">Klik Disini</a>
 <div class="btn--wrapper">
 
+PENGUMUMAN HASIL SELEKSI  PENERIMAAN CALON PEGAWAI PT BPR BKK WONOGIRI (Perseroda) TAHUN 2023 Silahkan 
+<a PENGUMUMAN_HASIL_SELEKSI_PENERIMAAN_CALON_PEGAWAI_PT_BPR_BKK WONOGIRI.pdf" class="buynow btn btn-inverse btn-inverse-primary">Klik Disini</a>
+<div class="btn--wrapper">
+
 HelpDesk : 0811263311
 Whatsapp : <a href="https://wa.link/3ojs9z" class="buynow btn btn-inverse btn-inverse-primary">Klik Disini</a>
 <div class="btn--wrapper">

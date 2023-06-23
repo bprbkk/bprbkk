@@ -6,25 +6,6 @@ Pengumuman Rekrutmen Calon Pegawai PT BPR BKK WONOGIRI (Perseroda) 2023 Silahkan
 <a href="/rekrutmen/Pengumuman/PENGUMUMAN REKRUTMEN PEGAWAI 2023.pdf" class="buynow btn btn-inverse btn-inverse-primary">Klik Disini</a>
 <div class="btn--wrapper">
 
-Pengumuman Seleksi Administrasi Rekrutmen Calon Pegawai PT BPR BKK WONOGIRI (Perseroda) 2023 Silahkan 
-<a href="/rekrutmen/Pengumuman/PENGUMUMAN SELEKSI ADMINISTRASI.pdf" class="buynow btn btn-inverse btn-inverse-primary">Klik Disini</a>
-<div class="btn--wrapper">
-
-Pengumuman Jadwal Sesi Ujian CAT Silahkan :
-<a href="/rekrutmen/Pengumuman/PENGUMUMAN SESI UJIAN CAT.pdf" class="buynow btn btn-inverse btn-inverse-primary">Klik Disini</a>
-<div class="btn--wrapper">
-
-Cetak Kartu Peserta Ujian Rekrutmen Calon Pegawai PT BPR BKK WONOGIRI (Perseroda) 2023 Silahkan : <a href="https://bkkwonogiri.com" class="buynow btn btn-inverse btn-inverse-primary">Klik Disini</a>
-<div class="btn--wrapper">
-
-Pengumuman Hasil Seleksi Kemampuan Dasar Calon Pegawai PT BPR BKK WONOGIRI (Perseroda) 2023  Silahkan 
-<a href="/rekrutmen/Pengumuman/PENGUMUMAN_HASIL_SELEKSI_KEMAMPUAN_DASAR_CALON_PEGAWAI.pdf" class="buynow btn btn-inverse btn-inverse-primary">Klik Disini</a>
-<div class="btn--wrapper">
-
-Pengumuman Pelaksanaan Seleksi Kemampuan Bidang (SKB) Penerimaan Calon Pegawai PT BPR BKK WONOGIRI (Perseroda) 2023 Silahkan 
-<a href="/rekrutmen/Pengumuman/PENGUMUMAN_PELAKSANAAN_SELEKSI_KEMAMPUAN_BIDANG_PENERIMAAN_CALON_PEGAWAI.pdf" class="buynow btn btn-inverse btn-inverse-primary">Klik Disini</a>
-<div class="btn--wrapper">
-
 PENGUMUMAN HASIL SELEKSI  PENERIMAAN CALON PEGAWAI PT BPR BKK WONOGIRI (Perseroda) TAHUN 2023 Silahkan 
 <a herf="/rekrutmen/Pengumuman/PENGUMUMAN_HASIL_SELEKSI_PENERIMAAN_CALON_PEGAWAI_PT_BPR_BKK WONOGIRI.pdf" class="buynow btn btn-inverse btn-inverse-primary">Klik Disini</a>
 <div class="btn--wrapper">

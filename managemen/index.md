@@ -102,7 +102,7 @@ layout: staf
 			</div>
 		</div>
 <div class="tooltip tooltip-effect-1">
-			<a href="#"><img src="/images/managemen/indriyuliawati.jpg" alt="Indri Yuliawati, SE"/><h4>Suratni, SE</h4></a>
+			<a href="#"><img src="/images/managemen/indriyuliawati.jpg" alt="Indri Yuliawati, SE"/><h4>Indri Yuliawati, SE</h4></a>
 			<span class="tooltip-content">Manajer Akuntansi dan Pelaporan PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">

@@ -22,7 +22,6 @@ layout: home
             <a href="/publikasi" class="text-default">Publikasi</a>|
             <a href="/laporanpbk" class="text-default">Publikasi Penanganan Pengaduan</a>|
             <a href="/laporan" class="text-default">Laporan Tata Kelola</a>|
-            <a href="/rekrutmen" class="text-default">Rekrutmen Pegawai</a>|
             <a href="/produk/kredit" class="text-default">Kredit</a>|
             <a href="/produk/simpanan" class="text-default">Simpanan</a>|
 			<a href="/produk/simpanan" class="text-default">Simulasi Kredit</a>|

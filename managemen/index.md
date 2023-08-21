@@ -13,8 +13,8 @@ layout: staf
 		<h1>Staf Manajemen <span>PT BPR BKK WONOGIRI</span></h1>
 		<nav class="bprbkk-staff">
 			<a href="#dewan-pengawas">Komisaris</a>
-			<a href="#skai">SKAI</a>
 			<a href="#direksi">Direksi</a>
+			<a href="#skai">SKAI</a>
 			<a href="#kepala-bidang">Manajer</a>
 		</nav>
 	</header>

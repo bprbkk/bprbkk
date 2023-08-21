@@ -6,7 +6,7 @@ layout: staf
 <!-- Top Navigation -->
 	<div class="bprbkk-top clearfix">
 		<a class="bprbkk-icon" href="/"><span>PT BPR BKK WONOGIRI</span></a>
-		<span class="right"><a class="bprbkk-icon" href="/news"><span>Berita</span></a></span>
+		<span class="right"><a class="bprbkk-icon" href="/news"><span>BERITA</span></a></span>
 	</div>
 <div class="content">
 	<header class="bprbkk-header">
@@ -15,7 +15,7 @@ layout: staf
 			<a href="#dewan-pengawas">Komisaris</a>
 			<a href="#skai">SKAI</a>
 			<a href="#direksi">Direksi</a>
-			<a href="#kepala-bidang">Kabid</a>
+			<a href="#kepala-bidang">Manajer</a>
 		</nav>
 	</header>
 	<div class="dummy dummy-avatar" id="dewan-pengawas">
@@ -56,15 +56,6 @@ layout: staf
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen" class="bprbkk-1" />
-				</svg>
-			</div>
-		</div>
-		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/suwarto.jpg" alt="Suwarto, SE"/><h4>Suwarto, SE</h4></a>
-		<span class="tooltip-content">Direktur Pemasaran PT BPR BKK WONOGIRI</span>
-			<div class="tooltip-shape">
-				<svg height="165px" width="220px">
-				<use xlink:href="#managemen-2" class="bprbkk-1" />
 				</svg>
 			</div>
 		</div>

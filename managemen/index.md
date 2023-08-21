@@ -20,9 +20,18 @@ layout: staf
 	</header>
 	<div class="dummy dummy-avatar" id="dewan-pengawas">
 	<h2>Dewan Komisaris</h2>
+<div class="tooltip tooltip-effect-2">
+		<a href="#"><img src="/images/managemen/Pranata.jpg" alt="FX. Pranata, AP, M.Hum"/><h4>FX. Pranata, AP, M.Hum</h4></a>
+		<span class="tooltip-content">Ketua Dewan Komisaris PT BPR BKK WONOGIRI</span>
+			<div class="tooltip-shape">
+				<svg height="165px" width="220px">
+				<use xlink:href="#managemen-2" class="bprbkk-1" />
+				</svg>
+			</div>
+			</div>
 		<div class="tooltip tooltip-effect-1">
 		<a href="#"><img src="/images/managemen/Andre.jpg" alt="Andre Wahyu Yudhantoro, S.E., M.M."/><h4>Andre Wahyu Yudhantoro, S.E., M.M.</h4></a>
-		<span class="tooltip-content"> Ketua Dewan Komisaris PT BPR BKK WONOGIRI</span>
+		<span class="tooltip-content"> Dewan Komisaris Muda PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen" class="bprbkk-1" />

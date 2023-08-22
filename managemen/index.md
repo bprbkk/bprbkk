@@ -31,7 +31,7 @@ layout: staf
 			</div>
 		<div class="tooltip tooltip-effect-1">
 		<a href="#"><img src="/images/managemen/Andre.jpg" alt="Andre Wahyu Yudhantoro, S.E., M.M."/><h4>Andre Wahyu Yudhantoro, S.E., M.M.</h4></a>
-		<span class="tooltip-content"> Dewan Komisaris Muda PT BPR BKK WONOGIRI</span>
+		<span class="tooltip-content">Komisaris Muda PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen" class="bprbkk-1" />

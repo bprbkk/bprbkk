@@ -51,7 +51,7 @@ layout: staf
 	<div class="dummy dummy-avatar" id="direksi">
 	<h2>Direksi</h2>
 		<div class="tooltip tooltip-effect-1">
-		<a href="#"><img src="/images/managemen/sarti.jpg" alt="Sarti, SE. MM"/><h4>Sarti, SE. MM</h4></a>
+		<a href="#"><img src="/images/managemen/sarti.jpg" alt="Sarti, SE., MM"/><h4>Sarti, SE. MM</h4></a>
 		<span class="tooltip-content">Direktur Utama PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -72,8 +72,8 @@ layout: staf
 	<div class="dummy dummy-avatar" id="skai">
 	<h2>SKAI</h2>
 		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/Satino.JPG" alt="Satino,SE"/><h4>Satino,SE</h4></a>
-		<span class="tooltip-content">Kepala SKAI PT BPR BKK WONOGIRI</span>
+		<a href="#"><img src="/images/managemen/yopi.jpg" alt="Yopi Taufan Lakstiyawan,S.Sos, M.M"/><h4>Yopi Taufan Lakstiyawan,S.Sos., M.M</h4></a>
+		<span class="tooltip-content">Ketua SKAI PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />

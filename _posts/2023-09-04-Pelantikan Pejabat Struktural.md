@@ -15,4 +15,4 @@ Pelantikan Pejabat Struktural PT BPR BKK WONOGIRI (Perseroda) dilaksanakan Senin
 
 <img src="/images/pejabat092023/2.JPG" class="img-responsive img-centered" alt="">
 
-<img src="/images/pejabat092023/32.JPG" class="img-responsive img-centered" alt="">
+<img src="/images/pejabat092023/3.JPG" class="img-responsive img-centered" alt="">

@@ -21,8 +21,8 @@ layout: staf
 	<div class="dummy dummy-avatar" id="dewan-pengawas">
 	<h2>Dewan Komisaris</h2>
 <div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/Pranata.jpg" alt="FX. Pranata, AP, M.Hum"/><h4>FX. Pranata, AP, M.Hum</h4></a>
-		<span class="tooltip-content">Ketua Dewan Komisaris PT BPR BKK WONOGIRI</span>
+		<a href="#"><img src="/images/managemen/Andre.jpg" alt="Andre Wahyu Yudhantoro, S.E., M.M."/><h4>Andre Wahyu Yudhantoro, S.E., M.M.</h4></a>
+		<span class="tooltip-content">Komisaris Utama PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
@@ -30,8 +30,8 @@ layout: staf
 			</div>
 			</div>
 		<div class="tooltip tooltip-effect-1">
-		<a href="#"><img src="/images/managemen/Andre.jpg" alt="Andre Wahyu Yudhantoro, S.E., M.M."/><h4>Andre Wahyu Yudhantoro, S.E., M.M.</h4></a>
-		<span class="tooltip-content">Komisaris Muda PT BPR BKK WONOGIRI</span>
+		<a href="#"><img src="/images/managemen/Pranata.jpg" alt="FX. Pranata, AP, M.Hum"/><h4>FX. Pranata, AP, M.Hum</h4></a>
+		<span class="tooltip-content">Komisaris PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen" class="bprbkk-1" />
@@ -103,7 +103,7 @@ layout: staf
 		</div>
 		<div class="tooltip tooltip-effect-2">
 			<a href="#"><img src="/images/managemen/jokosan.jpg" alt="Joko Santoso, S.E."/><h4>Joko Santoso, S.E.</h4></a>
-			<span class="tooltip-content">Manajer Literasi Keuangan dan Inklusi Keuangan PT BPR BKK WONOGIRI</span>
+			<span class="tooltip-content">Manajer Pemasaran PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
@@ -112,7 +112,7 @@ layout: staf
 		</div>
 		<div class="tooltip tooltip-effect-3">
 			<a href="#"><img src="/images/managemen/Utari.jpg" alt="Autari Asriningsih, SE"/><h4>Autari Asriningsih, SE</h4></a>
-			<span class="tooltip-content">Manajer Kepatuhan dan Manajemen Risiko PT BPR BKK WONOGIRI</span>
+			<span class="tooltip-content">Satuan Kerja Kepatuhan dan Manajemen Risiko PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: SPEKTAMADES UNDIAN TABUNGAN PT BPR BKK WONOGIRI (Perseroda) TAHUN 2022
+title: SPEKTAMADES UNDIAN TABUNGAN PT BPR BKK WONOGIRI (Perseroda) TAHUN 2023
 subtitle:   ""
 description: ""
 author: "Admin"
-date: 2022-09-25 08.00
+date: 2023-10-06 08.00
 header-img: "images/Undian2023/headspektamades2023"
 ---
 

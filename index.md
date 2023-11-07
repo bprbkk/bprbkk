@@ -127,7 +127,7 @@ layout: home
                 </h3>
                 <div class="text-large text has_hide">DAFTAR PEMENANG</div>
                 <div class="form-cont has_hide">
-                <a href="images/undian2022.pdf" class="buynow btn btn-success">Download disini</a>
+                <a href="images/Undian2023/DAFTAR PEMENANG 2023.pdf" class="buynow btn btn-success">Download disini</a>
                 </div>
 				<div class="lined-text">
 				<a href="/produk/kredit" class="text-default">Kredit</a> |

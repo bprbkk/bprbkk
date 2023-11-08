@@ -26,22 +26,20 @@ layout: home
             <a href="/produk/simpanan" class="text-default">Simpanan</a>|
 			<a href="/produk/simpanan" class="text-default">Simulasi Kredit</a>|
             <a href="/about" class="text-default">Tentang</a>           
-	</div>
+	    </div>
 	</div>
 </div>
 <div class="landing-sections">
     <div class="section section1 section1__10off" data-index="1">
         <div class="vertical-block">
             <div class="text-center vertical-block--inner">
-                
-                <h1 class="text has_hide "> <br/>&laquo; 
-				&laquo;                                    </h1>
+                <h1 class="text has_hide"> <br/>&laquo; 
+				&laquo;</h1>
                 <div class="form-cont has_hide">                                         
                 </div>
             </div>
         </div>
     </div>
-    
     <div class="section section2" data-index="2">
         <div class="vertical-block">
             <div class="vertical-block--inner">

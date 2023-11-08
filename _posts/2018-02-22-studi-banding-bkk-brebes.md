@@ -11,7 +11,7 @@ header-img: "images/blog/2018/bkk brebes.png"
 
 ## Tentang Penerapan Penilaian Kinerja Karyawan
 
-Sebagai Lembaga Intermediasi sudah seharusnya Bank menerapkan Manajemen Resiko dan fungsi Kepatuhan dengan baik disetiap sendi bisnisnya. Tak terkecuali PD BPR BKK WONOGIRI, sebagai Perusahaan Daerah yang taat dan berkomitmen dalam menjalankan roda bisnis berdasarkan prinsip Good Corporate Governance secara berkelanjutan sangat memperhatikan Manajemen Resiko dan fungsi Kepatuhan dengan baik.
+Sebagai Lembaga - Intermediasi sudah seharusnya Bank menerapkan Manajemen Resiko dan fungsi Kepatuhan dengan baik disetiap sendi bisnisnya. Tak terkecuali PD BPR BKK WONOGIRI, sebagai Perusahaan Daerah yang taat dan berkomitmen dalam menjalankan roda bisnis berdasarkan prinsip Good Corporate Governance secara berkelanjutan sangat memperhatikan Manajemen Resiko dan fungsi Kepatuhan dengan baik.
 
 Hal inilah yang menjadi fokus dan tujuan dari PD BKK BREBES melakukan kunjungan ke PD BPR BKK WONOGIRI yaitu dalam rangka studi Banding terkait penerapan Penilaian Kinerja Karyawan dan Target Personal serta Peraturan tentang kepegawaian. Acara berlangsung di ruang rapat Kantor Pusat PD BPR BKK WONOGIRI Jl. Jenderal Sudirman No. 234 WONOGIRI, Jawa Tengah pada hari Kamis tanggal 22 Februari 2018.
 

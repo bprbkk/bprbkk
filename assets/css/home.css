@@ -1814,9 +1814,9 @@ a.text-default {
 }
 
 .b-header .b-logo {
-	width: 50px;
+	width: 70px;
 	height: 40px;
-	background: url(/images/landing/sprite.png) no-repeat;
+	background: url(/images/bkk.png) no-repeat;
 	display: block;
 	text-decoration: none !important;
 	color: #fff;

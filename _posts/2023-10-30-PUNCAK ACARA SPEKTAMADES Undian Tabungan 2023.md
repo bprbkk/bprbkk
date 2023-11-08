@@ -5,7 +5,7 @@ subtitle:   ""
 description: ""
 author: "Admin"
 date: 2023-10-30 19.00
-header-img: "/images/Undian2023/headspektamades2023.jpg"
+header-img: "images/headspektamades2023.jpg"
 ---
 
 ## SPEKTAMADES UNDIAN TABUNGAN PT BPR BKK WONOGIRI (Perseroda) TAHUN 2023

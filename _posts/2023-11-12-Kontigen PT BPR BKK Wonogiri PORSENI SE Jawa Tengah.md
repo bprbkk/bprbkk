@@ -13,9 +13,9 @@ PT BPR BKK WONOGIRI (Perseroda) mengirimkan kontingen dalam PORSENI SE JAWA TENG
 
 <img src="/images/porseni2023/2.JPG" class="img-responsive img-centered" alt="">
 
-<img src="/images/porseni2023/3.jpg" class="img-responsive img-centered" alt="">
+<img src="/images/porseni2023/3.JPG" class="img-responsive img-centered" alt="">
 
-<img src="/images/porseni2023/4.jpg" class="img-responsive img-centered" alt="">
+<img src="/images/porseni2023/4.JPG" class="img-responsive img-centered" alt="">
 
 
 

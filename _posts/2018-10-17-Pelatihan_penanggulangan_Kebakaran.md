@@ -20,7 +20,7 @@ header-img: "images/damkar_1.jpg"
 
 <img src="/images/damkar_4.jpg" class="img-responsive img-centered" alt="">
 
-WONOGIRI - Kesiapsiagaan terhadap bahaya kebakaran harus selalu diperbarukan. Kebakaran addalah nyala api yang tidak terkendali dan tidak dikehendaki yang menyebabkan kerugian harta dan nyawa. Untuk kesiapsiagaan atas kebakaran, pada tanggal 16 Oktober PD BPR BKK WONOGIRI menyelengarakan Pelatihan dan Pendidikan Tentang Penanggulangan Bahaya Kebakaran. Pelatihan tersebut diikuti oleh Satuan Pengamanan dan Kepala Seksi Pelayanan di semua Kantor, baik Kantor Pusat Manajemen, Kantor Pusat Operasional dan Kantor Cabang. 
+WONOGIRI --- Kesiapsiagaan terhadap bahaya kebakaran harus selalu diperbarukan. Kebakaran addalah nyala api yang tidak terkendali dan tidak dikehendaki yang menyebabkan kerugian harta dan nyawa. Untuk kesiapsiagaan atas kebakaran, pada tanggal 16 Oktober PD BPR BKK WONOGIRI menyelengarakan Pelatihan dan Pendidikan Tentang Penanggulangan Bahaya Kebakaran. Pelatihan tersebut diikuti oleh Satuan Pengamanan dan Kepala Seksi Pelayanan di semua Kantor, baik Kantor Pusat Manajemen, Kantor Pusat Operasional dan Kantor Cabang. 
 
 Pelatihan dan pendidikan ini bekerjasama dengan CV. Duta Permata yang diselengarakan di Kantor PD BPR BKK WONOGIRI dan praktek dilakukan di Lapangan GOR Giri Mandala Kabupaten Wonogiri.
 

@@ -26,22 +26,20 @@ layout: home
             <a href="/produk/simpanan" class="text-default">Simpanan</a>|
 			<a href="/produk/simpanan" class="text-default">Simulasi Kredit</a>|
             <a href="/about" class="text-default">Tentang</a>           
-	</div>
+	    </div>
 	</div>
 </div>
 <div class="landing-sections">
     <div class="section section1 section1__10off" data-index="1">
         <div class="vertical-block">
             <div class="text-center vertical-block--inner">
-                
-                <h1 class="text has_hide "> <br/>&laquo; 
-				&laquo;                                    </h1>
+                <h1 class="text has_hide"> <br/>&laquo; 
+				&laquo;</h1>
                 <div class="form-cont has_hide">                                         
                 </div>
             </div>
         </div>
     </div>
-    
     <div class="section section2" data-index="2">
         <div class="vertical-block">
             <div class="vertical-block--inner">
@@ -106,12 +104,12 @@ layout: home
                         <div class="img img__4"></div>
                         <div class="img img__5"></div>
                     </div>
-                    <div class="form-cont has_hide">
+                    <!-- <div class="form-cont has_hide">
                         <a href="/produk/kredit" class="buynow btn btn-inverse btn-inverse-primary">Layanan Kredit</a>
                         <div class="btn--wrapper">
                             <a href="/produk/simpanan" class="buynow btn btn-success" >Memulai Tabungan</a>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>

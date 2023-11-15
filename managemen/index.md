@@ -17,7 +17,7 @@ layout: staf
 			<a href="#skai">SKAI</a>
 			<a href="#skkmr">SKKMR</a>
 			<a href="#manajer">Manajer</a>
-			<a href="#pempimpincabang">Pemimpin Cabang</a>
+			<a href="#pemimpincabang">Pemimpin Cabang</a>
 		</nav>
 	</header>
 	<div class="dummy dummy-avatar" id="dewan-pengawas">
@@ -124,7 +124,7 @@ layout: staf
 			</div>
 		</div>
 	</div>
-	<div class="dummy dummy-avatar" id="pimpinancabang">
+	<div class="dummy dummy-avatar" id="pemimpincabang">
 	<h2>Pimpinan Cabang</h2>
 	<div class="tooltip tooltip-effect-2">
 		<a href="#"><img src="/images/managemen/" alt="Dwi Priharini, S.E."/><h4>Dwi Priharini, S.E</h4></a>

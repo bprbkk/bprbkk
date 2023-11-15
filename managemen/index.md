@@ -17,7 +17,7 @@ layout: staf
 			<a href="#skai">SKAI</a>
 			<a href="#skkmr">SKKMR</a>
 			<a href="#manajer">Manajer</a>
-			<a href="#pempimpincabang">Manajer</a>
+			<a href="#pempimpincabang">Pemimpin Cabang</a>
 		</nav>
 	</header>
 	<div class="dummy dummy-avatar" id="dewan-pengawas">

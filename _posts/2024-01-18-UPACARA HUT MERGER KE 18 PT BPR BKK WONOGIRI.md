@@ -15,8 +15,6 @@ Tepat 18 Januari 2023 PT BPR BKK WONOGIRI (Perseroda) melaksanakan upacara dihal
 
 <img src="/images/hutmerger18/9.JPG" class="img-responsive img-centered" alt="">
 
-<img src="/images/hutmerger18/9.JPG" class="img-responsive img-centered" alt="">
-
 
 
 

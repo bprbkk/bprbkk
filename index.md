@@ -57,7 +57,7 @@ layout: home
                     <!--  -->
                     <div class="form-cont has_hide" style="margin-bottom:5px;">
                         <a href="/produk/kredit" class="buynow btn btn-inverse btn-inverse-primary"  onMouseOver="this.style.color:'#B97B35'" onMouseOut="this.style.color:'#fff'">Layanan Kredit</a>
-                        <a href="/produk/simpanan" class="buynow btn btn-success" style="margin-left:350px;">Memulai Simpanan</a>
+                        <a href="/produk/simpanan" class="buynow btn btn-inverse btn-inverse-primary" style="margin-left:300px;">Memulai Simpanan</a>
                     </div>
                    <!--  -->
                 </div>

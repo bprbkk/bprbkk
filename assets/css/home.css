@@ -470,13 +470,13 @@ input.btn1.disabled {
 }
 
 .btn-inverse-primary {
-	color: #888 !important;
+	color: #B97B35 !important;
 	border-color: #888
 }
 
 .btn-inverse-primary:active,
 .btn-inverse-primary:hover {
-	background: #888;
+	background: #ff8800;
 	color: #fff !important
 }
 

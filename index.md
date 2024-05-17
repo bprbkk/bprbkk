@@ -47,9 +47,9 @@ layout: home
                     <h2>
                         Produk<br> <span class="text-success">Layanan</span> 
                     </h2>
-                    <p>
+                    <b>
                         PT BANK PERKREDITAN RAKYAT BADAN KREDIT KECAMATAN WONOGIRI PERSERODA
-                    <p>
+                    <b>
                         Produk layanan kami meliputi kredit, <br>Tamades, Sicipta, Simpel Ayah Sukses dan Deposito. <br>Menjangkau bagi semua kepentingan keuangan masyarakat.<br>Segera bergabung bersama kami, <br>miliki rekening di <b>PT BPR BKK WONOGIRI (Perseroda)</b> dan tingkatkan saldonya.
                     </p>
                     <div class="b-monitor js-monitor"></div>

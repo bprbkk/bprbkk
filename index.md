@@ -57,7 +57,7 @@ layout: home
                     <!--  -->
                     <div class="form-cont has_hide" style="margin-bottom:5px;">
                         <a href="/produk/kredit" class="buynow btn btn-inverse btn-inverse-primary" >Layanan Kredit</a>
-                        <a href="/produk/simpanan" class="buynow btn btn-success">Memulai Tabungan</a>
+                        <a href="/produk/simpanan" class="buynow btn btn-success" style="margin-left:350px;">Memulai Tabungan</a>
                     </div>
                    <!--  -->
                 </div>

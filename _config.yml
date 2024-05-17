@@ -6,7 +6,7 @@ description: >
   BPRBKK atau PT. BPR BKK Kab. Wonogiri merupakan Bank Perkreditan Rakyat
   milik Pemprov Jawa Tengah dan Pemda Kabupaten Wonogiri.
 baseurl: ""
-url: "http://www.bprbkk.co.id"
+url: "https://www.bprbkk.co.id"
 timezone: Asia/Jakarta
 
 # Build settings

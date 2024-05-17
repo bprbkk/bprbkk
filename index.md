@@ -56,7 +56,7 @@ layout: home
                     <div class="b-monitor js-monitor"></div>
                     <div class="form-cont has_hide" style="margin-bottom:5px;">
                         <a href="/produk/kredit" class="buynow btn btn-inverse btn-inverse-primary" >Layanan Kredit</a>
-                    </div>
+                    <div>
                     <div class="btn--wrapper" style="margin-top:0;">
                             <a href="/produk/simpanan" class="buynow btn btn-success" >Memulai Tabungan</a>
                     </div>

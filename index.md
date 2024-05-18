@@ -146,7 +146,7 @@ layout: home
             <br>
         </div>
     </div>
-</div>
+
 <style>
     footer{
         color:#000;
@@ -159,3 +159,4 @@ layout: home
 <footer>
 <a class="f_text">&copy; PT BANK PERKREDITAN RAKYAT BADAN KREDIT KECAMATAN WONOGIRI PERSERODA</a>
 </footer>
+</div>

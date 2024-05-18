@@ -142,18 +142,23 @@ layout: home
 		        <div>
                     <a href = "#" class="text-default">Bank Terdaftar dan Diawasi OJK</a>
                 </div>
-<!-- Footer -->
+                  <style>
+    .f_bg{
+        color:#000;
+    }
+    .f_text{
+        margin-top:30px;
+        text-align:center;
+        color:#fff;
+        text-decoration:none;
+        font-size:12px;
+    }
+    </style>
     <footer>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <ul class="list-inline text-center">
-               <p>
-                <p class="copyright text-muted">Copyright &copy; PT BANK PERKREDITAN RAKYAT BADAN KREDIT KECAMATAN WONOGIRI PERSERODA</a></p>
-            </div>
-        </div>
+    <div class="f_bg">
+    <a class="f_text">&copy; PT BANK PERKREDITAN RAKYAT BADAN KREDIT KECAMATAN WONOGIRI PERSERODA</a>
     </div>
-</footer>
+    </footer>
             </div>            	           
             <br>
         </div>

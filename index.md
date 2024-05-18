@@ -142,11 +142,7 @@ layout: home
 		        <div>
                     <a href = "#" class="text-default">Bank Terdaftar dan Diawasi OJK</a>
                 </div>
-            </div>            	           
-            <br>
-        </div>
-    </div>
-    <style>
+                  <style>
     .f_bg{
         color:#000;
     }
@@ -163,4 +159,8 @@ layout: home
     <a class="f_text">&copy; PT BANK PERKREDITAN RAKYAT BADAN KREDIT KECAMATAN WONOGIRI PERSERODA</a>
     </div>
     </footer>
+            </div>            	           
+            <br>
+        </div>
+    </div>
 </div>

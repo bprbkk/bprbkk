@@ -149,11 +149,12 @@ layout: home
                         text-align:center;
                         color:#fff;
                         text-decoration:none;
+                        font-size:12px;
                     }
                     </style>
                     <footer>
                     <div class="f_bg">
-                    <small><a class="f_text">&copy; PT BANK PERKREDITAN RAKYAT BADAN KREDIT KECAMATAN WONOGIRI PERSERODA</a></small>
+                    <a class="f_text">&copy; PT BANK PERKREDITAN RAKYAT BADAN KREDIT KECAMATAN WONOGIRI PERSERODA</a>
                     </div>
                     </footer>
                 </div>

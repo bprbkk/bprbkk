@@ -147,3 +147,15 @@ layout: home
         </div>
     </div>
 </div>
+<style>
+    footer{
+        color:#000;
+    }
+    .f_text{
+        text-align:center;
+        color:#fff;
+    }
+</style>
+<footer>
+<a class="f_text">&copy; PT BANK PERKREDITAN RAKYAT BADAN KREDIT KECAMATAN WONOGIRI PERSERODA</a>
+</footer>

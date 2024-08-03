@@ -3,7 +3,7 @@ layout: post
 title: REKRUTMEN KOMISARIS INDEPENDEN PT BPR BKK (Perseroda)
 subtitle:   ""
 description: ""
-author: "haryono"
+author: "Admin"
 date: 2024-08-03 08.53
 header-img: "images/rekrutmen/Rekrutmen Komisaris.jpg"
 ---

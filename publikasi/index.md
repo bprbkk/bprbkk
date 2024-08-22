@@ -5,7 +5,7 @@ description: "Transparansi Perbankan"
 header-img: "images/foto_tampak_depan.jpg"
 ---
 
-## Tahun 2023
+## Tahun 2024
 
 | Triwulan Ke:	| Tahun | File Download |
 --------------- | ------- | ------------- |

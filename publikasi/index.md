@@ -9,10 +9,18 @@ header-img: "images/foto_tampak_depan.jpg"
 
 | Triwulan Ke:	| Tahun | File Download |
 --------------- | ------- | ------------- |
+I				| 2024				| [Download](/publikasi/2024/LAPORAN PUBLIKASI TRIWULAN I.pdf)
+II				| 2024				| [Download](/publikasi/2024/LAPORAN PUBLIKASI TRIWULAN II.pdf)
+
+
+## Tahun 2023
+
+| Triwulan Ke:	| Tahun | File Download |
+--------------- | ------- | ------------- |
 I				| 2023				| [Download](/publikasi/2023/LAPORAN PUBLIKASI TRIWULAN I.pdf)
 II				| 2023				| [Download](/publikasi/2023/LAPORAN PUBLIKASI TRIWULAN II.pdf)
 III				| 2023				| [Download](/publikasi/2023/LAPORAN PUBLIKASI TRIWULAN III.pdf)
-IIII			| 2023				| [Download](/publikasi/2023/LAPORAN PUBLIKASI TRIWULAN IIII.pdf)
+IV			| 2023				| [Download](/publikasi/2023/LAPORAN PUBLIKASI TRIWULAN IV.pdf)
 
 ## Tahun 2022
 
@@ -21,7 +29,7 @@ IIII			| 2023				| [Download](/publikasi/2023/LAPORAN PUBLIKASI TRIWULAN IIII.pd
 I				| 2022				| [Download](/publikasi/2022/LAPORAN PUBLIKASI TRIWULAN I.pdf)
 II				| 2022				| [Download](/publikasi/2022/LAPORAN PUBLIKASI TRIWULAN II.pdf)
 III				| 2022				| [Download](/publikasi/2022/LAPORAN PUBLIKASI TRIWULAN III.pdf)
-IIII			| 2022				| [Download](/publikasi/2022/LAPORAN PUBLIKASI TRIWULAN IIII.pdf)
+IV			| 2022				| [Download](/publikasi/2022/LAPORAN PUBLIKASI TRIWULAN IIII.pdf)
 
 ## Tahun 2021
 

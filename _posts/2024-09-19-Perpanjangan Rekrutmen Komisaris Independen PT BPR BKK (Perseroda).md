@@ -25,4 +25,4 @@ Panitia  Seleksi Calon Direksi  dan Komisaris  Independen PT BPR BKK (Perseroda)
 
 
 [Info lengkap download disini](/publikasi/Pengumuman/PENG 07 Perpanjangan Rekruitment Komden 2024 III.pdf)
-<img src="/images/rekrutmen/Komdenrekrutmen.jpg" class="img-responsive img-centered" alt="">
+<img src="/images/Komdenrekrutmen.jpg" class="img-responsive img-centered" alt="">

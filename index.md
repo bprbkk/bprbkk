@@ -124,7 +124,7 @@ layout: home
         <div class="vertical-block">
             <div class="text-center">  
                  <h3 class="text has_hide" >
-                   DAFTAR PEMENANG<br><span class="text-thin">SPEKTAMADES TAHUN 2022</span>
+                   DAFTAR PEMENANG<br><span class="text-thin">SPEKTAMADES UNDIAN TABUNGAN</span>
                 </h3>
                 <div class="text-large text has_hide">DAFTAR PEMENANG</div>
                 <div class="form-cont has_hide">

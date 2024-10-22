@@ -11,6 +11,7 @@ header-img: "images/foto_tampak_depan.jpg"
 --------------- | ------- | ------------- |
 I				| 2024				| [Download](/publikasi/2024/LAPORAN PUBLIKASI TRIWULAN I.pdf)
 II				| 2024				| [Download](/publikasi/2024/LAPORAN PUBLIKASI TRIWULAN II.pdf)
+III				| 2024				| [Download](/publikasi/2024/LAPORAN PUBLIKASI TRIWULAN III.pdf)
 
 
 ## Tahun 2023

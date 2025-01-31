@@ -51,3 +51,10 @@ KERTAS KERJA LAPORAN TATA KELOLA 2022		| 2022  			| [Download](/laporan/2022/LAP
 | Jenis Laporan:                            | Tahun             | File Download |
 ------------------------------------------- | ----------------- | ------------- |
 KERTAS KERJA LAPORAN TATA KELOLA 2023		| 2023  			| [Download](/laporan/2023/Tata_Kelola_Tahun_2023.pdf)
+
+
+## Tahun 2024
+
+| Jenis Laporan:                            | Tahun             | File Download |
+------------------------------------------- | ----------------- | ------------- |
+KERTAS KERJA LAPORAN TATA KELOLA 2024		| 2024  			| [Download](/laporan/2024/LAPORAN TATA KELOLA 2024.pdf)

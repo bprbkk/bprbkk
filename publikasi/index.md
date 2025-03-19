@@ -2,7 +2,7 @@
 layout: page
 title: Publikasi PT BPR BKK WONOGIRI (Perseroda)
 description: "Transparansi Perbankan"
-header-img: "images/foto_tampak_depan.jpg"
+header-img: "images/BPRBKK.png"
 ---
 
 ## Tahun 2024

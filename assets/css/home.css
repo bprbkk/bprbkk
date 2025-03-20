@@ -1411,17 +1411,28 @@ a.text-default {
 	background: url(/images/landing/sprite_2.png) -508px -45px no-repeat
 }
 
-.section1 {
+/* .section1 {
 	padding-top: 0;
+	background: url(/images/landing/kantorpusat.png) center no-repeat #000;
+} */
+.section1 {
 	background-image: url(/images/landing/kantorpusat.png);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
+	background-color: #000;
+	width: 100%;
+	min-height: 100vh;
+
+	/* Fallback untuk browser lama */
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
 }
 
-.has_hell .section1 {
+/* .has_hell .section1 {
 	background-image: url(/images/landing/1_hell_ver15111326375.jpg)
-}
+} */
 
 .section1 .text {
 	-webkit-transition: opacity 1s, top 1s;

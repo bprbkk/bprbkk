@@ -1413,7 +1413,10 @@ a.text-default {
 
 .section1 {
 	padding-top: 0;
-	background: url(/images/landing/kantorpusat.png) center -2px no-repeat #000
+	background-image: url(/images/landing/kantorpusat.png);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
 }
 
 .has_hell .section1 {

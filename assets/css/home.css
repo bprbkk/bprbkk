@@ -1418,8 +1418,6 @@ a.text-default {
 .section1 {
 	background-image: url(/images/landing/kantorpusat.png);
 	background-size: cover;
-	background-position: center;
-	background-repeat: no-repeat;
 	background-color: #000;
 	width: 100%;
 	min-height: 100vh;

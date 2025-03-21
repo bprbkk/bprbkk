@@ -1416,10 +1416,11 @@ a.text-default {
 	background: url(/images/landing/kantorpusat.png) center no-repeat #000;
 } */
 .section1 {
-	background-image: url(/images/landing/kantorpusat.png);
+	background-image: url(/images/landing/pusat\ fix.png);
+	width: 100%;
 	background-size: cover;
 	background-color: #000;
-	width: 100%;
+	background-repeat: no-repeat;
 	min-height: 100vh;
 
 	/* Fallback untuk browser lama */
@@ -1773,7 +1774,7 @@ a.text-default {
 }
 
 .section4 {
-	background: url(/images/Undian2023/spektamadesundian2023.png);
+	background: url(/images/Undian2024/Konser188.png);
 	background-size: cover;
 	top: -30px
 }

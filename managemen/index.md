@@ -39,16 +39,6 @@ layout: staf
 				<use xlink:href="#managemen" class="bprbkk-1" />
 				</svg>
 			</div>
-		</div>
-		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/arisdekom.jpg" alt="Aristian Hari Marjoko, S.E.,M.M"/><h4>Aristian Hari Marjoko, S.E.,M.M</h4></a>
-		<span class="tooltip-content">Komisaris Independen PT BPR BKK WONOGIRI</span>
-			<div class="tooltip-shape">
-				<svg height="165px" width="220px">
-				<use xlink:href="#managemen-2" class="bprbkk-1" />
-				</svg>
-			</div>
-		</div>
 	</div>
 	<div class="dummy dummy-avatar" id="direksi">
 	<h2>Direksi</h2>
@@ -69,12 +59,21 @@ layout: staf
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
 				</svg>
 			</div>
+			</div>
+		<div class="tooltip tooltip-effect-2">
+		<a href="#"><img src="/images/managemen/jokosan.jpg" alt="Yani Harmini, SP"/><h4>Joko Santoso, S.E.</h4></a>
+		<span class="tooltip-content">Direktur Pemasaran PT BPR BKK WONOGIRI</span>
+			<div class="tooltip-shape">
+				<svg height="165px" width="220px">
+				<use xlink:href="#managemen-2" class="bprbkk-1" />
+				</svg>
+			</div>
 		</div>
 	</div>
 	<div class="dummy dummy-avatar" id="skai">
 	<h2>SKAI</h2>
 		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/yopi.jpg" alt="Yopi Taufan Lakstiyawan,S.Sos, M.M"/><h4>Yopi Taufan Lakstiyawan,S.Sos., M.M</h4></a>
+		<a href="#"><img src="/images/managemen/bowo.jpg" alt="AMS Adi Prabowo, S.E."/><h4>AMS Adi Prabowo, S.E.</h4></a>
 		<span class="tooltip-content">Ketua SKAI PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -115,7 +114,7 @@ layout: staf
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/jokosan.jpg" alt="Joko Santoso, S.E."/><h4>Joko Santoso, S.E.</h4></a>
+			<a href="#"><img src="/images/managemen/darsanto.jpg" alt="Darsanto, S.E."/><h4>Darsanto, S.E.</h4></a>
 			<span class="tooltip-content">Manajer Literasi Keuangan dan Inklusi Keuangan PT BPR BKK WONOGIRI</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -136,7 +135,7 @@ layout: staf
 			</div>
 			</div>
 			<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/AGUS HARYANTO.jpg" alt="Agus Haryanto, S.E."/><h4>Agus Haryanto, S.E.</h4></a>
+		<a href="#"><img src="/images/managemen/AGUS HARYANTO.jpg" alt="Umaya, S.E."/><h4>Agus Haryanto, S.E.</h4></a>
 		<span class="tooltip-content">Pemimpin Kantor Cabang Ngadirojo</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">

@@ -5,7 +5,7 @@ subtitle:   ""
 description: ""
 author: "Admin"
 date: 2025-04-28 15.50
-header-img: "images/topbumdawards2025/IMG_5378.JPEG"
+header-img: "images/topbumdawards2025/IMG_5378 - 1.JPEG"
 ---
 
 

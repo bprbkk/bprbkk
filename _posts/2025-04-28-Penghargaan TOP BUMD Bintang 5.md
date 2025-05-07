@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: ""
 subtitle:   ""
 description: ""
 author: "Admin"

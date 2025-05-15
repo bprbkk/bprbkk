@@ -143,11 +143,13 @@ layout: home
 		        <div>
                     <a href = "#" class="text-default">Bank Terdaftar dan Diawasi OJK</a>
                 </div>
-		<div class="f_text" style="background-color: rgb(251 251 251 / 5%)">
+                <div style="background-color: rgb(251 251 251 / 20%)">
+		<div class="f_text">
 			Bank merupakan peserta penjaminan LPS <br>
 			Maksimum nilai simpanan yang dijamin LPS per nasabah per bank adalah Rp 2 miliar <br>
 			Untuk mengetahui Tingkat Bunga Penjaminan LPS silahkan akses <a href="https://apps.lps.go.id/BankPesertaLPSRate" target="_blank"><u> disini </u></a> 
 		</div>
+	</div>
     <style>
     .f_bg{
         color:#000;

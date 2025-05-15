@@ -144,7 +144,7 @@ layout: home
                     <a href = "#" class="text-default">Bank Terdaftar dan Diawasi OJK</a>
                 </div>
                 <div style="background-color: rgb(213 219 219 / 75%)">
-		<div style="text-align:center;color:#fff;text-decoration:none;font-size:12px;">
+		<div style="text-align:center;color:#000;text-decoration:none;font-size:12px;">
 			Bank merupakan peserta penjaminan LPS <br>
 			Maksimum nilai simpanan yang dijamin LPS per nasabah per bank adalah Rp 2 miliar <br>
 			Untuk mengetahui Tingkat Bunga Penjaminan LPS silahkan akses <a href="https://apps.lps.go.id/BankPesertaLPSRate" target="_blank"><u> disini </u></a> 
@@ -164,7 +164,7 @@ layout: home
     </style>
     <footer>
     <div class="f_bg">
-    <a class="f_text">&copy; PT. Bank Perekonomian Rakyat BKK WONOGIRI (Perseroda)</a>
+    <a class="f_text">&copy; PT. Bank Perekonomian Rakyat BKK WONOGIRI (Perseroda)</a><br>
     </div>
     </footer>
         </div>            	           

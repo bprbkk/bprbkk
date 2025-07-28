@@ -15,8 +15,8 @@ header-img: "images/BPRBKK.png"
 
 .column {
   float: left;
-  width: 33.33%;
-  padding: 5px;
+  width: 45.33%;
+  padding: 4px;
 }
 
 /* Clearfix (clear floats) */
@@ -63,7 +63,7 @@ p{
 
 <div class="row">
   <div class="column">
-    <img src="/images/goestoschool/SMP Pangudi Luhur_1.jpg" style="width:100%">
+    <img src="/images/goestoschool/SMP Pangudi Luhur_1.png" style="width:100%">
   </div>
 
   <div class="column">

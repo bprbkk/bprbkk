@@ -32,7 +32,7 @@ p{
 </style>
 ## PT BPR BKK WONOGIRI (Perseroda) Goes to School
 
-<p>PT BPR BKK Wonogiri (Perseroda) ikut ambil bagian dalam peningkatan pemahaman dan kesadaran siswa tentang literasi, edukasi dan inklusi keuangan melalui program Goes To School. Program bekerjasama dengan sekolah untuk memberikan edukasi tentang pengelolaan keuangan yang baik sejak dini. Pada bulan Juli ini PT BPR BKK Wonogiri (Perseroda) telah melakukan kegiatan Goes To School sebanyak 3 kali di 3 tempat yang berbeda, yaitu di SMP Satu Atap Jatipurno Kecamatan Jatipurno pada hari Jumat tanggal 11 Juli 2025, yang diikuti oleh 150 siswa, di SMPN 1 Jatiroto Kecamatan Jatiroto pada hari Jumat tanggal 18 Juli 2025 yang diikuti oleh 150 siswa dan di SMP Pangudi Luhur Kecamatan Giriwoyo yang diikuti 200 siswa.</p>
+<p>PT BPR BKK Wonogiri (Perseroda) ikut ambil bagian dalam peningkatan pemahaman dan kesadaran siswa tentang literasi, edukasi dan inklusi keuangan melalui program Goes To School. Program bekerjasama dengan sekolah untuk memberikan edukasi tentang pengelolaan keuangan yang baik sejak dini. Pada bulan Juli ini PT BPR BKK Wonogiri (Perseroda) telah melakukan kegiatan Goes To School bekerjasama dengan sekolah untuk mengisi kegiatan MPLS (Masa Pengenalan Lingkungan Sekolah) di beberapa tempat  yang berbeda, yaitu di SMP Satu Atap Jatipurno Kecamatan Jatipurno pada hari Jumat tanggal 11 Juli 2025, yang diikuti oleh 150 siswa, di SMPN 1 Jatiroto Kecamatan Jatiroto pada hari Jumat tanggal 18 Juli 2025 yang diikuti oleh 150 siswa, di SMP Pangudi Luhur Kecamatan Giriwoyo pada hari Jumat tanggal 25 Juli 2025 yang diikuti 200 siswa dan di SMPN 1 Tirtomoyo pada hari Senin tanggal 28 Juli 2025 yang diikuti oleh 271 siswa.</p>
 
 <div class="row">
   <div class="column">

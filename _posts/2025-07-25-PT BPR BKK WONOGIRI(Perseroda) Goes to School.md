@@ -72,3 +72,15 @@ p{
 </div>
 
 <small>Goes To school SMP Pangudi Luhur</small>
+
+<div class="row">
+  <div class="column">
+    <img src="/images/goestoschool/SMPN 1 Tirtomoyo_1.png" style="width:100%">
+  </div>
+
+  <div class="column">
+    <img src="/images/goestoschool/SMPN 1 Tirtomoyo_2.jpg" style="width:100%">
+  </div>
+</div>
+
+<small>Goes To school SMPN 1 Tirtomoyo</small>

@@ -4,7 +4,7 @@ title: "Bantuan Pembuatan Jamban Sehat oleh PT BPR BKK WONOGIRI (Perseroda)"
 subtitle:   ""
 description: ""
 author: "Admin"
-date: 2025-07-29 09.45
+date: 2025-07-29 10.03
 header-img: "images/BPRBKK.png"
 ---
 
@@ -45,7 +45,7 @@ p{
     <img src="/images/jambansehat/PakJack2.jpg" style="width:100%">
   </div>
 </div>
-
+<small>Penyerahan CSR oleh Bp. Joko Santoso, SE (Direktur Pemasaran).</small>
 
 <div class="row">
   <div class="column">
@@ -53,7 +53,7 @@ p{
   </div>
 
   <div class="column">
-    <img src="/images/jambansehat/Jamban2.png" style="width:100%">
+    <img src="/images/jambansehat/Jambans2.png" style="width:100%">
   </div>
 </div>
 

@@ -4,7 +4,7 @@ title: "PT BPR BKK WONOGIRI (Perseroda) Goes to School"
 subtitle:   ""
 description: ""
 author: "Admin"
-date: 2025-07-25 11.06
+date: 2025-07-28 15.02
 header-img: "images/BPRBKK.png"
 ---
 

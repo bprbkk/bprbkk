@@ -36,23 +36,18 @@ p{
 Selain festival band di halaman pemprov jateng juga dipenuhi dengan lapak-lapak umkm yang merupakan bentuk apresiasi dan support Pemprov Jawa Tengah terhadap pendagang UMKM di Jawa Tengah.</p>
 
 
-  <div class="column">
+<div class="row">
     <img src="/images/godigital/1.JPG" style="width:100%">
   </div>
 </div>
 <small>Collector Band.</small>
 
 <div class="row">
-  <div class="column">
     <img src="/images/godigital/3.JPG" style="width:100%">
   </div>
-
 <small>Penampilan Collector Band</small>
 
 <div class="row">
-  <div class="column">
     <img src="/images/godigital/2.JPG" style="width:100%">
   </div>
-
-
 <small>Collector Band dan Supporter dari PT BPR BKK WONOGIRI (Perseroda)</small>

@@ -45,7 +45,7 @@ Selain festival band di halaman pemprov jateng juga dipenuhi dengan lapak-lapak 
 <div class="row">
     <img src="/images/godigital/3.JPG" style="width:100%">
   </div>
-</div)>
+</div>
 <small>Penampilan Collector Band</small>
 
 <div class="row">

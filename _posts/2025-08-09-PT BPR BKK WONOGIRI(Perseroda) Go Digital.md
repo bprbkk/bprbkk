@@ -47,11 +47,6 @@ Selain festival band di halaman pemprov jateng juga dipenuhi dengan lapak-lapak 
     <img src="/images/godigital/3.JPG" style="width:100%">
   </div>
 
-  <div class="column">
-    <img src="/images/jambansehat/Jambans2.png" style="width:100%">
-  </div>
-</div>
-
 <small>Penampilan Collector Band</small>
 
 <div class="row">
@@ -59,9 +54,5 @@ Selain festival band di halaman pemprov jateng juga dipenuhi dengan lapak-lapak 
     <img src="/images/godigital/2.JPG" style="width:100%">
   </div>
 
-  <div class="column">
-    <img src="/images/jambansehat/Jamban4.png" style="width:100%">
-  </div>
-</div>
 
 <small>Collector Band dan Supporter dari PT BPR BKK WONOGIRI (Perseroda)</small>

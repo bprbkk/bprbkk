@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Festival Band BUMD di Jateng Go Digital PT BPR BKK Se Jawa Tengah"
+title: "PT BPR BKK WONOGIRI (Perseroda) dalam JATENG GO DIGITAL"
 subtitle:   ""
 description: ""
 author: "Admin"
@@ -30,10 +30,11 @@ p{
     text-align:justify;
 }
 </style>
-## Festival Band BUMD di Jateng Go Digital PT BPR BKK Se Jawa Tengah
+## PT BPR BKK WONOGIRI (Perseroda) dalam JATENG GO DIGITAL
 
-<p>Salah satu rangkaian Hari Jadi HUT Jateng Tahun 2025 Pemerintah provinsi Jawa Tengah menyelenggarakan kegiatan  Jateng Go Digital yang salah satu agendanya adalah Festival Band yang diikuti oleh Perwakilan BUMD Se Jawa Tengah di Semarang pada Hari Jumat-Sabtu Tanggal 8-9 Agustus 2025 di halaman Pemprov Jateng. Dalam hal ini, PT BPR BKK Wonogiri (Perseroda) turut memeriahkan acara dengan mengikuti festival band tersebut. DC Band atau De Colector Band adalah nama Band yang diusung dalam ajang festival band Jateng Go Digital. Band ini terdiri dari direktur maupun karyawan dari PT BPR BKK Wonogiri (Perseroda).
-Selain festival band di halaman pemprov jateng juga dipenuhi dengan lapak-lapak umkm yang merupakan bentuk apresiasi dan support Pemprov Jawa Tengah terhadap pendagang UMKM di Jawa Tengah.</p>
+<p>Di era digitalisasi yang semakin masif berkembang di seluruh dunia, peran perbankan sangat penting dalam mengakomodir setiap kebutuhan masyarakat terutama sistem pembayaran elektronik. Menangkap peluang ini, Pemerintah Provinsi Jawa Tengah mengkoordinir seluruh BUMD Keuangan yaitu PT BPR BKK (Perseroda) se Jawa Tengah untuk membuka layanan pembayaran elektronik QRIS bekerjasama dengan PT BIMASAKTI Multisinergi yang serentak dilaunching pada hari Jumat tanggal 8 Agustus 2025 oleh Wakil Gubernur Jawa Tengah Bapak Taj Yasin yang diberi Tajuk Jateng Go Digital. Kegiatan yang digelar di halaman Kantor Gubarnur Jawa Tengah tersebut diselenggarakan sebagai bagian dari rangkaian kegiatan HUT Jateng ke 80 tahun 2025 yang dilanjutkan dengan Festival Band BUMD Provinsi Jawa Tengah yang diikuti 35 grup Band perwakilan dari masing-masing BUMD. 
+PT BPR BKK WONOGIRI (Perseroda) sebagai bagian dari BUMD milik Pemerintah Provinsi Jawa Tengah ikut andil bagian memeriahkan kegiatan tersebut dengan aplikasi pembayaran elektronik WARIS serta mengirimkan perwakilan group band yaitu De Collector Band yang terdiri dari Direksi dan Pegawai PT BPR BKK WONOGIRI (Perseroda).Rangkaian kegiatan ini juga menggandeng UMKM yang diberikan booth untuk menggelar dagangan atau produksi mereka untuk dipasarkan kepada pengunjung yang transaksi pembayarannya menggunakan aplikasi QRIS. 
+</p>
 
 
 <div class="row">

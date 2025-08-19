@@ -49,3 +49,15 @@ p{
 </div>
 
 <small>Sumber Instagram @prokopim_wonogiri</small>
+
+<p>Sebagai bentuk kepedulian sosial kepada lingkungan sekitar, PT BPR BKK WONOGIRI (Perseroda) menyerahkan bantuan berupa Paket Sembako sebanyak 200 paket yang berasal dari dana Corporate Social Responsibility (CSR) kepada masyarakat sekitar yang membutuhkan. Bantuan ini diserahkan secara simbolis pada rangkaian kegiatan tersebut yang selanjutnya bantuan paket sembako yang lain akan diserahkan kepada Masyarakat melalui seluruh jaringan kantor PT BPR BKK WONOGIRI (Perseroda).</p>
+
+<div class="row">
+  <div class="column">
+    <img src="/images/sembako gor/4.jpg" style="width:100%">
+  </div>
+
+  <div class="column">
+    <img src="/images/sembako gor/5.jpg" style="width:100%">
+  </div>
+</div>

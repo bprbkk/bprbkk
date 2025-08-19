@@ -15,7 +15,7 @@ header-img: "images/BPRBKK.png"
 
 .column {
   float: left;
-  width: 45.33%;
+  width: 50%;
   padding: 4px;
 }
 
@@ -34,18 +34,13 @@ p{
 
 <p>Dalam rangka memperingati Hari Jadi Republik Indonesia ke 80 Tahun, Pemerintah Kabupaten Wonogiri menggelar berbagai kegiatan yang melibatkan seluruh OPD dan BUMD di lingkungan Pemerintah Kabupaten Wonogiri. Salah satu agenda kegiatan tersebut adalah Test Kebugaran (Rockport) Bagi ASN yang diprakarsai oleh PMI Kab. Wonogiri dan Penyerahan Bantuan Sosial bagi masyarakat yang membutuhkan.</p>
 
-
-<div class="row">
-  <div class="column">
-    <img src="/images/sembako gor/1.jpg" style="width:100%">
-  </div>
-</div>
+<img src="/images/sembako gor/1.jpg" style="width:100%">
 
 <p>Kegiatan ini dilaksanakan di GOR Giri Mandala Kab. Wonogiri pada tanggal 08 Agustus 2025 yang dipimpin langsung oleh Bupati Wonogiri Bapak Setyo Sukarno dan dihadiri oleh Sekretaris Daerah Kabupaten Wonogiri beserta jajarannya.</p>
 
 <div class="row">
   <div class="column">
-    <img src="/images/sembako gor/2.jpg" style="width:100%">
+    <img src="/images/sembako gor/PAK SETYO.png.jpg" style="width:100%">
   </div>
 
   <div class="column">

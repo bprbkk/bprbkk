@@ -660,7 +660,7 @@ q:before {
 	position: fixed;
 	bottom: 0;
 	width: 100%;
-	height: 60px
+	height: 55px
 }
 
 .b-header {
@@ -1892,7 +1892,7 @@ a.text-default {
 }
 
 .b-banner__top {
-	top: 60px
+	top: 120px
 }
 
 .b-banner__danger {

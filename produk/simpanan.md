@@ -58,6 +58,23 @@ layout: simpanan
 <img src="/images/simpanan/3.png" alt="Deposito BPRBKK">
 	</figure>
 </section>
+
+<!-- tamades mapan -->
+<section class="cbp-so-section">
+	<figure class="cbp-so-side cbp-so-side-left">
+<img src="/images/simpanan/SICIPTA_1.png" alt="Sicipta BPRBKK">
+	</figure>
+	<article class="cbp-so-side cbp-so-side-right">
+<h2>Sicipta</h2>
+<p>Sicipta adalah produk yang terinspirasi dan didedikasikan bagi pelajar dan wiraswasta </p>
+<p>Sicipta adalah simpanan yang diperuntukan bagi Penabung pelajar dan wiraswasta dengan persyaratan sangat mudah.</p>
+<p>Sicipta mempunyai keunggulan :</p>
+<p>a. Perhitungan bunga secara harian yang dicatat setiap pertengahan bulan</p>
+<p>b. Bunga yang kompetitif</p>
+<p>c. Berhadiah</p>
+<p>d. Dapat diambil sewaktu-waktu</p>
+	</article>
+</section>
 	</div>
 </div>
 

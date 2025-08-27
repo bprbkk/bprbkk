@@ -658,7 +658,7 @@ q:before {
 
 .b-banner,
 .b-header {
-	position: fixed;
+	/* position: fixed; */
 	width: 100%;
 	height: 60px
 }

@@ -1824,14 +1824,14 @@ a.text-default {
 	top: 0;
 	background: #000;
 	background: rgba(0, 0, 0, .8);
-	line-height: 58px;
+	line-height: 5px;
 	z-index: 7
 }
 
 .b-header .container {
 	max-width: 100%;
 	width: 100% !important;
-	padding: 0 72px
+	padding: 0 7px
 }
 
 .b-header .b-logo {
@@ -1892,7 +1892,7 @@ a.text-default {
 }
 
 .b-banner__top {
-	top: 120px
+	top: 60px
 }
 
 .b-banner__danger {

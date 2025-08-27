@@ -1824,7 +1824,7 @@ a.text-default {
 	top: 0;
 	background: #000;
 	background: rgba(0, 0, 0, .8);
-	line-height: 5px;
+	line-height: 18px;
 	z-index: 7
 }
 
@@ -1880,7 +1880,7 @@ a.text-default {
 }
 
 .b-header--user a {
-	margin-left: 40px
+	margin-left: 30px
 }
 
 .b-banner {

@@ -66,19 +66,6 @@ Fasilitas kredit yang diberikan untuk usaha produktif dalam bentuk kredit modal 
 - Plafond hingga maksimal Rp.750 juta;
 - Dapat take over dari bank lain.
 
-## Kredit Pundi
-
-Fasilitas kredit yang diberikan untuk usaha produktif dalam bentuk kredit modal kerja dan kredit investasi dengan jangka waktu kredit maksimal s/d 5 tahun.
-
-#### PERSYARATAN:
-
-- Warga Negara Indonesia (WNI);
-- Usaha telah berjalan minimal 1 tahun;
-- Mengisi formulir aplikasi;
-- Kartu keluarga (KK) dan KTP suami isteri;
-- Surat Nikah (bagi yang telah menikah);
-- Surat ijin usaha (SIUP, TDP, HO dan SITU);
-- NPWP untuk kredit di atas Rp.50 Juta;
 
 #### KEUNGGULAN:
 
@@ -153,9 +140,10 @@ Fasilitas kredit yang diberikan untuk Perangkat Desa dalam bentuk kredit modal k
 - Plafond hingga maksimal Rp.50 juta;
 - Dapat take over dari bank lain;
 
-## Kredit Kepemilikan Barang
+## Kredit Air Bersih dan Sanitasi
 
-Fasilitas kredit yang diberikan untuk masyarakat dalam bentuk kredit kepemilikan barang dengan jangka waktu kredit maksimal s/d 5 tahun.
+Kredit Air Bersih dan Sanitasi (KrAnS) adalah kredit yang diberikan kepada masyarakat perorangan maupun kelompok untuk pengelolaan pengadaan air bersih (pemasangan sambungan PDAM, pemasangan sambungan PAMSIMAS/PAM BUMDES, pembuatan sumur gali/bor) dan pembuatan jamban sehat.
+
 
 #### PERSYARATAN:
 
@@ -170,7 +158,6 @@ Fasilitas kredit yang diberikan untuk masyarakat dalam bentuk kredit kepemilikan
 #### KEUNGGULAN:
 
 - Proses lebih cepat dengan persyaratan mudah;
-- Suku bunga bersaing dengan jangka waktu hingga 5 tahun;
 - Plafond hingga maksimal Rp.50 juta;
 - Dapat take over dari bank lain;
 

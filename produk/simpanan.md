@@ -4,6 +4,11 @@ layout: simpanan
 
 <div class="container">
 	<header class="clearfix">
+<style>
+	p{
+		text-align:justify;
+	}
+</style>
 <span>Ayo KE BPR</span>
 <h1>Ayo Menabung di PT BPR BKK WONOGIRI (Perseroda)!</h1>
 <nav>
@@ -30,12 +35,12 @@ layout: simpanan
 
 	</article>
 	<figure class="cbp-so-side cbp-so-side-right">
-<img src="/images/simpanan/TAMADES.png" alt="Tamades BPRBKK">
+<img src="/images/simpanan/TAMADES_BARU.png" alt="Tamades BPRBKK">
 	</figure>
 </section>
 <section class="cbp-so-section">
 	<figure class="cbp-so-side cbp-so-side-left">
-<img src="/images/simpanan/SICIPTA_1.png" alt="Sicipta BPRBKK">
+<img src="/images/simpanan/SICIPTA.png" alt="Sicipta BPRBKK">
 	</figure>
 	<article class="cbp-so-side cbp-so-side-right">
 <h2>Sicipta</h2>
@@ -46,7 +51,6 @@ layout: simpanan
 <p>b. Bunga yang kompetitif</p>
 <p>c. Berhadiah</p>
 <p>d. Dapat diambil sewaktu-waktu</p>
-	
 	</article>
 </section>
 <section class="cbp-so-section">
@@ -55,29 +59,53 @@ layout: simpanan
 <p>Menyimpan di tempat yang tepat!. Deposito PT BPR BKK WONOGIRI (Perseroda) simpanan berjangka yang aman dan berkembang dengan suku bunga kompetitif.</p>
 	</article>
 	<figure class="cbp-so-side cbp-so-side-right">
-<img src="/images/simpanan/3.png" alt="Deposito BPRBKK">
+<img src="/images/simpanan/depo.png" alt="Deposito BPRBKK">
 	</figure>
 </section>
 
 <!-- tamades mapan -->
 <section class="cbp-so-section">
 	<figure class="cbp-so-side cbp-so-side-left">
-<img src="/images/simpanan/SICIPTA_1.png" alt="Sicipta BPRBKK">
+<img src="/images/simpanan/tamades mapan.jpg" alt="Sicipta BPRBKK">
 	</figure>
 	<article class="cbp-so-side cbp-so-side-right">
-<h2>Sicipta</h2>
-<p>Sicipta adalah produk yang terinspirasi dan didedikasikan bagi pelajar dan wiraswasta </p>
-<p>Sicipta adalah simpanan yang diperuntukan bagi Penabung pelajar dan wiraswasta dengan persyaratan sangat mudah.</p>
-<p>Sicipta mempunyai keunggulan :</p>
-<p>a. Perhitungan bunga secara harian yang dicatat setiap pertengahan bulan</p>
-<p>b. Bunga yang kompetitif</p>
-<p>c. Berhadiah</p>
-<p>d. Dapat diambil sewaktu-waktu</p>
+<h2>Tamades Mapan</h2>
+<p>a. Produk tabungan dimana nasabah menabung sejumlah dana tertentu dengan jangka waktu yang telah ditentukan dan uang yang dikumpulkan dapat ditarik pada akhir periode/saat tanggal jatuh tempo</p>
+<p>b. Diperuntukkan bagi penabung perorangan, Badan Usaha, Yayasan, Lembaga Pemerintah dan BPR atau Bank Lain
+</p>
+<p>c. Diberikan bunga sebesar persentase tertentu sesuai   ketentuan suku bunga yang berlaku</p>
+<p>d. Dapat digunakan sebagai agunan kredit dengan syarat dan ketentuan yang berlaku</p>
+	</article>
+</section>
+<!-- /tawa -->
+<section class="cbp-so-section">
+	<article class="cbp-so-side cbp-so-side-left">
+<h2>Tawa (Tabungan Wajib)</h2>
+<p>a. Tabungan bersifat wajib bagi nasabah peminjam (debitur)</p>
+<p>b. Membantu Debitur dalam proses angsuran pinjaman</p>
+<p>c. Suku Bunga Kompetitif </p>
+<p>d. Diundi setiap satu tahun sekali</p>
+	</article>
+	<figure class="cbp-so-side cbp-so-side-right">
+<img src="/images/simpanan/TAWA 2.png" alt="Tawa BPRBKK">
+	</figure>
+</section>
+<!-- simpel ayah -->
+<section class="cbp-so-section">
+	<figure class="cbp-so-side cbp-so-side-left">
+<img src="/images/simpanan/simpel ayah sukses.jpg" alt="simpel ayah BPRBKK">
+	</figure>
+	<article class="cbp-so-side cbp-so-side-right">
+<h2>Simpel Ayah Sukses (Simpanan Pelajar Anak Yatim Mberkahi SUKSES)</h2>
+<p>a. Produk Tabungan yang diperuntukkan bagi yatim/piatu/yatim piatu dengan batas usia sampai dengan 18 tahun.</p>
+<p>b. Mendapat reward 1 tahun sekali pada bulan Januari.</p>
+<p>c. Tanpa dikenakan biaya administrasi setiap bulan.</p>
+<p>d. Diundi setiap satu tahun sekali.</p>
 	</article>
 </section>
 	</div>
 </div>
-
+<!--  -->
 
 <script src="{{ site.url }}/assets/js/classie.js"></script>
 <script src="{{ site.url }}/assets/js/cbpScroller.js"></script>

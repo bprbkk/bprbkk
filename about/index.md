@@ -10,7 +10,7 @@ Selamat berkunjung di situs [BPR BKK](http://www.bprbkk.co.id/), atau PT BPR BKK
 
 PT BPR BKK WONOGIRI (Perseroda) adalah hasil merger 12 PT. BPR BKK yang berada di Kabupaten Wonogiri berdasarkan Keputusan Deputi Gubernur Bank Indonesia No. 7/17/KEP.DpG/2005 tanggal 8 Desember 2005, tentang pemberian izin penggabungan Usaha (merger) dan Keputusan Gubernur Jawa Tengah Nomor 503/78/2005 tanggal 30 Desember 2005, tentang persetujuan izin Penggabungan Usaha (merger) PT BPR BKK WONOGIRI hasil merger mulai beroperasi pada tanggal 2 Januari 2006 dan diresmikan oleh Gubernur Jawa Tengah pada tanggal 18 Januari 2006.
 
-Upaya untuk mewujudkan kinerja sesuai dengan nama yang disandangnya, PT BPR BKK WONOGIRI selalu berpegang pada azas keterbukaan dan kehati-hatian. Didukung oleh beragam produk dan fasilitas perbankan terkini, PT BPR BKK WONOGIRI Kota terus tumbuh dan berkembang hingga saat ini memiliki 16 jaringan kerja dengan komposisi: 12 kantor cabang, 4 kantor kas yang tersebar di Kabupaten Wonogiri.
+Upaya untuk mewujudkan kinerja sesuai dengan nama yang disandangnya, PT BPR BKK WONOGIRI selalu berpegang pada azas keterbukaan dan kehati-hatian. Didukung oleh beragam produk dan fasilitas perbankan terkini, PT BPR BKK WONOGIRI Kota terus tumbuh dan berkembang hingga saat ini memiliki 16 jaringan kerja dengan komposisi: 12 kantor cabang, 5 kantor kas yang tersebar di Kabupaten Wonogiri.
 
 ## Visi Misi
 
@@ -23,7 +23,7 @@ Menjadi bank yang sehat, besar, mandiri dan mampu bersaing.
 
 ### Misi:
 
-- Menjalankan Usaha sebagai Bank Perkreditan Rakyat, sesuai dengan ketentuan perundang – undangan yang berlaku;
+- Menjalankan Usaha sebagai Bank Perekonomian Rakyat, sesuai dengan ketentuan perundang – undangan yang berlaku;
 - Membantu dan mendorong pertumbuhan perekonomian dan Pembangunan Daerah disegala bidang;
 - Sebagai Mitra Usaha Masyarakat dalam meningkatkan taraf hidup melalui layanan jasa BPR yang profesional;
 - Mengupayakan Sumber Pendapatan Asli Daerah

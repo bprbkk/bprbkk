@@ -2,19 +2,42 @@
 layout: about
 ---
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 4px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+p{
+    text-align:justify;
+}
+</style>
+
 ## BPR BKK
 
-Selamat berkunjung di situs [BPR BKK](http://www.bprbkk.co.id/), atau PT BPR BKK WONOGIRI merupakan suatu lembaga keuangan di kabupaten Wonogiri yang bergerak dalam bidang Perbankan dengan kegiatan usaha sebagai BPR, menghimpun dan menyalurkan dana dari dan untuk masyarakat sesuai dengan undang-undang No.10 tahun 1998 tentang Perbankan.
+<p>Selamat berkunjung di situs [BPR BKK](http://www.bprbkk.co.id/), atau PT BPR BKK WONOGIRI merupakan suatu lembaga keuangan di kabupaten Wonogiri yang bergerak dalam bidang Perbankan dengan kegiatan usaha sebagai BPR, menghimpun dan menyalurkan dana dari dan untuk masyarakat sesuai dengan undang-undang No.10 tahun 1998 tentang Perbankan.</p>
 
 ## PT BPR BKK WONOGIRI (Perseroda)
 
-PT BPR BKK WONOGIRI (Perseroda) adalah hasil merger 12 PT. BPR BKK yang berada di Kabupaten Wonogiri berdasarkan Keputusan Deputi Gubernur Bank Indonesia No. 7/17/KEP.DpG/2005 tanggal 8 Desember 2005, tentang pemberian izin penggabungan Usaha (merger) dan Keputusan Gubernur Jawa Tengah Nomor 503/78/2005 tanggal 30 Desember 2005, tentang persetujuan izin Penggabungan Usaha (merger) PT BPR BKK WONOGIRI hasil merger mulai beroperasi pada tanggal 2 Januari 2006 dan diresmikan oleh Gubernur Jawa Tengah pada tanggal 18 Januari 2006.
+<p>PT BPR BKK WONOGIRI (Perseroda) adalah hasil merger 12 PT. BPR BKK yang berada di Kabupaten Wonogiri berdasarkan Keputusan Deputi Gubernur Bank Indonesia No. 7/17/KEP.DpG/2005 tanggal 8 Desember 2005, tentang pemberian izin penggabungan Usaha (merger) dan Keputusan Gubernur Jawa Tengah Nomor 503/78/2005 tanggal 30 Desember 2005, tentang persetujuan izin Penggabungan Usaha (merger) PT BPR BKK WONOGIRI hasil merger mulai beroperasi pada tanggal 2 Januari 2006 dan diresmikan oleh Gubernur Jawa Tengah pada tanggal 18 Januari 2006.</p>
 
-Upaya untuk mewujudkan kinerja sesuai dengan nama yang disandangnya, PT BPR BKK WONOGIRI selalu berpegang pada azas keterbukaan dan kehati-hatian. Didukung oleh beragam produk dan fasilitas perbankan terkini, PT BPR BKK WONOGIRI Kota terus tumbuh dan berkembang hingga saat ini memiliki 16 jaringan kerja dengan komposisi: 12 kantor cabang, 5 kantor kas yang tersebar di Kabupaten Wonogiri.
+<p>Upaya untuk mewujudkan kinerja sesuai dengan nama yang disandangnya, PT BPR BKK WONOGIRI selalu berpegang pada azas keterbukaan dan kehati-hatian. Didukung oleh beragam produk dan fasilitas perbankan terkini, PT BPR BKK WONOGIRI Kota terus tumbuh dan berkembang hingga saat ini memiliki 16 jaringan kerja dengan komposisi: 12 kantor cabang, 5 kantor kas yang tersebar di Kabupaten Wonogiri.</p>
 
 ## Visi Misi
 
-Dengan sikap profesionalisme yang melandasi kegiatan operasionalnya, PT BPR BKK WONOGIRI (Perseroda) hadir untuk mencapai visi menjadi “MENJADI BANK YANG SEHAT, BESAR, MANDIRI DAN MAMPU BERSAING”
+<p>Dengan sikap profesionalisme yang melandasi kegiatan operasionalnya, PT BPR BKK WONOGIRI (Perseroda) hadir untuk mencapai visi menjadi “MENJADI BANK YANG SEHAT, BESAR, MANDIRI DAN MAMPU BERSAING”</p>
 
 
 ### Visi:
@@ -30,22 +53,22 @@ Menjadi bank yang sehat, besar, mandiri dan mampu bersaing.
 
 ## Legalitas:
 
-PT BPR BKK WONOGIRI (Perseroda), saat ini adalah hasil penggabungan usaha (MERGER) dari 12 ( dua belas) PT.BPR BKK di Kabupaten Wonogiri berdasarkan legalitas sebagai berikut :
+<p>PT BPR BKK WONOGIRI (Perseroda), saat ini adalah hasil penggabungan usaha (MERGER) dari 12 ( dua belas) PT.BPR BKK di Kabupaten Wonogiri berdasarkan legalitas sebagai berikut :</p>
 
-1. Keputusan Deputi Gubernur Bank Indonesia No. 7/17/KEP.DpG/2005 tanggal 8 Desember 2005, tentang pemberian izin penggabungan Usaha (Merger);
-2. Keputusan Gubernur Jawa Tengah Nomor 503/78/2005 tanggal 30 Desember 2005, tentang persetujuan izin Penggabungan Usaha (merger);
-3. Anggaran Dasar PT. BPR BKK Wonogiri Kota No 04 Tanggal 03 September 2005 dan Perubahannya yang disahkan Notaris di Wonogiri Noor Saptanti,SH,MH;
-4. Peraturan Daerah Provinsi Jawa Tengah No 11 Tahun 2008 tanggal 23 Juni 2008 tentang PD.BPR BKK di Provinsi Jawa Tengah.
-5. Keputusan Otoritas Jasa Keuangan No. S-1025/KO.0301/2019 tanggal 14 November 2019 perihal Pengalihan Izin Usha BPR dari Badan Hukum Lama kepada Badan Hukum Baru, sehingga terhitung tanggal 14 November 2019 dan seterusnya menggunakan PT BPR BKK WONOGIRI (Perseroda).
+<p>1. Keputusan Deputi Gubernur Bank Indonesia No. 7/17/KEP.DpG/2005 tanggal 8 Desember 2005, tentang pemberian izin penggabungan Usaha (Merger);</p>
+<p>2. Keputusan Gubernur Jawa Tengah Nomor 503/78/2005 tanggal 30 Desember 2005, tentang persetujuan izin Penggabungan Usaha (merger);</p>
+<p>3. Anggaran Dasar PT. BPR BKK Wonogiri Kota No 04 Tanggal 03 September 2005 dan Perubahannya yang disahkan Notaris di Wonogiri Noor Saptanti,SH,MH;</p>
+<p>4. Peraturan Daerah Provinsi Jawa Tengah No 11 Tahun 2008 tanggal 23 Juni 2008 tentang PD.BPR BKK di Provinsi Jawa Tengah.</p>
+<p>5. Keputusan Otoritas Jasa Keuangan No. S-1025/KO.0301/2019 tanggal 14 November 2019 perihal Pengalihan Izin Usha BPR dari Badan Hukum Lama kepada Badan Hukum Baru, sehingga terhitung tanggal 14 November 2019 dan seterusnya menggunakan PT BPR BKK WONOGIRI (Perseroda).</p>
 
 
 ## Budaya Perusahaan:
 
-1. Pelayanan prima,pelayanan merupakan kunci keberhasilan perusahaan dan untuk memberikan pelayanan prima kepada nasabah dengan cara memberikan nilai lebih dari apa yang telah diberikan, sehingga nasabah puas dan menimbulkan kesan yang mendalam;
-2. Profesionalisme, pengelolaan usaha bank dilaksanakan sesuai kompetensi SDM dibandingnya yang menguasai pengetahuan dan ketrampilan perbankan serta kode etik banker yang dilandasi integritas yang tinggi;
-3. Tim yang solid, perusahaan akan memberdayakan seluruh potensi SDM untuk berpartisipasi aktif dan melakukan koordinasi yang efektif dalam memberikan kontribusi bagi peningkatan kinerja perusahaan dengan mengembangkan iklim kerjasama tim yang kondusif dan konstruktif;
-4. Wawasan kepemimpinan, wawasan dan pandangan yang luas ke depan dari pemimpin untuk mendorong SDM dalam melakukan proses kreativitas dan inovasi dalam pengelolaan kegiatan perusahaan yang berfokus pada manajemen kualitas dan manajemen resiko;
-5. Integritas, pengelolaan perusahaan tercermin dari sikap dan kepribadiaan yang ramah, sopan santun dan bertingkah laku dan tulus dalam memberikan pelayanan kepada masyarakat / nasabah serta dengan tegas dan transparan dalam memberlakukan penghargaan dan sanksi kepada pegawai yang tidak sesuai dengan peraturan perusahaan;
+<p>1. Pelayanan prima,pelayanan merupakan kunci keberhasilan perusahaan dan untuk memberikan pelayanan prima kepada nasabah dengan cara memberikan nilai lebih dari apa yang telah diberikan, sehingga nasabah puas dan menimbulkan kesan yang mendalam;</p>
+<p>2. Profesionalisme, pengelolaan usaha bank dilaksanakan sesuai kompetensi SDM dibandingnya yang menguasai pengetahuan dan ketrampilan perbankan serta kode etik banker yang dilandasi integritas yang tinggi;</p>
+<p>3. Tim yang solid, perusahaan akan memberdayakan seluruh potensi SDM untuk berpartisipasi aktif dan melakukan koordinasi yang efektif dalam memberikan kontribusi bagi peningkatan kinerja perusahaan dengan mengembangkan iklim kerjasama tim yang kondusif dan konstruktif;</p>
+<p>4. Wawasan kepemimpinan, wawasan dan pandangan yang luas ke depan dari pemimpin untuk mendorong SDM dalam melakukan proses kreativitas dan inovasi dalam pengelolaan kegiatan perusahaan yang berfokus pada manajemen kualitas dan manajemen resiko;</p>
+<p>5. Integritas, pengelolaan perusahaan tercermin dari sikap dan kepribadiaan yang ramah, sopan santun dan bertingkah laku dan tulus dalam memberikan pelayanan kepada masyarakat / nasabah serta dengan tegas dan transparan dalam memberlakukan penghargaan dan sanksi kepada pegawai yang tidak sesuai dengan peraturan perusahaan;</p>
 
 Statement budaya perusahaan
 
@@ -65,9 +88,15 @@ Prestasi dan penghargaan yang telah di raih PT BPR BKK WONOGIRI:
 Lihat Lebih lanjut tentang Profil PT BPR BKK WONOGIRI (Perseroda)
 
 - [BPR BKK Manajemen](/managemen/index)
-  Meliputi informasi tentang Dewan Pengawas, SKAI, Direksi dan Kepala Bidang
+  Meliputi informasi tentang Dewan Komisaris, SKAI, Direksi dan Kepala Bidang
 - [Jaringan Kantor](/about/kantor)
   Meliputi informasi tentang Kantor Cabang, Termasuk Alamat Kantor, dan Pimpinan Cabang 
+- Tata Cara Layanan Pengaduan Konsumen
+<div class="row">
+  <div class="column">
+    <img src="/images/KONSUMEN.png" style="width:100%">
+  </div>
+</div>
 - [Hubungi Kami Dibawah ini]
 
 <a href="https://www.facebook.com/bprbkkwonogiri/" class="buynow btn btn-inverse btn-inverse-primary">Facebook</a><a href="https://www.instagram.com/pt.bprbkkwonogiri/" class="buynow btn btn-inverse btn-inverse-primary">Instagram</a><a href="https://twitter.com/BPRBKK" class="buynow btn btn-inverse btn-inverse-primary">Twitter</a><a href="" class="buynow btn btn-inverse btn-inverse-primary">WhatApps</a>

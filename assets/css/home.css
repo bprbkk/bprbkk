@@ -1824,7 +1824,7 @@ a.text-default {
 	top: 0;
 	background: #000;
 	background: rgba(0, 0, 0, .8);
-	line-height: 25px;
+	line-height: 0px;
 	align-items: center;
 	z-index: 7
 }
@@ -1832,7 +1832,7 @@ a.text-default {
 .b-header .container {
 	max-width: 100%;
 	width: 100% !important;
-	padding: 0 23px
+	padding: 0 19px
 }
 
 .b-header .b-logo {

@@ -1824,7 +1824,7 @@ a.text-default {
 	top: 0;
 	background: #000;
 	background: rgba(0, 0, 0, .8);
-	line-height: 26px;
+	line-height: 45px;
 	z-index: 7
 }
 
@@ -1856,7 +1856,8 @@ a.text-default {
 .b-header a {
 	text-decoration: none;
 	font-size: 16px;
-	font-weight: 400
+	font-weight: 400;
+	gap: 10px;
 }
 
 .b-auth .b-auth--forgot,

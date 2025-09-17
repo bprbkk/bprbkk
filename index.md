@@ -8,8 +8,10 @@ li {
 li a{
     text-decoration:none;
 }
-ul{
+ul .dropdown-menu .show{
     background:none;
+    position: absolute !important
+    z-index: 100;
 }
 </style>
 <div class="b-banner b-banner__top b-banner__danger slide_up js-lifetime-banner">
@@ -26,7 +28,7 @@ ul{
 <div class="b-header">
 	<div class="container clearfix">
 		<div class="b-logo pull-left"></div>
-		<div class="js--header-user pull-right b-header--user">
+		<div class="js--header-user pull-right b-header--user d-inline-block">
 			<a href="/news" class="text-default">Berita</a>|
 			<!-- <a href="/ppid" class="text-default">PPID</a>| -->
             <a class="dropdown-toggle text-default" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Laporan</a>

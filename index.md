@@ -1,7 +1,17 @@
 ---
 layout: home
 ---
-
+<style>
+li {
+    list-style:none;
+}
+li a{
+    text-decoration:none;
+}
+.nav-item{
+    display:flex;
+}
+</style>
 <div class="b-banner b-banner__top b-banner__danger slide_up js-lifetime-banner">
 	<div class="container clearfix">
 		<i class="pull-left save"></i>

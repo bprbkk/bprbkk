@@ -8,8 +8,8 @@ li {
 li a{
     text-decoration:none;
 }
-.nav-item{
-    display:flex;
+ul{
+    background:inherit;
 }
 </style>
 <div class="b-banner b-banner__top b-banner__danger slide_up js-lifetime-banner">
@@ -29,22 +29,18 @@ li a{
 		<div class="js--header-user pull-right b-header--user">
 			<a href="/news" class="text-default">Berita</a>|
 			<!-- <a href="/ppid" class="text-default">PPID</a>| -->
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle text-default" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Laporan</a>
+            <a class="nav-link dropdown-toggle text-default" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Laporan</a>
                 <ul class="dropdown-menu">
                 <li><a class="dropdown-item text-default" href="/laptahunan/">Laporan Tahunan</a></li>
                 <li><a class="dropdown-item text-default" href="/publikasi/">Laporan Publikasi</a></li>
                 <li><a class="dropdown-item text-default" href="/laporan/">Laporan Tata Kelola</a></li>
                 <li><a class="dropdown-item text-default" href="/laporanbk/">Publikasi Penanganan Pengaduan</a></li>
                 </ul>
-            </li>
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle text-default" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Produk</a>
+            <a class="nav-link dropdown-toggle text-default" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Produk</a>
                 <ul class="dropdown-menu">
                 <li><a class="dropdown-item text-default" href="/produk/kredit">Kredit</a></li>
                 <li><a class="dropdown-item text-default" href="/produk/simpanan">Simpanan</a></li>
                 </ul>
-            </li>
 			<a href="/produk/simulasi" class="text-default">Simulasi Kredit</a>|
             <a href="/about" class="text-default">Tentang</a>           
 	    </div>

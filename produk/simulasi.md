@@ -4,8 +4,8 @@ layout: kredit
 
 
   <section id="simulasi" class="mt-0">
-    <div class="row justify-content-center">
-      <div class="card col-lg-7">
+    <div class="row justify-content-center mt-5">
+      <div class="card col-lg">
         <div class="card-body">
           <div class="row form">
             <div class="col-md-4">

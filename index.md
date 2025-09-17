@@ -19,10 +19,15 @@ layout: home
 		<div class="js--header-user pull-right b-header--user">
 			<a href="/news" class="text-default">Berita</a>|
 			<!-- <a href="/ppid" class="text-default">PPID</a>| -->
-            <a href="/laptahunan" class="text-default">Laporan Tahunan</a>|
-            <a href="/publikasi" class="text-default">Publikasi</a>|
-            <a href="/laporanpbk" class="text-default">Publikasi Penanganan Pengaduan</a>|
-            <a href="/laporan" class="text-default">Laporan Tata Kelola</a>|
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Laporan</a>
+                <ul class="dropdown-menu">
+                <li><a class="dropdown-item text-default" href="/laptahunan/">Laporan Tahunan</a></li>
+                <li><a class="dropdown-item text-default" href="/publikasi/">Laporan Publikasi</a></li>
+                <li><a class="dropdown-item text-default" href="/laporan/">Laporan Tata Kelola</a></li>
+                <li><a class="dropdown-item text-default" href="/laporanbk/">Publikasi Penanganan Pengaduan</a></li>
+                </ul>
+            </li>
             <a href="/produk/kredit" class="text-default">Kredit</a>|
             <a href="/produk/simpanan" class="text-default">Simpanan</a>|
 			<a href="/produk/simulasi" class="text-default">Simulasi Kredit</a>|

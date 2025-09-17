@@ -9,7 +9,7 @@ li a{
     text-decoration:none;
 }
 ul{
-    background:inherit;
+    background:none;
 }
 </style>
 <div class="b-banner b-banner__top b-banner__danger slide_up js-lifetime-banner">
@@ -29,14 +29,14 @@ ul{
 		<div class="js--header-user pull-right b-header--user">
 			<a href="/news" class="text-default">Berita</a>|
 			<!-- <a href="/ppid" class="text-default">PPID</a>| -->
-            <a class="nav-link dropdown-toggle text-default" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Laporan</a>
+            <a class="dropdown-toggle text-default" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Laporan</a>
                 <ul class="dropdown-menu">
                 <li><a class="dropdown-item text-default" href="/laptahunan/">Laporan Tahunan</a></li>
                 <li><a class="dropdown-item text-default" href="/publikasi/">Laporan Publikasi</a></li>
                 <li><a class="dropdown-item text-default" href="/laporan/">Laporan Tata Kelola</a></li>
                 <li><a class="dropdown-item text-default" href="/laporanbk/">Publikasi Penanganan Pengaduan</a></li>
                 </ul>
-            <a class="nav-link dropdown-toggle text-default" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Produk</a>
+            <a class="dropdown-toggle text-default" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Produk</a>
                 <ul class="dropdown-menu">
                 <li><a class="dropdown-item text-default" href="/produk/kredit">Kredit</a></li>
                 <li><a class="dropdown-item text-default" href="/produk/simpanan">Simpanan</a></li>

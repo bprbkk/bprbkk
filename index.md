@@ -20,7 +20,7 @@ layout: home
 			<a href="/news" class="text-default">Berita</a>|
 			<!-- <a href="/ppid" class="text-default">PPID</a>| -->
             <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Laporan</a>
+                <a class="nav-link dropdown-toggle text-default" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Laporan</a>
                 <ul class="dropdown-menu">
                 <li><a class="dropdown-item text-default" href="/laptahunan/">Laporan Tahunan</a></li>
                 <li><a class="dropdown-item text-default" href="/publikasi/">Laporan Publikasi</a></li>
@@ -28,8 +28,13 @@ layout: home
                 <li><a class="dropdown-item text-default" href="/laporanbk/">Publikasi Penanganan Pengaduan</a></li>
                 </ul>
             </li>
-            <a href="/produk/kredit" class="text-default">Kredit</a>|
-            <a href="/produk/simpanan" class="text-default">Simpanan</a>|
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle text-default" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Produk</a>
+                <ul class="dropdown-menu">
+                <li><a class="dropdown-item text-default" href="/produk/kredit">Kredit</a></li>
+                <li><a class="dropdown-item text-default" href="/produk/simpanan">Simpanan</a></li>
+                </ul>
+            </li>
 			<a href="/produk/simulasi" class="text-default">Simulasi Kredit</a>|
             <a href="/about" class="text-default">Tentang</a>           
 	    </div>

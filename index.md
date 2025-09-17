@@ -1,19 +1,7 @@
 ---
 layout: home
 ---
-<style>
-li {
-    list-style:none;
-}
-li a{
-    text-decoration:none;
-}
-ul .dropdown-menu .show{
-    background:none;
-    position: absolute !important
-    z-index: 100;
-}
-</style>
+
 <div class="b-banner b-banner__top b-banner__danger slide_up js-lifetime-banner">
 	<div class="container clearfix">
 		<i class="pull-left save"></i>
@@ -31,18 +19,12 @@ ul .dropdown-menu .show{
 		<div class="js--header-user pull-right b-header--user d-inline-block">
 			<a href="/news" class="text-default">Berita</a>|
 			<!-- <a href="/ppid" class="text-default">PPID</a>| -->
-            <a class="dropdown-toggle text-default" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Laporan</a>
-                <ul class="dropdown-menu">
-                <li><a class="dropdown-item text-default" href="/laptahunan/">Laporan Tahunan</a></li>
-                <li><a class="dropdown-item text-default" href="/publikasi/">Laporan Publikasi</a></li>
-                <li><a class="dropdown-item text-default" href="/laporan/">Laporan Tata Kelola</a></li>
-                <li><a class="dropdown-item text-default" href="/laporanbk/">Publikasi Penanganan Pengaduan</a></li>
-                </ul>
-            <a class="dropdown-toggle text-default" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Produk</a>
-                <ul class="dropdown-menu">
-                <li><a class="dropdown-item text-default" href="/produk/kredit">Kredit</a></li>
-                <li><a class="dropdown-item text-default" href="/produk/simpanan">Simpanan</a></li>
-                </ul>
+            <a class="text-default" href="/laptahunan/">Laporan Tahunan|</a>
+            <a class="text-default" href="/publikasi/">Laporan Publikasi|</a>
+            <a class="text-default" href="/laporan/">Laporan Tata Kelola|</a>
+            <a class="text-default" href="/laporanbk/">Publikasi Penanganan Pengaduan|</a>        
+            <a class="text-default" href="/produk/kredit">Kredit|</a>
+            <a class="text-default" href="/produk/simpanan">Simpanan|</a>
 			<a href="/produk/simulasi" class="text-default">Simulasi Kredit</a>|
             <a href="/about" class="text-default">Tentang</a>           
 	    </div>

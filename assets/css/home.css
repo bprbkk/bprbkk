@@ -1781,10 +1781,10 @@ a.text-default {
 }
 
 .section4 {
-	background: url(/images/Undian2024/Konser188.png);
+	background: url(/images/undian2025/FOTOPEMENANG-2025.jpg);
 	background-size: cover;
-	top: -30px;
-	bottom: 100px;
+	/* top: -30px; */
+	/* bottom: 100px; */
 }
 
 .section4 .loader {

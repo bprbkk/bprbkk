@@ -18,7 +18,7 @@ layout: home
 		<div class="b-logo pull-left"></div>
 		<div class="js--header-user pull-right b-header--user d-inline-block">
 			<a href="/news" class="text-default">Berita</a>|
-			<!-- <a href="/ppid" class="text-default">PPID</a>| -->
+			<a href="/ppid" class="text-default">PPID</a>|
             <a class="text-default" href="/laptahunan/">Laporan Tahunan|</a>
             <a class="text-default" href="/publikasi/">Laporan Publikasi|</a>
             <a class="text-default" href="/laporan/">Laporan Tata Kelola|</a>

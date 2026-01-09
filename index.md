@@ -22,7 +22,7 @@ layout: home
             <a class="text-default" href="/laptahunan/">Laporan Tahunan|</a>
             <a class="text-default" href="/publikasi/">Laporan Publikasi|</a>
             <a class="text-default" href="/laporan/">Laporan Tata Kelola|</a>
-            <a class="text-default" href="/laporanbk/">Publikasi Penanganan Pengaduan|</a>        
+            <a class="text-default" href="/laporanpbk/">Publikasi Penanganan Pengaduan|</a>        
             <a class="text-default" href="/produk/kredit">Kredit|</a>
             <a class="text-default" href="/produk/simpanan">Simpanan|</a>
 			<a href="/produk/simulasi" class="text-default">Simulasi Kredit</a>|

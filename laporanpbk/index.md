@@ -15,4 +15,3 @@ PUBLIKASI PENANGANAN PENGADUAN      		| 2022  			| [Download](/laporanpbk/2022/P
 PUBLIKASI PENANGANAN PENGADUAN      		| 2023  			| [Download](/laporanpbk/2023/Publikasi Penanganan Pengaduan.pdf)
 PUBLIKASI PENANGANAN PENGADUAN      		| 2024  			| [Download](/laporanpbk/2024/PUBLIKASI PENANGANAN PENGADUAN.pdf)
 PUBLIKASI PENANGANAN PENGADUAN      		| 2025  			| [Download](/laporanpbk/2025/Penanganan Pengaduan 2025.pdf)
-<!-- PUBLIKASI PENANGANAN PENGADUAN      		| 2026  			| [Download](/laporanpbk/2026/Penanganan Pengaduan 2026.pdf) -->

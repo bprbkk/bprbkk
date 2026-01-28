@@ -64,4 +64,4 @@ KERTAS KERJA LAPORAN TATA KELOLA 2024		| 2024  			| [Download](/laporan/2024/LAP
 
 | Jenis Laporan:                            | Tahun             | File Download |
 ------------------------------------------- | ----------------- | ------------- |
-KERTAS KERJA LAPORAN TATA KELOLA 2025		| 2025  			| [Download](/laporan/2025/TATA KELOLA SEMESTER 1 TAHUN 2025.pdf)
+KERTAS KERJA LAPORAN TATA KELOLA 2025		| 2025  			| [Download](/laporan/2025/LAPORAN TRANSPARANSI PELAKSANAAN TATA KELOLA TAHUN 2025.pdf)

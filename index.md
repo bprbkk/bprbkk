@@ -26,7 +26,7 @@ layout: home
             <a class="text-default" href="/produk/kredit">Kredit|</a>
             <a class="text-default" href="/produk/simpanan">Simpanan|</a>
 			<a href="/produk/simulasi" class="text-default">Simulasi Kredit</a>|
-            <a href="/about" class="text-default">Tentang</a>           
+            <!-- <a href="/about" class="text-default">Tentang</a>            -->
 	    </div>
 	</div>
 </div>

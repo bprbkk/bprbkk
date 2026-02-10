@@ -32,7 +32,7 @@ p{
 </style>
 ## PT BPR BKK WONOGIRI (Perseroda) rengkuh berbagai prestasi di Tahun 2025
 
-<p>"Kabar terbaru datang dari PT BPR BKK WONOGIRI (Perseroda). Dilansir dari <a href='https://radarsolo.jawapos.com/'>Radar Solo Jawapos</a>, PT BPR BKK WONOGIRI (Perseroda) menutup tahun 2025 dengan pencapaian yang optimal dan menorehkan banyak prestasi.</p>
+<p>Kabar terbaru datang dari PT BPR BKK WONOGIRI (Perseroda). Dilansir dari <a href='https://radarsolo.jawapos.com/'>Radar Solo Jawapos</a>, PT BPR BKK WONOGIRI (Perseroda) menutup tahun 2025 dengan pencapaian yang optimal dan menorehkan banyak prestasi.</p>
 
-<p>Selengkapnya baca di sini :</p><a href='https://radarsolo.jawapos.com/wonogiri/847172331/pt-bpr-bkk-wonogiri-perseroda-rengkuh-prestasi-di-2025-optimalkan-pelayanan-bagi-masyarakat'>Radar Solo Jawapos</a>
+<p>Selengkapnya baca di sini :</p><a href='https://radarsolo.jawapos.com/wonogiri/847172331/pt-bpr-bkk-wonogiri-perseroda-rengkuh-prestasi-di-2025-optimalkan-pelayanan-bagi-masyarakat'>"PT BPR BKK WONOGIRI Rengkuh Prestasi di 2025 Optimalkan Pelayanan bagi masyarakat"</a>
 

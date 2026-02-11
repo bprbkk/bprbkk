@@ -32,7 +32,7 @@ p{
 </style>
 ## PENGUMUMAN PRAKUALIFIKASI PENGADADAAN JASA DUE DILIGENCE BPR SATU JATENG
 
-<p>Dalam rangka melaksanakan pengadaan Jasa Due Diligence BPR, dengan ini diumumkan kepada penyedia jasa konsultansi yang memenuhi syarat untuk mengikuti prakualifikasi dengan ketentuan sebagai berikut yang dapat diunduh melalui link : <a href='https://www.bprsatujateng.com/'>BPRSATUJATENG</a> atau dari file : <a href='/news/pdf/pengumuman_selektif.pdf'>pengumuman selektif due diligence</a></p>
+<p>Dalam rangka melaksanakan pengadaan Jasa Due Diligence BPR, dengan ini diumumkan kepada penyedia jasa konsultansi yang memenuhi syarat untuk mengikuti prakualifikasi dengan ketentuan yang dapat diunduh melalui link : <a href='https://www.bprsatujateng.com/'>www.bprsatujateng.com</a> atau dari file : <a href='/news/pdf/pengumuman_selektif.pdf'>pengumuman selektif due diligence</a></p>
 
 <div class="row">
   <div class="column">

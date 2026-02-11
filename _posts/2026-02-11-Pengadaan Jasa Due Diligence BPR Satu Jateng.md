@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pengadaan Jasa Due Diligence BPR SATU JATENG"
+title: "PENGUMUMAN PRAKUALIFIKASI PENGADADAAN JASA DUE DILIGENCE BPR SATU JATENG"
 subtitle:   ""
 description: ""
 author: "Admin"
@@ -30,7 +30,7 @@ p{
     text-align:justify;
 }
 </style>
-## Pengadaan Jasa Due Diligence BPR SATU JATENG
+## PENGUMUMAN PRAKUALIFIKASI PENGADADAAN JASA DUE DILIGENCE BPR SATU JATENG
 
 <p>Dalam rangka melaksanakan pengadaan Jasa Due Diligence BPR, dengan ini diumumkan kepada penyedia jasa konsultansi yang memenuhi syarat untuk mengikuti prakualifikasi dengan ketentuan sebagai berikut yang dapat diunduh melalui link : <a href='https://www.bprsatujateng.com/'>BPRSATUJATENG</a></p>
 

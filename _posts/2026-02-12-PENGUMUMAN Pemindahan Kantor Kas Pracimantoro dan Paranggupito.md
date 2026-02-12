@@ -41,7 +41,6 @@ table, th, td {
 <p>Di Informasikan kepada seluruh Nasabah PT BPR BKK WONOGIRI (Perseroda) Bahwa Per - <b>01 Maret 2026</b> Kantor Kas Pracimantoro dan Paranggupito berpindah alamat sebagai berikut :</p>
 
 <div class="row">
-<div class="column">
   <table>
     <tr>
       <th>Nama Kantor Kas</th>
@@ -59,7 +58,6 @@ table, th, td {
       <td>Dusun Parang RT 01 RW 01, Desa Paranggupito, Kecamatan Paranggupito</td>
     </tr>
   </table>
-</div>
 </div>
 
 <p></p>

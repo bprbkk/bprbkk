@@ -32,8 +32,9 @@ p{
 </style>
 ## PENGUMUMAN Pemindahan Kantor Kas Pracimantoro dan Paranggupito PT BPR BKK WONOGIRI (Perseroda)
 
-<p>Di Informasikan kepada seluruh Nasabah PT BPR BKK WONOGIRI (Perseroda) Bahwa Per - <b>01 Maret 2026<b> Kantor Kas Pracimantoro dan Paranggupito berpindah alamat sebagai berikut :</p>
-
+<p>Di Informasikan kepada seluruh Nasabah PT BPR BKK WONOGIRI (Perseroda) Bahwa Per - <b>01 Maret 2026</b> Kantor Kas Pracimantoro dan Paranggupito berpindah alamat sebagai berikut :</p>
+<p></p>
+<div class="row">
 <table>
 <tr>
 <th>Nama Kantor Kas<th>
@@ -42,23 +43,20 @@ p{
 </tr>
 <tr>
 <td>Kantor Kas Pracimantoro</td>
-<td>Kantor Kas Paranggupito</td>
-</tr>
-<!-- alamat lama -->
-<tr>
 <td>Kios No A101 dan A102 Terminal Bus Pracimantoro, RT 01 RW 01 Godang Pracimantoro</td>
-<td>Dusun Parang RT 02 RW 01, Desa Paranggupito, Kecamatan Paranggupito</td>
-</tr>
-<!-- alamat baru -->
-<tr>
 <td>Ngulu Lor RT 04 RW 07 Pracimantoro (Ruko Sebelah Selatan Alfamidi Pracimantoro)</td>
+</tr>
+<tr>
+<td>Kantor Kas Paranggupito</td>
+<td>Dusun Parang RT 02 RW 01, Desa Paranggupito, Kecamatan Paranggupito</td>
 <td>Dusun Parang RT 01 RW 01, Desa Paranggupito, Kecamatan Paranggupito</td>
 </tr>
 </table>
+</div>
 
 <div class="row">
   <div class="column">
-    <img src="/images/pindahkankas/1.png" style="width:100%">
+    <img src="/images/pindahkankas/1 (2).png" style="width:100%">
   </div>
   <div class="column">
     <img src="/images/pindahkankas/2.png" style="width:100%">

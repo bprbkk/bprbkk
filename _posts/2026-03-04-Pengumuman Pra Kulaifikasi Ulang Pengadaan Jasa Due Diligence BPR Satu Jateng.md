@@ -36,7 +36,7 @@ p{
 
 <div class="row">
   <div class="column">
-    <img src="/images/duediligence/Lelang DUE DILIGENCE.png" style="width:100%">
+    <!-- <img src="/images/duediligence/Lelang DUE DILIGENCE.png" style="width:100%"> -->
   </div>
 </div>
 

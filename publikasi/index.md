@@ -12,6 +12,8 @@ header-img: "images/BPRBKK.png"
 I				| 2025				| [Download](/publikasi/2025/LAPORAN PUBLIKASI TRIWULAN I.pdf)
 II				| 2025				| [Download](/publikasi/2025/LAPORAN PUBLIKASI TRIWULAN II TAHUN 2025.pdf)
 III				| 2025				| [Download](/publikasi/2025/LAPORAN PUBLIKASI TRIWULAN III 2025.pdf)
+IV				| 2025				| [Download](/publikasi/2025/LAPORAN PUBLIKASI TRIWULAN IV 2025.pdf)
+
 
 ## Tahun 2024
 

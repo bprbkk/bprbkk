@@ -1,8 +1,8 @@
 ---
 layout: page
 title: LAPORAN KEBERLANJUTAN PT BPR BKK WONOGIRI (Perseroda)
-description: "Laporan Keberlanjutan: Perbankan PT BPR BKK WONOGIRI (Perseroda)"
-header-img: "images/publkasi.jpg"
+description: "Laporan Keberlanjutan: PT BPR BKK WONOGIRI (Perseroda)"
+header-img: "images/BPRBKK.png"
 ---
 
 ## Tahun 2025

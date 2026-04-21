@@ -11,4 +11,4 @@ header-img: "images/BPRBKK.png"
 | ----- | ------------- |
 |  2024	| [Download](/laptahunan/2024/LAPORAN TAHUNAN 2024 GABUNGAN PT BPR BKK WONOGIRI (Perseroda).pdf)
 
-|  2024	| [Download](/laptahunan/2025/LENGKAP LAPORAN TAHUNAN 2025.pdf)
+|  2025	| [Download](/laptahunan/2025/LENGKAP LAPORAN TAHUNAN 2025.pdf)

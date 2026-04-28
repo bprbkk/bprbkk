@@ -1829,7 +1829,6 @@ section,
 .b-header {
 	top: 0;
 	background: #000;
-	background: rgba(0, 0, 0, .8);
 	line-height: normal;
 	align-items: center;
 	position: relative;
@@ -1838,13 +1837,12 @@ section,
 }
 
 .b-header .container {
-	max-width: 100%;
-	width: 100% !important;
-	padding: 0 15px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	/* bikin center */
+	max-width: 100%;
+	width: 100% !important;
+	padding: 0 15px;
 }
 
 .b-header .b-logo {

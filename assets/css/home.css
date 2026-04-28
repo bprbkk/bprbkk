@@ -1878,11 +1878,14 @@ section,
 }
 
 .dropdown-item:hover {
-	background: rgba(255, 255, 255, 0.08);
+	background: rgba(255, 255, 255, 0);
 	color: #fff;
 	padding-left: 22px;
 }
 
+.dropdown:hover .dropdown-menu {
+	display: block;
+}
 
 .b-header .u_exit,
 .b-header a {

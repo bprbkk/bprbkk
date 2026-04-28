@@ -1820,6 +1820,12 @@ a.text-default {
 	font-weight: 300
 }
 
+section,
+.hero,
+.banner {
+	overflow: visible !important;
+}
+
 .b-header {
 	top: 0;
 	background: #000;

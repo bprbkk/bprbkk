@@ -1832,7 +1832,7 @@ a.text-default {
 .b-header .container {
 	max-width: 100%;
 	width: 100% !important;
-	padding: 0 19px
+	padding: 0 15px
 }
 
 .b-header .b-logo {
@@ -1858,7 +1858,7 @@ a.text-default {
 	text-decoration: none;
 	font-size: 15px;
 	font-weight: 400;
-	gap: 9px;
+	gap: 6px;
 }
 
 .b-auth .b-auth--forgot,

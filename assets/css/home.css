@@ -1848,6 +1848,26 @@ a.text-default {
 	font-weight: 400
 }
 
+/* dropdown */
+
+.dropdown-menu {
+	background-color: rgba(0, 0, 0, 0.9);
+	border: none;
+}
+
+.dropdown-item {
+	color: #fff;
+}
+
+.dropdown-item:hover {
+	background-color: #333;
+	color: #fff;
+}
+
+.dropdown:hover .dropdown-menu {
+	display: block;
+}
+
 .b-header .u_exit,
 .b-header a {
 	display: inline-block;

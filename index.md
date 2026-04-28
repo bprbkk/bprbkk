@@ -16,7 +16,7 @@ layout: home
 <div class="b-header">
 	<div class="container clearfix">
 		<div class="b-logo pull-left"></div>
-		<div class="js--header-user pull-right b-header--user d-inline-block">
+		<div class="js--header-user b-header--user d-inline-block">
 			<a href="/news" class="text-default">Berita</a>
 			<a href="/ppid" class="text-default">PPID</a>
             <div class="dropdown d-inline-block">
@@ -30,15 +30,15 @@ layout: home
                 <li><a class="dropdown-item" href="/laporanpbk/">Penanganan Pengaduan</a></li>
                 <li><a class="dropdown-item" href="/keberlanjutan/">Lap. Keberlanjutan</a></li>
                 </ul>
-            </div>|
+            </div>
             <!-- <a class="text-default" href="/laptahunan/">Laporan Tahunan|</a> -->
             <!-- <a class="text-default" href="/publikasi/">Laporan Publikasi|</a> -->
             <!-- <a class="text-default" href="/laporan/">Laporan Tata Kelola|</a> -->
             <!-- <a class="text-default" href="/laporanpbk/">Publikasi Penanganan Pengaduan|</a>         -->
             <!-- <a class="text-default" href="/keberlanjutan/">Lap. Keberlanjutan|</a>         -->
-            <a class="text-default" href="/produk/kredit">Kredit|</a>
-            <a class="text-default" href="/produk/simpanan">Simpanan|</a>
-			<a href="/produk/simulasi" class="text-default">Simulasi Kredit</a>|
+            <a class="text-default" href="/produk/kredit">Kredit</a>
+            <a class="text-default" href="/produk/simpanan">Simpanan</a>
+			<a href="/produk/simulasi" class="text-default">Simulasi Kredit</a>
             <a href="/about" class="text-default">Tentang</a> 
 	    </div>
 	</div>

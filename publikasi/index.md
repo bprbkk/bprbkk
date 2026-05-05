@@ -5,6 +5,12 @@ description: "Transparansi Perbankan"
 header-img: "images/BPRBKK.png"
 ---
 
+## Tahun 2026
+
+| Triwulan Ke:	| Tahun | File Download |
+--------------- | ------- | ------------- |
+I				| 2026				| [Download](/publikasi/2026/LAPORAN PUBLIKASI MARET 2026 TTD.pdf)
+
 ## Tahun 2025
 
 | Triwulan Ke:	| Tahun | File Download |

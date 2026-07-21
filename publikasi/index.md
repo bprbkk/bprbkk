@@ -10,6 +10,7 @@ header-img: "images/BPRBKK.png"
 | Triwulan Ke:	| Tahun | File Download |
 --------------- | ------- | ------------- |
 I				| 2026				| [Download](/publikasi/2026/LAPORAN PUBLIKASI MARET 2026 TTD.pdf)
+II				| 2026				| [Download](/publikasi/2026/LAPORAN_PUBLIKASI_TW_2_TAHUN_2026.pdf)
 
 ## Tahun 2025
 

@@ -4,7 +4,7 @@ title: "PT BPR BKK WONOGIRI KEMBALI RAIH PLATINUM CHAMPION INFOBANK AWARD 2026"
 subtitle:   ""
 description: ""
 author: "Admin"
-date: 2026-08-04 11.15
+date: 2026-08-21 11.15
 header-img: "images/BPRBKK.png"
 ---
 

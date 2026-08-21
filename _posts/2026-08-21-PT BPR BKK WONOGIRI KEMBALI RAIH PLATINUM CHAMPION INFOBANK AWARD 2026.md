@@ -33,7 +33,7 @@ p{
 ## PT BPR BKK WONOGIRI KEMBALI RAIH PLATINUM CHAMPION INFOBANK AWARD 2026
 <h3>BPR dengan Kinerja Sangat Bagus Selama 10 Tahun Berturut-turut, 2017–2026</h3>
 
-<div class="row">
+<div class="row" style="text-align:center;">
   <div class="column">
     <img src="\images\infobank2026\1.jpeg" style="width:100%">
   </div>

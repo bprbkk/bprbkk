@@ -70,4 +70,4 @@ KERTAS KERJA LAPORAN TATA KELOLA 2025		| 2025  			| [Download](/laporan/2025/LAP
 
 | Jenis Laporan:                            | Tahun             | File Download |
 ------------------------------------------- | ----------------- | ------------- |
-KERTAS KERJA LAPORAN TATA KELOLA 2026		| 2026  			| [Download](/laporan/2028/LAPORAN TATA KELOLA SEMESTER 1 2026.pdf)
+KERTAS KERJA LAPORAN TATA KELOLA 2026		| 2026  			| [Download](/laporan/2026/LAPORAN TATA KELOLA SEMESTER 1 2026.pdf)

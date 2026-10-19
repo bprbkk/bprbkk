@@ -4,7 +4,7 @@ title: "PUNCAK ACARA SPEKTAMADES UNDIAN TABUNGAN PT BPR BKK WOHOGIRI (Perseroda)
 subtitle:   ""
 description: ""
 author: "Admin"
-date: 2026-08-21 11.15
+date: 2026-10-18 09.15
 header-img: "images/BPRBKK.png"
 ---
 
@@ -35,7 +35,7 @@ p{
 
 <div class="row" style="display:flex; justify-content:center;">
   <div class="column">
-    <img src="\images\infobank2026\1.jpeg" style="width:100%">
+    <img src="" style="width:100%">
   </div>
 </div>
 

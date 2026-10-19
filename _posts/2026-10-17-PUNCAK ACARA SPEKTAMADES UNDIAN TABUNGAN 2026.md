@@ -52,6 +52,6 @@ Direktur Utama PT BPR BKK WONOGIRI (Perseroda) dalam keterangannya menegaskan ko
 Rangkaian kegiatan Spektamades 2026 kemudian ditutup dengan konser musik yang menambah kemeriahan suasana hingga akhir acara. Hiburan tersebut menjadi penutup dari rangkaian kegiatan yang memadukan apresiasi nasabah, edukasi keuangan, hiburan masyarakat, dan kepedulian sosial.
 Melalui penyelenggaraan Spektamades 2026, PT BPR BKK WONOGIRI (Perseroda) menegaskan komitmennya untuk terus membangun hubungan yang erat dengan nasabah, meningkatkan literasi keuangan masyarakat, serta menghadirkan kontribusi sosial yang berkelanjutan demi mendukung kesejahteraan masyarakat Wonogiri. </p>
 
-<a href='https://www.bprsatujateng.com/'>PUNCAK ACARA SPEKTAMADES UNDIAN TABUNGAN PT BPR BKK WOHOGIRI (Perseroda) TAHUN 2026</a> 
+<a href='https://www.youtube.com/watch?v=7Mx2DesrBlU'>PUNCAK ACARA SPEKTAMADES UNDIAN TABUNGAN PT BPR BKK WOHOGIRI (Perseroda) TAHUN 2026</a> 
 
 
